@@ -1,0 +1,23 @@
+---
+type: concept
+title: 莱布尼茨记号
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 记号, 微积分]
+related: [莱布尼茨, 单变量微分法则, 偏导数, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 莱布尼茨记号
+
+莱布尼茨记号指以商式 $\frac{\mathrm{d}y}{\mathrm{d}x}$ 或 $\frac{\mathrm{d}f}{\mathrm{d}x}$ 表示导数的写法，得名于 [[莱布尼茨]]。在《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8 节中，这一记号是表 0.37 [[单变量微分法则]] 的表述形式：表列名即写作「以莱布尼茨记号表示的公式」。
+
+## 在本节中的体现
+
+- 表 0.35 脚注指出，也可把 $f'(x)$ 写成 $\frac{\mathrm{d}f(x)}{\mathrm{d}x}$ 或 $\frac{\mathrm{d}y}{\mathrm{d}x}$，即 $f'$ 的撇号记号与莱布尼茨记号互相等价。
+- 表 0.37 的六条法则均以 $\frac{\mathrm{d}}{\mathrm{d}x}$ 形式给出，包括链式法则 $\frac{\mathrm{d}y}{\mathrm{d}x} = \frac{\mathrm{d}y}{\mathrm{d}z}\frac{\mathrm{d}z}{\mathrm{d}x}$ 与反函数法则 $\frac{\mathrm{d}x}{\mathrm{d}y} = 1\big/\frac{\mathrm{d}y}{\mathrm{d}x}$。
+- 进入多变量情形后，记号由 $\mathrm{d}$ 改为偏导记号 $\partial$，即 [[偏导数]] $\frac{\partial f}{\partial x}$，[[全微分]]则写作 $\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y$。
+
+## 意义
+
+莱布尼茨记号使链式法则具有「分数约去」的直观形式（$\frac{\mathrm{d}y}{\mathrm{d}z}\frac{\mathrm{d}z}{\mathrm{d}x}$），也使反函数法则呈现为倒数关系，这两点正是表 0.37 中相关两行的表述动机。

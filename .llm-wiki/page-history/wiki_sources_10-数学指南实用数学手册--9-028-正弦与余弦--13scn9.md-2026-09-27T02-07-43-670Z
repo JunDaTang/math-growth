@@ -1,0 +1,322 @@
+---
+type: source
+title: "《数学指南——实用数学手册》0.2.8 正弦与余弦"
+authors: ["《数学指南——实用数学手册》编者"]
+year: null
+url: ""
+venue: ""
+created: 2026-09-27
+updated: 2026-09-27
+tags: [数学, 三角函数, 初等函数, 欧拉公式, 棣莫弗公式, 三角恒等式]
+related: [正弦与余弦, 三角函数的幂级数定义, 三角函数的指数表示, 正弦余弦加法定理, 棣莫弗公式, 欧拉公式, 欧拉, 棣莫弗]
+sources: ["数学指南_实用数学手册/0.2.8 正弦与余弦.md"]
+---
+
+# 《数学指南——实用数学手册》0.2.8 正弦与余弦
+
+本页是《数学指南——实用数学手册》第 0.2 节「初等函数及其图示」下属小节 **0.2.8 正弦与余弦** 的摄入摘要。该小节以「分析的定义」为出发点，用幂级数定义 $\sin x$ 与 $\cos x$，再由 [[欧拉公式]] 统一导出几乎全部三角恒等式，最后给出乘积分解、部分分式、导数与历史评论。手册未在本节标注中文版出版年份。
+
+## 分析的定义 (0.34)
+
+$$
+\sin x = x - \frac{x^{3}}{3!} + \frac{x^{5}}{5!} - \dots = \sum_{k=0}^{\infty} (-1)^{k} \frac{x^{2k+1}}{(2k+1)!},
+$$
+$$
+\cos x = 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \dots = \sum_{k=0}^{\infty} (-1)^{k} \frac{x^{2k}}{(2k)!}.
+\tag{0.34}
+$$
+
+手册强调：**对所有复数 $x$，这两个级数都收敛**。这一「分析的定义」不依赖任何几何直观，是本节后续所有推导的基础，详见 [[三角函数的幂级数定义]]。
+
+## 欧拉公式与指数表示 (0.35)–(0.36)
+
+欧拉公式（手册标注年份 1749），对所有复数 $x$ 成立：
+
+$$
+\mathrm{e}^{\pm \mathrm{i}x} = \cos x \pm \mathrm{i}\sin x.
+\tag{0.35}
+$$
+
+手册对其地位的评价是：**「这个公式支配着三角函数的整个理论」**。由 $\mathrm{e}^{\mathrm{i}x},\cos x,\sin x$ 的幂级数展开 (0.33) 与 (0.34) 即可得到 (0.35)，只需注意 $\mathrm{i}^{2} = -1$。手册同时指出其重要应用在**振动理论**中。
+
+由此反解出三角函数的指数表示：
+
+$$
+\sin x = \frac{\mathrm{e}^{\mathrm{i}x} - \mathrm{e}^{-\mathrm{i}x}}{2\mathrm{i}}, \qquad \cos x = \frac{\mathrm{e}^{\mathrm{i}x} + \mathrm{e}^{-\mathrm{i}x}}{2}.
+\tag{0.36}
+$$
+
+见 [[欧拉公式]]、[[三角函数的指数表示]]。
+
+## 加法定理 (0.37)
+
+由 (0.36) 与指数加法定理 $\mathrm{e}^{u+v} = \mathrm{e}^{u}\mathrm{e}^{v}$，对所有复数 $x$ 和 $y$：
+
+$$
+\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y,
+$$
+$$
+\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y.
+\tag{0.37}
+$$
+
+见 [[正弦余弦加法定理]]。
+
+## 偶性与奇性
+
+对所有复数 $x$：
+
+$$
+\sin(-x) = -\sin x, \qquad \cos(-x) = \cos x.
+$$
+
+## 在直角三角形上的几何解释（表 0.16）
+
+设角 $x$ 以弧度为单位（参看 0.1.2，即 [[角度制与弧度制]]），则 $\sin x$ 与 $\cos x$ 可表示为边的比。符号「$\sin x$」读作「$x$ 的正弦」，「$\cos x$」读作「$x$ 的余弦」；拉丁语 *sinus* 表示「凸出」。
+
+表 0.16 根据直角三角形对三角函数的解释（$0 < x < \pi/2$）：
+
+| | 正弦 | 余弦 |
+|---|---|---|
+| 几何量 | $\sin x = \dfrac{a}{c}$（对边 $a$ 与斜边 $c$ 的比） | $\cos x = \dfrac{b}{c}$（邻边 $b$ 与斜边 $c$ 的比） |
+
+手册还提到旧文献中使用的两个函数：
+
+$$
+\text{正割}: \sec x := \frac{1}{\cos x}, \qquad \text{余割}: \csc x := \frac{1}{\sin x}.
+$$
+
+## 在单位圆上的几何解释与周期性 (0.38)
+
+利用单位圆，$\sin x$ 与 $\cos x$ 化为图 0.31(a)~(d) 所示的线段长，由此立即可知旋转 $2\pi$ 后取值不变：
+
+$$
+\sin(x + 2\pi) = \sin x, \qquad \cos(x + 2\pi) = \cos x.
+\tag{0.38}
+$$
+
+手册指出：**对所有复变量 $x$，这些关系都成立**。见 [[单位圆与直角三角形中的三角函数]]。
+
+## 对称性 (0.39) 与毕达哥拉斯关系 (0.40)
+
+重看单位圆，对 $0 \leqslant x \leqslant \pi/2$ 存在一组对称关系，手册编号为 (0.39)。**注意：本来源的 OCR 文本在此处仅保留了编号 (0.39)，未保留公式本体**，具体条目待补（见 [[正弦余弦对称性公式039的具体形式]]）。手册称「事实上，对所有复数 $x$，这些关系都成立」。
+
+由单位圆图 0.31(a) 与毕达哥拉斯定理，得：
+
+$$
+\cos^{2} x + \sin^{2} x = 1.
+\tag{0.40}
+$$
+
+手册强调该关系不仅对实变量成立，**对所有复变量 $x$ 也成立**。见 [[毕达哥拉斯三角恒等式]]、[[毕达哥拉斯定理]]。
+
+进一步，由加法定理 (0.37)、$\sin 0 = \sin 2\pi = 0$ 与 $\cos 0 = \cos 2\pi = 1$，很容易得到 (0.38)、(0.39) 和 (0.40) 对所有复数都成立。
+
+## 一些重要角的精确值（表 0.17）
+
+| $x$（弧度） | $0$ | $\frac{\pi}{6}$ | $\frac{\pi}{4}$ | $\frac{\pi}{3}$ | $\frac{\pi}{2}$ | $\frac{2\pi}{3}$ | $\frac{3\pi}{4}$ | $\frac{5\pi}{6}$ | $\pi$ |
+|---|---|---|---|---|---|---|---|---|---|
+| （角度） | $0^{\circ}$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ | $90^{\circ}$ | $120^{\circ}$ | $135^{\circ}$ | $150^{\circ}$ | $180^{\circ}$ |
+| $\sin x$ | $0$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ | $1$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ | $0$ |
+| $\cos x$ | $1$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ | $0$ | $-\frac{1}{2}$ | $-\frac{\sqrt{2}}{2}$ | $-\frac{\sqrt{3}}{2}$ | $-1$ |
+
+这些值同样由毕达哥拉斯定理得出（参看 3.2.1.2）。
+
+## 负角
+
+根据正角为逆时针方向（数学上的正方向）、负角为顺时针方向（数学上的负方向），图 0.32 引入负角 $x < 0$，例示 (a) $x = -\frac{\pi}{4}$、(b) $x = -\pi$。
+
+## 零点
+
+由图 0.31(e) 和 (f)：
+
+1. 函数 $y = \sin x$ 的零点为 $x = k\pi$（$k$ 为任意整数），即 $x = 0, \pm\pi, \pm2\pi, \cdots$；
+2. 函数 $y = \cos x$ 的零点为 $x = k\pi + \frac{\pi}{2}$（$k$ 为任意整数）；
+3. 函数 $y = \sin x$ 和 $y = \cos x$ **在复平面上都仅有实零点**，已由 (i)、(ii) 给出。
+
+见 [[三角函数的零点]]。
+
+## 平移法则
+
+只要对 $0 \leqslant x \leqslant \pi/2$ 知道正弦值，即可按下式得到所有其他值，这些公式是加法定理的推论：
+
+$$
+\sin\left(\frac{\pi}{2} + x\right) = \cos x, \quad \sin(\pi + x) = -\sin x, \quad \sin\left(\frac{3\pi}{2} + x\right) = -\cos x,
+$$
+$$
+\cos\left(\frac{\pi}{2} + x\right) = -\sin x, \quad \cos(\pi + x) = -\cos x, \quad \cos\left(\frac{3\pi}{2} + x\right) = \sin x.
+$$
+
+见 [[三角函数的平移法则]]。
+
+## 倍角的棣莫弗公式 (0.41)–(0.42)
+
+令 $n = 2, 3, \cdots$，则对所有复数 $x$：
+
+$$
+\cos n x + \mathrm{i}\sin n x = \sum_{k=0}^{n} \mathrm{i}^{k} \binom{n}{k} \cos^{n-k} x \, \sin^{k} x.
+\tag{0.41}
+$$
+
+分离实部与虚部：
+
+$$
+\cos n x = \cos^{n} x - \binom{n}{2} \cos^{n-2} x \sin^{2} x + \binom{n}{4} \cos^{n-4} x \sin^{4} x - \dots,
+$$
+$$
+\sin n x = \binom{n}{1} \cos^{n-1} x \sin x - \binom{n}{3} \cos^{n-3} x \sin^{3} x + \binom{n}{5} \cos^{n-5} x \sin^{5} x - \dots .
+\tag{0.42}
+$$
+
+特别地，当 $n = 2, 3, 4$ 时：
+
+$$
+\sin 2x = 2\sin x\cos x, \qquad \cos 2x = \cos^{2} x - \sin^{2} x,
+$$
+$$
+\sin 3x = 3\sin x - 4\sin^{3} x, \qquad \cos 3x = 4\cos^{3} x - 3\cos x,
+$$
+$$
+\sin 4x = 8\cos^{3} x \sin x - 4\cos x \sin x, \qquad \cos 4x = 8\cos^{4} x - 8\cos^{2} x + 1.
+$$
+
+手册脚注说明：A. 棣莫弗（de Moivre, 1667—1754）得到该公式，欧拉受其启发发现 $\mathrm{e}^{\mathrm{i}x} = \cos x + \mathrm{i}\sin x$。如今反过来更方便：由
+
+$$
+\cos n x + \mathrm{i}\sin n x = \mathrm{e}^{\mathrm{i}nx} = (\mathrm{e}^{\mathrm{i}x})^{n} = (\cos x + \mathrm{i}\sin x)^{n}
+$$
+
+与二项式公式（参看 0.1.10.3，即 [[二项式定理]]），**棣莫弗公式 (0.41) 便是欧拉公式的推论**。见 [[棣莫弗公式]]、[[三角函数的倍角与半角公式]]。
+
+## 半角公式
+
+对所有复数 $x$：
+
+$$
+\sin^{2}\frac{x}{2} = \frac{1}{2}(1 - \cos x), \qquad \cos^{2}\frac{x}{2} = \frac{1}{2}(1 + \cos x),
+$$
+
+$$
+\sin\frac{x}{2} = \begin{cases} \sqrt{\frac{1}{2}(1 - \cos x)}, & 0 \leqslant x \leqslant \pi, \\ -\sqrt{\frac{1}{2}(1 - \cos x)}, & \pi \leqslant x \leqslant 2\pi, \end{cases}
+\qquad
+\cos\frac{x}{2} = \begin{cases} \sqrt{\frac{1}{2}(1 + \cos x)}, & -\pi \leqslant x \leqslant \pi, \\ -\sqrt{\frac{1}{2}(1 + \cos x)}, & \pi \leqslant x \leqslant 3\pi. \end{cases}
+$$
+
+## 求和公式（和差化积）
+
+对所有复数 $x, y$：
+
+$$
+\sin x \pm \sin y = 2\sin\frac{x \pm y}{2}\cos\frac{x \mp y}{2},
+$$
+$$
+\cos x + \cos y = 2\cos\frac{x + y}{2}\cos\frac{x - y}{2},
+$$
+$$
+\cos x - \cos y = 2\sin\frac{x + y}{2}\sin\frac{y - x}{2},
+$$
+$$
+\cos x \pm \sin x = \sqrt{2}\sin\left(\frac{\pi}{4} \pm x\right).
+$$
+
+## 两个因子之积的公式（积化和差）
+
+$$
+\sin x \sin y = \frac{1}{2}\left(\cos(x - y) - \cos(x + y)\right),
+$$
+$$
+\cos x \cos y = \frac{1}{2}\left(\cos(x - y) + \cos(x + y)\right),
+$$
+$$
+\sin x \cos y = \frac{1}{2}\left(\sin(x - y) + \sin(x + y)\right).
+$$
+
+## 三个因子之积的公式
+
+$$
+\sin x \sin y \sin z = \frac{1}{4}\left(\sin(x + y - z) + \sin(y + z - x) + \sin(z + x - y) - \sin(x + y + z)\right),
+$$
+$$
+\sin x \cos y \cos z = \frac{1}{4}\left(\sin(x + y - z) - \sin(y + z - x) + \sin(z + x - y) + \sin(x + y + z)\right),
+$$
+$$
+\sin x \sin y \cos z = \frac{1}{4}\left(-\cos(x + y - z) + \cos(y + z - x) + \cos(z + x - y) - \cos(x + y + z)\right),
+$$
+$$
+\cos x \cos y \cos z = \frac{1}{4}\left(\cos(x + y - z) + \cos(y + z - x) + \cos(z + x - y) + \cos(x + y + z)\right).
+$$
+
+见 [[三角函数的和差化积与积化和差公式]]。
+
+## 方幂公式（降幂）
+
+$$
+\sin^{2} x = \frac{1}{2}(1 - \cos 2x), \qquad \cos^{2} x = \frac{1}{2}(1 + \cos 2x),
+$$
+$$
+\sin^{3} x = \frac{1}{4}(3\sin x - \sin 3x), \qquad \cos^{3} x = \frac{1}{4}(3\cos x + \cos 3x),
+$$
+$$
+\sin^{4} x = \frac{1}{8}(\cos 4x - 4\cos 2x + 3), \qquad \cos^{4} x = \frac{1}{4}(\cos 4x + 4\cos 2x + 3).
+$$
+
+利用棣莫弗公式 (0.42)，可得到关于 $\sin^{n} x$ 与 $\cos^{n} x$ 的更一般公式。
+
+## 三个被加数的加法定理
+
+$$
+\sin(x + y + z) = \sin x\cos y\cos z + \cos x\sin y\cos z + \cos x\cos y\sin z - \sin x\sin y\sin z,
+$$
+$$
+\cos(x + y + z) = \cos x\cos y\cos z - \sin x\sin y\cos z - \sin x\cos y\sin z - \cos x\sin y\sin z.
+$$
+
+手册指出：上述所有公式都可依据 (0.36) 把 $\cos x$ 与 $\sin x$ 表示为 $\mathrm{e}^{\pm\mathrm{i}x}$ 的线性组合来证明，接下来只需证明一些初等的代数恒等式；也可利用加法定理 (0.37)。
+
+## 欧拉乘积公式
+
+对所有复数 $x$：
+
+$$
+\sin \pi x = \pi x \prod_{k=1}^{\infty}\left(1 - \frac{x^{2}}{k^{2}}\right).
+$$
+
+在正弦函数的零点处，即 $x = 0, \pm1, \pm2, \cdots$ 时可立即验证该公式；手册补充：**这些零点为单零点**（参看 1.14.6.3）。见 [[正弦的欧拉乘积公式]]。
+
+## 部分分式分解
+
+对所有复数 $x$，$x \neq 0, \pm1, \pm2, \cdots$：
+
+$$
+\frac{\cos \pi x}{\sin \pi x} = \frac{1}{x} + \sum_{k=1}^{\infty}\left(\frac{1}{x - k} + \frac{1}{x + k}\right).
+$$
+
+见 [[三角函数的部分分式分解]]。
+
+## 导数
+
+对所有复数 $x$：
+
+$$
+\frac{\mathrm{d}\sin x}{\mathrm{d}x} = \cos x, \qquad \frac{\mathrm{d}\cos x}{\mathrm{d}x} = -\sin x.
+$$
+
+见 [[三角函数的导数]]。
+
+## 其他指向
+
+- 借助三角函数表示的单位圆的参数方程：参看 0.1.7.2。
+- 三角函数在平面三角学（土地测量）与球面三角学（航海与空中运输）中的应用：参看 3.2。
+
+## 历史评论
+
+手册给出如下历史叙述：
+
+- 自古时起，三角学的发展就与测量技术、航海、建筑、历法的使用以及天文学密不可分；公元 8 世纪阿拉伯人将其推向顶峰。
+- 1260 年，三角学领域最著名的伊斯兰数学家图西（at-Tusi）写成《论完全四边形》（Treatise on the complete quadrilateral），这是三角学逐渐成为独立数学分支的开端。
+- 15 世纪欧洲最重要的数学家是雷乔蒙塔努斯（1436—1476），本名 J. 缪勒（Müller）。其著作《论各种三角形》（De triangulis omnimodis libri quinque）直到 1533 年才发表，其中全面讲述平面与球面三角学，使三角学成为现代数学的一个分支；遗憾的是该著作中所有公式都用蹩脚的文字表示。
+- 因为雷乔蒙塔努斯没有使用十进制数，他在表 0.16 的意义下使用公式 $a = c \sin x$，其中 $c = 10000000$；其 $a$ 的值相当于把 $\sin x$ 精确到小数点后第 7 位。**欧拉首次使用了 $c = 1$。**
+- 16 世纪末，F. 韦达（1540—1603）在其专著《应用于三角形的数学定律》（Canon mathematicus seu ad triangula）中从角分和角秒出发计算了一个三角函数表。
+- 手册评论：在如今的计算机时代，三角函数表就好像对数表一样，已经化成了历史的尘埃。
+
+见 [[图西]]、[[雷乔蒙塔努斯]]、[[韦达]]、[[欧拉]]。

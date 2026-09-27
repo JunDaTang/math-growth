@@ -1,0 +1,39 @@
+---
+type: finding
+title: 贝塞尔与诺伊曼函数渐近主项仅差相位
+source: "[[10-数学指南实用数学手册--8-073-渐近级数--1jby90l]]"
+confidence: high
+replicated: null
+created: 2026-09-27
+updated: 2026-09-27
+tags: [特殊函数, 渐近分析]
+related: [贝塞尔函数, 诺伊曼函数, 庞加莱渐近展开式, 特殊函数, 10-数学指南实用数学手册--8-073-渐近级数--1jby90l]
+sources: ["数学指南_实用数学手册/0.7.3 渐近级数.md"]
+---
+
+# 贝塞尔与诺伊曼函数渐近主项仅差相位
+
+## 结论
+
+在手册 0.7.3.3 给出的渐近表示中，$J_p$ 与 $N_p$（$p$ 为实数）具有**完全相同的振幅因子** $\sqrt{2/(\pi x)}$ 与**完全相同的相位** $x-\frac{p\pi}{2}-\frac{\pi}{4}$，区别仅在于相位函数分别取 $\cos$ 与 $\sin$：
+
+$$
+J_{p}(x)=\sqrt{\frac{2}{\pi x}}\cos\left(x-\frac{p\pi}{2}-\frac{\pi}{4}\right)+o\left(\frac{1}{\sqrt{x}}\right),
+$$
+$$
+N_{p}(x)=\sqrt{\frac{2}{\pi x}}\sin\left(x-\frac{p\pi}{2}-\frac{\pi}{4}\right)+o\left(\frac{1}{\sqrt{x}}\right),\qquad x\to+\infty .
+$$
+
+两者的余项同为 $o(1/\sqrt{x})$。
+
+## 证据类型
+
+**直接证据**：两式并排出现在手册同一处盒装公式中。
+
+## 推论（属于本条目的推断，非手册原文）
+
+由于 $\cos$ 与 $\sin$ 相差 $\pi/2$ 相位，上述结果与「$J_p$ 与 $N_p$ 在大 $x$ 处相位相差 $\pi/2$」的说法相容。手册未在本节明述这一推论。
+
+## 复现状态
+
+未评估；本节未给出数值验证。

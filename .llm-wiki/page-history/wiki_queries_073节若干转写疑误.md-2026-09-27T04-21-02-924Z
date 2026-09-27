@@ -1,0 +1,51 @@
+---
+type: query
+title: 0.7.3 节若干转写疑误
+created: 2026-09-27
+updated: 2026-09-27
+tags: [疑点, 转写, 校勘]
+related: [渐近等式, 斯特林级数, 定常相方法, 庞加莱, 10-数学指南实用数学手册--8-073-渐近级数--1jby90l]
+sources: ["数学指南_实用数学手册/0.7.3 渐近级数.md"]
+---
+
+# 0.7.3 节若干转写疑误
+
+入库时发现三处需要核对原书的疑点。三处均属**转写层面**的问题，不改变本节的数学内容。
+
+## 疑点一：庞加莱的译名
+
+正文写作「庞加**菜**意义下的渐近展开式」，「菜」应为「**莱**」。通行译名为[[庞加莱]]。此条在 [[庞加莱]]、[[庞加莱渐近展开式]] 页面中已按「庞加莱」处理。
+
+## 疑点二：$\ln n!$ 的常数项
+
+0.7.3.2 第三条等式写作
+
+$$
+\ln n!\cong\left(n+\frac{1}{2}\right)\ln n-n+\frac{1}{2}\ln\sqrt{2\pi},\qquad n\to\infty .
+$$
+
+但同一组中第二条等式 $n!\cong(n/\mathrm{e})^{n}\sqrt{2\pi n}$ 取对数后给出
+
+$$
+\ln n!\cong\left(n+\frac{1}{2}\right)\ln n-n+\frac{1}{2}\ln(2\pi),
+$$
+
+即常数项应为 $\frac{1}{2}\ln 2\pi$，而非 $\frac{1}{2}\ln\sqrt{2\pi}$（后者等于 $\frac{1}{4}\ln 2\pi$）。0.7.3.3 的[[斯特林级数]]亦以 $-\ln\sqrt{2\pi}$ 作为被减常数项，即其等价形式为 $+\frac{1}{2}\ln(2\pi)$，与第二条等式一致。
+
+**待确认**：原书此处究竟写作 $\frac{1}{2}\ln 2\pi$ 还是确为 $\frac{1}{2}\ln\sqrt{2\pi}$。
+
+## 疑点三：定常相方法主项的指数
+
+[[定常相方法]]的主项写作
+
+$$
+\int_{-\infty}^{\infty}A(x)\mathrm{e}^{\mathrm{i}\omega p(x)}\,\mathrm{d}x\sim\frac{b\,\mathrm{e}^{\mathrm{i}\,p(a)}}{\sqrt{\omega}}\sum_{k=0}^{\infty}\frac{A_{k}}{\omega^{k}},\qquad\omega\to+\infty .
+$$
+
+指数中只有 $p(a)$ 而没有 $\omega$。考虑到积分核为 $\mathrm{e}^{\mathrm{i}\omega p(x)}$、展开按 $\omega$ 的幂次组织，定常点处的主项贡献应为 $\mathrm{e}^{\mathrm{i}\omega p(a)}$，即指数中疑似漏掉了 $\omega$。
+
+**待确认**：原书公式的指数写法。
+
+## 处理约定
+
+在结论确认之前，wiki 各页一律**逐字保留**源文档写法，并在相关页面注明疑点。

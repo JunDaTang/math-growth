@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "ingest-1790466627259-bpolmm",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.4.6 数理统计中的表-3.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,137 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-n6n4j7",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.4.6 数理统计中的表-4.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 11,433 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-3doejz",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.4.6 数理统计中的表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 9,478 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-0cs1m5",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.5 特殊函数值表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,866 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-sw7xj0",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.5.2 柱函数(也称贝塞尔函数).md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,628 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-awoauf",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.5.5 积分三角函数与积分指数函数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,176 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-nqs3k0",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.5.6 菲涅耳积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 11,015 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-w1p9ln",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.5.8 角度向弧度的转化.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,810 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-mqzc7o",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.6 不大于 4000 的素数表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 7,803 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-u972dn",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.7.4 傅里叶级数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 9,880 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-pv365o",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.9.3 有理函数的积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,561 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627259-hohmt1",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.9.5 不定积分表-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627259,
+    "error": "Analysis failed: Model produced 10,945 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-wpkbq1",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.10.1 傅里叶变换.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 10,116 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-yx7ql7",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.10.2 拉普拉斯变换.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 10,816 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-34plxh",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.2 序列的极限.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 10,867 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-4zw3tn",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.4.4 反函数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 12,866 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-7u6m6r",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.4.5 泰勒定理和函数的局部行为.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 11,860 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627260-92u3qa",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.6 单实变函数的积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627260,
+    "error": "Analysis failed: Model produced 9,577 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-7a6vgc",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.9.4 哈密顿算子的运算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,090 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-22ejfh",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.10 无穷级数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,414 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-nebo1b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.11 积分变换.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,467 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-22459n",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.12.2 基本概念.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,272 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-q79ncs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.12.3 微分方程的分类.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,839 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627261-ifs4zh",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.12.4 初等解法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627261,
+    "error": "Analysis failed: Model produced 11,398 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627262-2u9mth",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.13.1 数学物理中的一阶方程-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627262,
+    "error": "Analysis failed: Model produced 11,224 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627262-mz4cql",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.13.1 数学物理中的一阶方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627262,
+    "error": "Analysis failed: Model produced 11,241 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627263-m33otj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.14.13 在流体动力学上的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627263,
+    "error": "Analysis failed: Model produced 11,999 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627263-w66djq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.14.17 椭圆函数和椭圆积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627263,
+    "error": "Analysis failed: Model produced 10,557 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627263-a9mjnj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.14.18 模形式与 $ mathcal{P}$ 函数的反演问题.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627263,
+    "error": "Analysis failed: Model produced 12,988 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627263-gp0eb2",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/1.14.19 椭圆积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "failed",
+    "addedAt": 1790466627263,
+    "error": "Analysis failed: Model produced 7,006 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 3
+  },
+  {
+    "id": "ingest-1790466627264-fybyvi",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.1.3 矩阵.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "processing",
+    "addedAt": 1790466627264,
+    "error": "Analysis failed: Model produced 10,405 characters of reasoning / chain-of-thought, but no actual response content. This usually means the endpoint hit a thinking-token limit, the model didn't transition from thinking to answering, or the endpoint is misbehaving (the official Anthropic / OpenAI APIs don't have this issue). Try a shorter input, increase max_tokens, or switch to a different model in Settings.",
+    "retryCount": 1
+  },
+  {
+    "id": "ingest-1790466627264-xpes5b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.1.4 线性方程组.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-paka24",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.1.5 多项式的计算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-z4gsbr",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.1.6 代数学基本定理(根据高斯的观点).md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-ylavs3",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.1.7 部分分式分解.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-1ztz33",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.2 矩阵.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-rqjtcr",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.3 线性代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-w51co4",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4 多线性代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-bg2pmc",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4.1 代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-eagm0t",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4.2 多线性型的计算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-okl5ge",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4.3 泛积.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-23q8mx",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4.4 李代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627264-h0frem",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.4.5 超代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627264,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-qtqg3b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.5 代数结构.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-tmnumm",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.6 伽罗瓦理论和代数方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-tb1q8q",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7 数论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-s0usnm",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.1 基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-s2idhs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.2 欧几里得算法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-n1ksyv",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.3 素数分布.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-vg8lww",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.4 加性分解.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-h4ieli",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.5 用有理数及连分数逼近无理数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-5wj9uf",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.6 超越数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-b69c96",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.7 对数 $ pi$ 的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-9h3hht",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.8 高斯同余式.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-m1tidn",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.9 闵可夫斯基数的几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627265-u6fv3b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.10 数论中局部—整体基本原理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627265,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-dpc50r",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.11 理想和因子理论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-q14bss",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.12 对二次数域的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-sgx7xj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.13 解析类数公式.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-awf4jd",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/2.7.14 一般数域的希尔伯特类域论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-nlss4n",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.1 由克莱因的埃尔兰根纲领所概括的几何学的基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-gx9kuq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2 初等几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-41uzmt",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.1 平面三角学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-01939e",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.2 对大地测量学的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-rklf7l",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.3 球面几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-oi0o8d",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.4 对于海上和空中旅行的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-ds89zr",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.5 几何的希尔伯特公理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627266-wt2dae",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.6 欧几里得平行公理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627266,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-h1fjvf",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.7 非欧椭圆几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-1t9ihy",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.2.8 非欧双曲几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-c8bq6l",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.3 向量代数在解析几何学中的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-sltdne",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.4 欧氏几何学 (运动的几何学).md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-4t1hs4",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.5 射影几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-vk9wp2",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.6 微分几何学 - 3.6.3 高斯的曲面局部理论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-145ac6",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.6 微分几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-assxus",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.6.1 平面曲线.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-iwpvly",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.6.2 空间曲线.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-nkmbi3",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.6.3 高斯的曲面局部理论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-ygrrfq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.7 平面曲线的例子.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627267-4dlybc",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8 代数几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627267,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-2vnvck",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.1 基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-4z7t6m",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.2 平面曲线的例子.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-76sa7k",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.3 对积分计算的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-45x85y",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.4 平面代数曲线的射影复形式.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-16s2wj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.5 曲线的亏格.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-riyvmh",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.6 丢番图几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-u751ea",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.7 解析集和魏尔斯特拉斯预备定理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-l7mcnt",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.8 奇点分解.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-7y06d7",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.8.9 现代代数几何的代数化.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-x1doiq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9 现代物理的几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627268-8dg9rv",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.1 基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627268,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-619ghu",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.2 酉几何、希尔伯特空间和基本粒子.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-lpmgkr",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.3 伪酉几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-zjhbbg",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.4 闵可夫斯基几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-3zv63b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.5 对狭义相对论的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-irl84d",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.6 旋量几何和费米子.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-emxfku",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.7 近复结构.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627269-8cwvxl",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/3.9.8 辛几何.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627269,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-lfbdq0",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/4.1 数学的语言.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-reqwwh",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/4.2 证明的方法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-e0uomt",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/4.3 朴素集合论.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-7tai3b",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/4.4 数理逻辑.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-y2kyca",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/4.5 公理方法及其与哲学认识论之关系的历史.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-54ubjl",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1 单变量函数的变分法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-64hucs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.1 欧拉－伯努利方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-sf7ylx",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.2 应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-v8j6f3",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.3 哈密顿方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-mzp70h",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.4 应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-1nl8mt",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.5 局部极小值的充分条件.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-1r0idl",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.6 带约束问题和拉格朗日乘子.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627271-lmzsse",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.7 应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627271,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-rusvqj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.1.8 自然边界条件.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-loppiq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.2 多变量函数的变分法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-e2p4yc",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.3 控制问题.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-ghnba1",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.4 经典非线性最优化.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-kcohzl",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.5 线性最优化.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-gwj6cu",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/5.6 线性最优化的应用.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-xaap4h",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.1 基本的随机性.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-dn4uzo",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2 科尔莫戈罗夫的概率论公理化基础.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-0ijged",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2.1 事件与概率的计算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-7ucawl",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2.2 随机变量.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-p23bbw",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2.3 随机向量.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-i687es",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2.4 极限定理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-8n7xd4",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.2.5 应用于独立重复试验的伯努利模型.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627272-7l6c1o",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3 数理统计.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627272,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-bovd7p",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.1 基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-t26k9y",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.2 重要的估计量.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-bbisvu",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.3 正态分布测量值的研究.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-aonfd3",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.4 经验分布函数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-0wyf52",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.5 参数估计的最大似然方法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-4o787j",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.3.6 多元分析.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-zwfkug",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4 随机过程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-4udup6",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4.1 时间序列.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-arpka3",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4.2 马尔可夫链与随机矩阵.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-6eagho",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4.3 泊松过程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-ltdbfp",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4.4 布朗运动与扩散.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627273-31xdpq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/6.4.5 关于一般随机过程的科尔莫戈罗夫主定理.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627273,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-jwatpb",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.1 数值计算和误差分析.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-k3gwt0",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.2 线性代数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-t395a9",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.2.1 线性方程组——直接法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-o1w5lf",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.2.2 线性方程组的迭代法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-gvpi8p",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.2.3 特征值问题.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-e61frn",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.2.4 拟合和最小二乘法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-hh3uuy",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.3 插值, 数值微分和积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-zekyfk",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.3.1 插值多项式.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-4d8eh6",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.3.2 数值微分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-fjp8ke",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.3.3 数值积分.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-kg2onx",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.4 非线性问题.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-2bc71g",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.5 数值逼近.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627274-v6ef4d",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.6 常微分方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627274,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-xx94zq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7 偏微分方程与科学计算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-ox19mw",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.1 基本思想.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-07oyfo",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.2 离散方法概述.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-8sn3yc",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.3 椭圆型微分方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-71pm17",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.4 抛物微分方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-jkqfhe",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.5 双曲微分方程.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-hbrkgz",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.6 自适应离散方法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-65isil",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.7 方程组的迭代解.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-dc3jjs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.8 边界元方法.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-n5oso9",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.9 调和分析.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627275-l8q6sz",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/7.7.10 反问题.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627275,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-p6gt81",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/参考文献-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-9hd8v9",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/参考文献-3.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-hnwqhj",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/参考文献-4.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-tj16b4",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/参考文献.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-myb764",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第 5 章 变分法与最优化.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-um7cfg",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第 6 章 随机演算——机会的数学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-cqskt9",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第0章 公式、图和表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-nr4r8i",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第1章 分析学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-7ifklq",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第2章 代数学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627276-qw5pzf",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第3章 几何学.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627276,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-0klbge",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第4章 数学基础.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-a02iq2",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第7章 计算数学与科学计算.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-z2dqz1",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第二版前言.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-p78k4a",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/第一版前言.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-beu4v7",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/基本物理常数.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-bhvujs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/基本物理量纲.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-gfpi1q",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/目录.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-g6t1r9",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/人名译名对照表-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-5eslrp",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/人名译名对照表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-xyq64n",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/使用说明.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627277-qk5k0g",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/数学符号.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627277,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-nhw74m",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/数学历史概要-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-sf3egd",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/数学历史概要-3.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-bghi4d",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/数学历史概要.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-6nsuzs",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/数学指南_实用数学手册.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-ur1t5l",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/索引-2.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-riwdqe",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/索引.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-on1gs5",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/希腊字母表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-iv1v4x",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/译者序.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-xzj2q4",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/引言.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627278-p3wp16",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/index.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627278,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466627279-3trwff",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/SI 词头构成表.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466627279,
+    "error": null,
+    "retryCount": 0
+  },
+  {
+    "id": "ingest-1790466630290-qaj64p",
+    "projectId": "c1f69b09-9d0f-48a0-a6f1-32011c04558b",
+    "sourcePath": "raw/sources/数学指南_实用数学手册/0.1 初等数学中的基本公式.md",
+    "folderContext": "数学指南_实用数学手册",
+    "status": "pending",
+    "addedAt": 1790466630290,
+    "error": null,
+    "retryCount": 0
+  }
+]

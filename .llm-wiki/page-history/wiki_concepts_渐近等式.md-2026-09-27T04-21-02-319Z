@@ -1,0 +1,47 @@
+---
+type: concept
+title: 渐近等式（$\cong$ 记号）
+created: 2026-09-27
+updated: 2026-09-27
+tags: [渐近分析, 记号约定, 级数]
+related: [渐近级数, 庞加莱渐近展开式, 小o记号, 欧拉常数, 斯特林级数, 阶乘, 10-数学指南实用数学手册--8-073-渐近级数--1jby90l]
+sources: ["数学指南_实用数学手册/0.7.3 渐近级数.md"]
+---
+
+# 渐近等式（$\cong$ 记号）
+
+手册 0.7.3.2 节定义的符号约定：
+
+$$
+f(x)\cong g(x),\qquad x\to a
+$$
+
+表示
+
+$$
+\lim_{x\to a}\frac{f(x)}{g(x)}=1 .
+$$
+
+即两个函数在 $x\to a$ 时**比值趋于 1**（渐近等价），而不是差趋于 0，也不是级数收敛。
+
+## 手册给出的例子
+
+$$
+\begin{array}{r l}
+&\left(1+\frac{1}{2}+\frac{1}{3}+\dots+\frac{1}{n}\right)-\ln(n+1)\cong \mathrm{C},\quad n\to\infty\quad(\mathrm{C}\ \text{为欧拉常数}),\\
+&n!\cong\left(\frac{n}{\mathrm{e}}\right)^{n}\sqrt{2\pi n},\quad n\to\infty\quad(\text{斯特林}(\text{Stirling}),1730),\\
+&\ln n!\cong\left(n+\frac{1}{2}\right)\ln n-n+\frac{1}{2}\ln\sqrt{2\pi},\quad n\to\infty .
+\end{array}
+$$
+
+三条等式的主题分别是[[欧拉常数]]、[[阶乘]]的渐近大小、以及[[斯特林级数]]的对数形式。
+
+## 与 $\sim$ 的区别
+
+- $\cong$ 只比较**两个函数**在这一点的渐近行为（单条等式）。
+- $\sim$ 用于函数与**无穷级数**之间的[[庞加莱渐近展开式]]（整族等式，带 $o(1/x^n)$ 误差阶）。
+- 误差阶的书写依赖[[小o记号]]。
+
+## 疑点
+
+第三条等式的常数项 $\frac{1}{2}\ln\sqrt{2\pi}$ 与其上一条等式不自洽（应为 $\frac{1}{2}\ln 2\pi$），见 [[073节若干转写疑误]]。

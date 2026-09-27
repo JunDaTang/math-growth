@@ -1,0 +1,31 @@
+---
+type: concept
+title: 反函数求导法则
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 求导法则, 反函数]
+related: [单变量微分法则, 莱布尼茨记号, 一阶导数表, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 反函数求导法则
+
+反函数求导法则是《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.2 节表 0.37 [[单变量微分法则]] 的最后一条，以 [[莱布尼茨记号]]写成
+
+$$
+\frac{\mathrm{d}x}{\mathrm{d}y} = \frac{1}{\left(\frac{\mathrm{d}y}{\mathrm{d}x}\right)}.
+$$
+
+## 节中的用法
+
+0.8.2 节给出的应用是由指数函数求对数函数的导数：$y = \mathrm{e}^x$（$-\infty < x < \infty$）的反函数为 $x = \ln y$（$y > 0$），于是
+
+$$
+\frac{\mathrm{d}\ln y}{\mathrm{d}y} = \frac{\mathrm{d}x}{\mathrm{d}y} = \frac{1}{\left(\frac{\mathrm{d}y}{\mathrm{d}x}\right)} = \frac{1}{\mathrm{e}^{x}} = \frac{1}{y},\quad y > 0.
+$$
+
+该结论与表 0.35 中 $\ln x$ 的导数 $\frac{1}{x}$ 一致，见 [[反函数法则导出对数函数的导数]]。
+
+## 在表中的位置
+
+表 0.35 中的反三角函数与反双曲函数导数（如 $(\arcsin x)' = \frac{1}{\sqrt{1-x^2}}$、$(\operatorname{artanh} x)' = \frac{1}{1-x^2}$）本质上都可借助本法则由对应三角/双曲函数的导数导出，见 [[一阶导数表]]。

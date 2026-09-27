@@ -1,0 +1,45 @@
+---
+type: concept
+title: 一阶导数表（表 0.35）
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 导数, 初等函数, 定义域, 复变函数]
+related: [高阶导数表, 初等函数, 单变量微分法则, 数学指南实用数学手册, 表035中反双曲函数范围列的疑似讹误]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 一阶导数表（表 0.35）
+
+表 0.35 是《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.1 节的主表，给出一批 [[初等函数]] 的导数及可导范围。其列结构为四列：
+
+| 列 | 含义 |
+|---|---|
+| 函数 $f(x)$ | 待求导的初等函数 |
+| 导数 $f'(x)$ | 一阶导数的闭式 |
+| 对实数的取值范围 | 使导数在实数意义下存在的 $x$ 范围 |
+| 对复数的取值范围 | 使导数在复数意义下存在的 $x$ 范围 |
+
+## 覆盖的函数族
+
+按表的顺序，覆盖六类函数：
+
+1. **常数与幂**：$C, x, x^2, x^n, \frac{1}{x}, \frac{1}{x^n}$；
+2. **广义幂与根式**：$x^\alpha = \mathrm{e}^{\alpha\ln x}$、$\sqrt{x}$、$\sqrt[n]{x}$；
+3. **对数与指数**：$\ln x$、$\log_a x$、$\mathrm{e}^x$、$a^x$；
+4. **三角**：$\sin x, \cos x, \tan x, \cot x$；
+5. **双曲**：$\sinh x, \cosh x, \tanh x, \coth x$；
+6. **反三角与反双曲**：$\arcsin x, \arccos x, \arctan x, \operatorname{arccot} x, \operatorname{arsinh} x, \operatorname{arcosh} x, \operatorname{artanh} x, \operatorname{arcoth} x$。
+
+## 关键约定
+
+- 对常数、多项式、$\mathrm{e}^x$、$a^x$、$\sin/\cos$、$\sinh/\cosh$ 等**整函数**，实数与复数取值范围分别为 $x \in \mathbb{R}$ 与 $x \in \mathbb{C}$。
+- 对含 $\ln$、$x^\alpha$、$\sqrt{\phantom{x}}$ 的表达式，实数范围通常为 $x > 0$，复数范围采用**主支**条件 $x \neq 0,\ -\pi < \arg x < \pi$。
+- 对 $\tan, \cot$，实数与复数范围一致，均为排除零点：$x \neq k\pi + \frac{\pi}{2}$ 或 $x \neq k\pi$（$k \in \mathbb{Z}$）。
+- 对 $\tanh, \coth$，实数范围为 $x \in \mathbb{R}$，复数范围则排除纯虚奇点，分别为 $x \neq ik\pi + \frac{i\pi}{2}$ 与 $x \neq ik\pi$。
+- 对反三角函数，$\arcsin, \arccos, \operatorname{arsinh}, \operatorname{artanh}$ 等的复数范围写作 $|x| < 1$，$\arctan, \operatorname{arccot}$ 写作 $|\operatorname{Im} x| < 1$。
+
+## 疑点
+
+表中 $\operatorname{arsinh} x$ 的实数范围与 $\operatorname{arcoth} x$ 的复数范围存在可疑写法，见 [[concepts/反双曲函数]]。
+
+衍生结论：由反函数法则可从 $\mathrm{e}^x$ 的导数导出 $\ln x$ 的导数，见 [[反函数法则导出对数函数的导数]]。

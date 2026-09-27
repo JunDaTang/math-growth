@@ -1,0 +1,36 @@
+---
+type: concept
+title: 全微分
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 多变量, 全微分]
+related: [偏导数, 多变量链式法则, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 全微分
+
+《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.3 节表 0.38 给出二元函数的全微分
+
+$$
+\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y,
+$$
+
+其中 $f = f(x, y)$，$f_x := \frac{\partial f}{\partial x}$，$f_y := \frac{\partial f}{\partial y}$（见 [[偏导数]]）。
+
+对 $n$ 元函数 $f = f(x_1, \cdots, x_n)$，节中把下式单独框出作为推广：
+
+$$
+\mathrm{d}f = f_{x_1}\mathrm{d}x_1 + \dots + f_{x_n}\mathrm{d}x_n.
+$$
+
+## 节中的应用
+
+- **乘积法则的来源**：令 $f(t) := x(t)y(t)$，由 $f_x = y$、$f_y = x$ 得
+  $$\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y = y\mathrm{d}x + x\mathrm{d}y,$$
+  从而 $f'(t) = y(t)x'(t) + x(t)y'(t)$，即乘积法则。
+- **商法则的来源**：令 $f(t) := \frac{x(t)}{y(t)}$，由 $f_x = y^{-1}$、$f_y = -xy^{-2}$ 得
+  $$\mathrm{d}f = y^{-1}\mathrm{d}x - xy^{-2}\mathrm{d}y,$$
+  从而 $f'(t) = \frac{x'(t)y(t) - x(t)y'(t)}{y(t)^{2}}$，即商法则。
+
+全微分是把[[多变量链式法则]]「组合」起来的基础：对 $w$ 求导即在两端同除 $\mathrm{d}w$。

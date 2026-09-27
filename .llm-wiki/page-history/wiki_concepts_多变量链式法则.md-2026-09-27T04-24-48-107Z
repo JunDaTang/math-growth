@@ -1,0 +1,43 @@
+---
+type: concept
+title: 多变量链式法则（表 0.38）
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 多变量, 链式法则]
+related: [偏导数, 全微分, 单变量微分法则, 乘积法则是多变量链式法则的特例, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 多变量链式法则（表 0.38）
+
+《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.3 节表 0.38 在 $f = f(x,y)$、$f_x := \frac{\partial f}{\partial x}$、$f_y := \frac{\partial f}{\partial y}$ 的记号下给出：
+
+| 名称 | 公式 |
+|---|---|
+| 全微分 | $\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y$ |
+| 链式法则 | $\frac{\partial f}{\partial w} = f_x\frac{\partial x}{\partial w} + f_y\frac{\partial y}{\partial w}$ |
+
+其中把 $x = x(w, \cdots)$、$y = y(w, \cdots)$ 看成 $w$ 以及（可能还有）其他变量的函数。
+
+## 到 $n$ 元的推广
+
+对 $f = f(x_1, \cdots, x_n)$，节中框出
+
+$$
+\frac{\partial f}{\partial w} = f_{x_1}\frac{\partial x_1}{\partial w} + \dots + f_{x_n}\frac{\partial x_n}{\partial w},
+$$
+
+以及当 $x_1, \dots, x_n$ 只是 $w$ 的函数时的特殊形式
+
+$$
+\frac{\mathrm{d}f}{\mathrm{d}w} = f_{x_1}\frac{\mathrm{d}x_1}{\mathrm{d}w} + \dots + f_{x_n}\frac{\mathrm{d}x_n}{\mathrm{d}w}.
+$$
+
+即：偏导记号 $\partial$ 与全导记号 $\mathrm{d}$ 的区分，取决于自变量是否仅为 $w$ 的函数。
+
+## 与单变量法则的关系
+
+- 令 $f(t) := x(t)y(t)$，链式法则退化为乘积法则 $f'(t) = y(t)x'(t) + x(t)y'(t)$。
+- 令 $f(t) := \frac{x(t)}{y(t)}$，链式法则退化为商法则 $f'(t) = \frac{x'(t)y(t) - x(t)y'(t)}{y(t)^2}$。
+
+因此节中明确断言：乘积法则可看成多变量函数的链式法则的特例（见 [[乘积法则是多变量链式法则的特例]]），而这也把 0.8.2 的表 0.37 [[单变量微分法则]] 纳入统一框架。

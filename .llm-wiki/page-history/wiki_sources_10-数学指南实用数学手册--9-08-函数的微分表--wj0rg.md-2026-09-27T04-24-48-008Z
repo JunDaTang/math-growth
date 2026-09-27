@@ -1,0 +1,234 @@
+---
+type: source
+title: 《数学指南——实用数学手册》0.8 函数的微分表
+authors: []
+year: null
+url: ""
+venue: "数学指南——实用数学手册"
+created: 2026-09-27
+updated: 2026-09-27
+tags: [数学手册, 微分, 导数, 微分法则, 偏导数, 链式法则, 初等函数]
+related: [数学指南实用数学手册, 一阶导数表, 高阶导数表, 单变量微分法则, 偏导数, 全微分, 多变量链式法则, 反函数求导法则, 莱布尼茨记号, 初等函数, 莱布尼茨]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 《数学指南——实用数学手册》0.8 函数的微分表
+
+## 概述
+
+本节是《数学指南——实用数学手册》[[数学指南实用数学手册]] 中的「函数的微分表」一节，由三部分构成：
+
+- **0.8.1 初等函数的微分**：表 0.35（一阶导数）与表 0.36（高阶导数），按「函数—导数—对实数的取值范围—对复数的取值范围」四列给出初等函数的导数闭式及可导范围。
+- **0.8.2 单变量函数的微分法则**：表 0.37 列出加法、与常数乘积、乘积、商、链式、反函数六条法则，均以[[莱布尼茨记号]]书写，并配以六个应用例题。
+- **0.8.3 多变量函数的微分法则**：定义[[偏导数]]，给出[[全微分]]与[[多变量链式法则]]（表 0.38），并说明乘积法则、商法则都是多变量链式法则的特例。
+
+本节的全部公式对具有一个实变量或复变量的函数成立（脚注说明成立所需的具体假设条件见手册 1.4 节）。
+
+## 表 0.35 一阶导数（原文照录）
+
+| 函数 $f(x)$ | 导数 $f'(x)^{1)}$ | 对实数的取值范围 $^{2)}$ | 对复数的取值范围 $^{2)}$ |
+|---|---|---|---|
+| $C$（常数） | 0 | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $x$ | 1 | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $x^{2}$ | 2x | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $x^{n}$（$n = 1,2,\cdots$） | $nx^{n-1}$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\frac{1}{x}$ | $-\frac{1}{x^{2}}$ | $x \neq 0$ | $x \neq 0$ |
+| $\frac{1}{x^{n}}$（$n = 1,2,\cdots$） | $-\frac{n}{x^{n+1}}$ | $x \neq 0$ | $x \neq 0$ |
+| $x^{\alpha} = e^{\alpha \ln x}$（$\alpha$ 为实数） | $\alpha x^{\alpha-1}$ | $x > 0$ | $x \neq 0,\ -\pi < \arg x < \pi$ |
+| $\sqrt{x} = x^{\frac{1}{2}}$ | $\frac{1}{2\sqrt{x}}$ | $x > 0$ | $x \neq 0,\ -\pi < \arg x < \pi$ |
+| $\sqrt[n]{x} = x^{\frac{1}{n}}$（$n = 2,3,\cdots$） | $\frac{\sqrt[n]{x}}{nx}$ | $x > 0$ | $x \neq 0,\ -\pi < \arg x < \pi$ |
+| $\ln x$ | $\frac{1}{x}$ | $x > 0$ | $x \neq 0,\ -\pi < \arg x < \pi$ |
+
+续表：
+
+| 函数 $f(x)$ | 导数 $f'(x)$ | 对实数的取值范围 | 对复数的取值范围 |
+|---|---|---|---|
+| $\log_a x = \frac{\ln x}{\ln a}$（$a > 0, a \neq 1$） | $\frac{1}{x \ln a}$ | $x > 0$ | $x \neq 0,\ -\pi < \arg x < \pi$ |
+| $e^{x}$ | $e^{x}$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $a^{x} = e^{x \ln a}$（$a > 0, a \neq 1$） | $a^{x} \ln a$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\sin x$ | $\cos x$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\cos x$ | $-\sin x$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\sinh x$ | $\cosh x$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\cosh x$ | $\sinh x$ | $x \in \mathbb{R}$ | $x \in \mathbb{C}$ |
+| $\tan x$ | $\frac{1}{\cos^{2} x}$ | $x \neq k\pi + \frac{\pi}{2},\ k \in \mathbb{Z}$ | $x \neq k\pi + \frac{\pi}{2},\ k \in \mathbb{Z}$ |
+| $\cot x$ | $-\frac{1}{\sin^{2} x}$ | $x \neq k\pi,\ k \in \mathbb{Z}$ | $x \neq k\pi,\ k \in \mathbb{Z}$ |
+| $\tanh x$ | $\frac{1}{\cosh^{2} x}$ | $x \in \mathbb{R}$ | $x \neq ik\pi + \frac{i\pi}{2},\ k \in \mathbb{Z}$ |
+| $\coth x$ | $-\frac{1}{\sinh^{2} x}$ | $x \in \mathbb{R}$ | $x \neq ik\pi,\ k \in \mathbb{Z}$ |
+| $\arcsin x$ | $\frac{1}{\sqrt{1 - x^{2}}}$ | $-1 < x < 1$ | $|x| < 1$ |
+| $\arccos x$ | $-\frac{1}{\sqrt{1 - x^{2}}}$ | $-1 < x < 1$ | $|x| < 1$ |
+| $\arctan x$ | $\frac{1}{1 + x^{2}}$ | $x \in \mathbb{R}$ | $|\operatorname{Im} x| < 1$ |
+| $\operatorname{arccot} x$ | $-\frac{1}{1 + x^{2}}$ | $x \in \mathbb{R}$ | $|\operatorname{Im} x| < 1$ |
+| $\operatorname{arsinh} x$ | $\frac{1}{\sqrt{1 + x^{2}}}$ | $-1 < x < 1$ | $|x| < 1$ |
+| $\operatorname{arcosh} x$ | $\frac{1}{\sqrt{x^{2} - 1}}$ | $x > 1$ | $-\pi < \arg(x^{2} - 1) < \pi,\ x \neq \pm 1$ |
+| $\operatorname{artanh} x$ | $\frac{1}{1 - x^{2}}$ | $|x| < 1$ | $|x| < 1$ |
+| $\operatorname{arcoth} x$ | $\frac{1}{1 - x^{2}}$ | $|x| > 1$ | $|x| \in \mathbb{C}\setminus[-1,1]$ |
+
+## 表 0.36 高阶导数（原文照录）
+
+| 函数 $f(x)$ | $n$ 阶导数 $f^{(n)}(x)$ | 对实数的取值范围 | 对复数的取值范围 |
+|---|---|---|---|
+| $x^{m}$（$m=1,2,\cdots$） | $m(m-1)\cdots(m-n+1)x^{m-n}$（$=0,\ n>m$） | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $x^{\alpha}$（$\alpha$ 为实数） | $\alpha(\alpha-1)\cdots(\alpha-n+1)x^{\alpha-n}$ | $x>0$ | $x\neq 0,\ -\pi < \arg x < \pi$ |
+| $e^{ax}$（$a\in\mathbb{C}$） | $a^{n}e^{ax}$ | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $\sin bx$（$b\in\mathbb{C}$） | $b^{n}\sin\left(bx+\frac{n\pi}{2}\right)$ | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $\cos bx$（$b\in\mathbb{C}$） | $b^{n}\cos\left(bx+\frac{n\pi}{2}\right)$ | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $\sinh bx$ | $b^{n}\sinh bx$（$n$ 为偶数），$b^{n}\cosh bx$（$n$ 为奇数） | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $\cosh bx$ | $b^{n}\cosh bx$（$n$ 为偶数），$b^{n}\sinh bx$（$n$ 为奇数） | $x\in\mathbb{R}$ | $x\in\mathbb{C}$ |
+| $a^{bx}$（$a>0,\ b\in\mathbb{C}$） | $(b\ln a)^{n}a^{bx}$ | $x\in\mathbb{R}$ | $x\neq 0,\ -\pi < \arg x < \pi$ |
+| $\ln x$ | $(-1)^{n-1}\frac{(n-1)!}{x^{n}}$ | $x>0$ | $x\neq 0,\ -\pi < \arg x < \pi$ |
+| $\log_a x$（$a>0,\ a\neq 1$） | $(-1)^{n-1}\frac{(n-1)!}{x^{n}\ln a}$ | $x>0$ | $x\neq 0,\ -\pi < \arg x < \pi$ |
+
+## 表 0.37 微分法则（原文照录）
+
+| 法则 | 以莱布尼茨记号表示的公式 |
+|---|---|
+| 加法法则 | $\frac{\mathrm{d}(f+g)}{\mathrm{d}x} = \frac{\mathrm{d}f}{\mathrm{d}x} + \frac{\mathrm{d}g}{\mathrm{d}x}$ |
+| 与常数的乘积法则 | $\frac{\mathrm{d}(Cf)}{\mathrm{d}x} = C\frac{\mathrm{d}f}{\mathrm{d}x}$（$C$ 为常数） |
+| 乘积法则 | $\frac{\mathrm{d}(fg)}{\mathrm{d}x} = \frac{\mathrm{d}f}{\mathrm{d}x}g + f\frac{\mathrm{d}g}{\mathrm{d}x}$ |
+| 商法则 | $\frac{\mathrm{d}\left(\frac{f}{g}\right)}{\mathrm{d}x} = \frac{\frac{\mathrm{d}f}{\mathrm{d}x}g - f\frac{\mathrm{d}g}{\mathrm{d}x}}{g^{2}}$ |
+| 链式法则 | $\frac{\mathrm{d}y}{\mathrm{d}x} = \frac{\mathrm{d}y}{\mathrm{d}z}\frac{\mathrm{d}z}{\mathrm{d}x}$ |
+| 反函数法则 | $\frac{\mathrm{d}x}{\mathrm{d}y} = \frac{1}{\left(\frac{\mathrm{d}y}{\mathrm{d}x}\right)}$ |
+
+## 表 0.38 链式法则（原文照录）
+
+$f = f(x, y)$，$f_x := \frac{\partial f}{\partial x}$，$f_y := \frac{\partial f}{\partial y}$。
+
+| 名称 | 公式 |
+|---|---|
+| 全微分 | $\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y$ |
+| 链式法则 | $\frac{\partial f}{\partial w} = f_x\frac{\partial x}{\partial w} + f_y\frac{\partial y}{\partial w}$ |
+
+多变量推广（原文并列框出的三个公式）：
+
+$$
+\mathrm{d}f = f_{x_1}\mathrm{d}x_1 + \dots + f_{x_n}\mathrm{d}x_n,
+$$
+
+$$
+\frac{\partial f}{\partial w} = f_{x_1}\frac{\partial x_1}{\partial w} + \dots + f_{x_n}\frac{\partial x_n}{\partial w},
+$$
+
+$$
+\frac{\mathrm{d}f}{\mathrm{d}w} = f_{x_1}\frac{\mathrm{d}x_1}{\mathrm{d}w} + \dots + f_{x_n}\frac{\mathrm{d}x_n}{\mathrm{d}w}.
+$$
+
+其中最后一式是 $x_1, \dots, x_n$ 仅为 $w$ 的函数时的特殊形式，此时用 $\frac{\mathrm{d}}{\mathrm{d}w}$ 代替 $\frac{\partial}{\partial w}$。
+
+## 脚注
+
+1) 也可把 $f'(x)$ 写成 $\frac{\mathrm{d}f(x)}{\mathrm{d}x}$ 或 $\frac{\mathrm{d}y}{\mathrm{d}x}$ 的形式。
+2) $x \in \mathbb{R}$（$x \in \mathbb{C}$）表示对所有实数（复数）导数存在；记号 $k \in \mathbb{Z}$ 表示 $k = 0, \pm1, \pm2, \cdots$。
+表 0.37 脚注：1) 1.4 中介绍了这些公式成立所需要的具体假设条件。这些法则对具有一个实变量或复变量的函数成立，例 1～例 6 对复变量 $x$ 也成立。
+
+## 0.8.2 应用例题
+
+**例 1（加法法则）**
+
+$$
+(\mathrm{e}^{x} + \sin x)' = \mathrm{e}^{x} + \cos x,\quad x \in \mathbb{R},
+$$
+$$
+(x^{2} + \sinh x)' = 2x + \cosh x,\quad x \in \mathbb{R},
+$$
+$$
+(\ln x + \cos x)' = \frac{1}{x} - \sin x,\quad x > 0.
+$$
+
+**例 2（与常数乘积法则）**
+
+$$
+(2\mathrm{e}^{x})' = 2\mathrm{e}^{x},\quad (3\sin x)' = 3\cos x,\quad x \in \mathbb{R},
+$$
+$$
+(3x^{4} + 5)' = (3x^{4})' + (5)' = 12x^{3},\quad x \in \mathbb{R}.
+$$
+
+**例 3（乘积法则）**
+
+$$
+(x\mathrm{e}^{x})' = (1 + x)\mathrm{e}^{x},\quad x \in \mathbb{R},
+$$
+$$
+(x^{2}\sin x)' = 2x\sin x + x^{2}\cos x,\quad x \in \mathbb{R},
+$$
+$$
+(x\ln x)' = \ln x + 1,\quad x > 0.
+$$
+
+**例 4（商法则）**
+
+$$
+(\tan x)' = \left(\frac{\sin x}{\cos x}\right)' = \frac{\cos^{2}x + \sin^{2}x}{\cos^{2}x} = \frac{1}{\cos^{2}x},
+$$
+
+对所有使分母 $\cos x \neq 0$ 的 $x$ 成立，即 $x \neq k\pi + \frac{\pi}{2}$，$k = 0, \pm1, \pm2, \cdots$。
+
+**例 5（链式法则）** 令 $y = \sin z$，$z = 2x$，则
+
+$$
+y' = \frac{\mathrm{d}y}{\mathrm{d}x} = \frac{\mathrm{d}y}{\mathrm{d}z}\frac{\mathrm{d}z}{\mathrm{d}x} = (\cos z)\cdot 2 = 2\cos 2x.
+$$
+
+**例 6（链式法则）** 令 $y = \cos z$，$z = 3x^{4} + 5$，则
+
+$$
+y' = (-\sin z)\cdot 12x^{3} = -12x^{3}\sin(3x^{4} + 5).
+$$
+
+**反函数求导法则的应用** 由 $y = \mathrm{e}^{x}$（$-\infty < x < \infty$）的反函数 $x = \ln y$（$y > 0$），得
+
+$$
+\frac{\mathrm{d}\ln y}{\mathrm{d}y} = \frac{\mathrm{d}x}{\mathrm{d}y} = \frac{1}{\left(\frac{\mathrm{d}y}{\mathrm{d}x}\right)} = \frac{1}{\mathrm{e}^{x}} = \frac{1}{y},\quad y > 0.
+$$
+
+## 0.8.3 应用例题
+
+**例 1** $f(x) = Cx$（$C$ 为常数）给出 $\frac{\mathrm{d}f(x)}{\mathrm{d}x} = C$；对 $f(x,u,v) = (\mathrm{e}^{v}\sin u)x$，有
+
+$$
+\frac{\partial f(x,u,v)}{\partial x} = \mathrm{e}^{v}\sin u,
+$$
+
+因为把 $u, v$ 乃至 $C = \mathrm{e}^{v}\sin u$ 视为常数。
+
+**例 2** 由 0.8.2 例 6，$f(x) = \cos(3x^{4} + C)$ 给出 $\frac{\mathrm{d}f}{\mathrm{d}x} = -12x^{3}\sin(3x^{4} + C)$；在 $f(x,u) = \cos(3x^{4} + \mathrm{e}^{u})$ 中把 $\mathrm{e}^{u}$ 视为常数，得
+
+$$
+\frac{\partial f(x)}{\partial x} = -12x^{3}\sin(3x^{4} + \mathrm{e}^{u}).
+$$
+
+**例 3** $f(x,y) := xy$，$f_x(x,y) = y$，$f_y(x,y) = x$。
+
+**例 4** $f(x,y) := \frac{x}{y} = xy^{-1}$，$f_x(x,y) = y^{-1}$，$f_y(x,y) = -xy^{-2}$。
+
+**例 5** $f(t) := x(t)y(t)$，由例 3 得 $\mathrm{d}f = y\mathrm{d}x + x\mathrm{d}y$，于是
+
+$$
+f'(t) = \frac{\mathrm{d}f}{\mathrm{d}t} = y\frac{\mathrm{d}x}{\mathrm{d}t} + x\frac{\mathrm{d}y}{\mathrm{d}t} = y(t)x'(t) + x(t)y'(t),
+$$
+
+即乘积法则可看作多变量链式法则的特例。
+
+**例 6** $f(t) := \frac{x(t)}{y(t)}$，由例 4 得 $\mathrm{d}f = y^{-1}\mathrm{d}x - xy^{-2}\mathrm{d}y$，于是
+
+$$
+f'(t) = \frac{\mathrm{d}f}{\mathrm{d}t} = \frac{x'(t)}{y(t)} - \frac{x(t)y'(t)}{y(t)^{2}} = \frac{x'(t)y(t) - x(t)y'(t)}{y(t)^{2}},
+$$
+
+即商法则。
+
+## 关联页面
+
+- [[一阶导数表]]、[[高阶导数表]]：表 0.35、表 0.36 的结构与实/复范围约定
+- [[单变量微分法则]]：表 0.37 的六条法则
+- [[偏导数]]、[[全微分]]、[[多变量链式法则]]：0.8.3 的三块内容
+- [[反函数求导法则]]、[[莱布尼茨记号]]、[[初等函数]]
+- [[莱布尼茨]]：莱布尼茨记号的来源
+- [[数学指南实用数学手册]]：所属手册
+
+## 疑点
+
+- 表 0.35 中 $\operatorname{arsinh} x$ 一行的实数范围写作 $-1 < x < 1$，与其导数 $\frac{1}{\sqrt{1+x^{2}}}$ 在 $\mathbb{R}$ 上处处有定义不符，疑为转写讹误。
+- 表 0.35 中 $\operatorname{arcoth} x$ 的复数范围写作 $|x| \in \mathbb{C}\setminus[-1,1]$，记号形式可疑。
+- 表 0.36 中 $a^{bx}$ 一行的复数范围写作 $x \neq 0,\ -\pi < \arg x < \pi$，与 $x^{\alpha}$ 行的形式雷同，疑为误抄。
+- 具体疑点见 [[concepts/反双曲函数]]、[[queries/表036中a的bx次方复范围列的讹误]]、[[queries/085节表格脚注对应14节的假设条件]]。

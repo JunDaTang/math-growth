@@ -1,0 +1,36 @@
+---
+type: concept
+title: 偏导数
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 多变量, 偏导数]
+related: [全微分, 多变量链式法则, 单变量微分法则, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 偏导数
+
+《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.3 节给出的定义：若函数 $f = f(x, w, \cdots)$ 依赖于 $x$ 和其他几个变量 $w, \cdots$，则偏导数
+
+$$
+\frac{\partial f}{\partial x}
+$$
+
+是**通过把其他变量看成常数，把 $f$ 只看成关于 $x$ 的函数，对 $x$ 求导数**得到的。
+
+## 节中的例子
+
+- $f(x) = Cx$（$C$ 为常数）给出 $\frac{\mathrm{d}f(x)}{\mathrm{d}x} = C$；对 $f(x,u,v) = (\mathrm{e}^{v}\sin u)x$，把 $C = \mathrm{e}^{v}\sin u$ 视为常数，得
+  $$\frac{\partial f(x,u,v)}{\partial x} = \mathrm{e}^{v}\sin u.$$
+- 对 $f(x,u) = \cos(3x^4 + \mathrm{e}^u)$，把 $\mathrm{e}^u$ 视为常数，得
+  $$\frac{\partial f(x)}{\partial x} = -12x^{3}\sin(3x^{4} + \mathrm{e}^{u}).$$
+- $f(x,y) := xy$ 给出 $f_x = y$，$f_y = x$。
+- $f(x,y) := \frac{x}{y} = xy^{-1}$ 给出 $f_x = y^{-1}$，$f_y = -xy^{-2}$。
+
+记号约定：表 0.38 使用简写 $f_x := \frac{\partial f}{\partial x}$、$f_y := \frac{\partial f}{\partial y}$。
+
+## 与单变量情形的对照
+
+对只有一个变量的函数，$\frac{\mathrm{d}}{\mathrm{d}x}$ 与 $\frac{\partial}{\partial x}$ 一致；当被求导变量只是另一个变量的函数时（如 $x_1, \cdots, x_n$ 仅为 $w$ 的函数），本节说明可用 $\frac{\mathrm{d}}{\mathrm{d}w}$ 代替 $\frac{\partial}{\partial w}$，见 [[单变量微分法则]] 与 [[多变量链式法则]]。
+
+偏导数进一步以[[全微分]]的形式组合，即 $\mathrm{d}f = f_x\mathrm{d}x + f_y\mathrm{d}y$。

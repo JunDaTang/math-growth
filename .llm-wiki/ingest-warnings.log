@@ -1,0 +1,53 @@
+## 2026-09-27T01:12:48.268Z | 数学指南_实用数学手册/0.1.11 重要不等式.md
+
+1. FILE block "wiki/sources/10-数学指南实用数学手册--10-0111-重要不等式--1oieswr.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T02:05:20.702Z | 数学指南_实用数学手册/0.2.8 正弦与余弦.md
+
+1. FILE block "wiki/concepts/正弦的欧拉乘积公式.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T02:39:59.137Z | 数学指南_实用数学手册/0.2.10 双曲函数 $ sinh x$ 和 $ cosh x$.md
+
+1. FILE block "wiki/sources/10-数学指南实用数学手册--27-0210-双曲函数-sinh-x-和-cosh-x--uelg1k.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T03:42:08.255Z | 数学指南_实用数学手册/0.7.3 渐近级数.md
+
+1. FILE block "wiki/queries/收敛的展开式表中实数与复数收敛域之别.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T03:51:52.513Z | 数学指南_实用数学手册/0.8 函数的微分表.md
+
+1. FILE block "wiki/findings/复数域可导性由主支条件限定.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Dropped "wiki/concepts/反函数求导法则.md" — Pages under "wiki/concepts/" must use type "concept", but found "entity-invalid-placeholder".
+
+## 2026-09-27T05:40:44.984Z | 数学指南_实用数学手册/1.6 单实变函数的积分.md
+
+1. FILE block "wiki/findings/代换公式110条件缺失会导致错误结果.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T06:05:12.043Z | 数学指南_实用数学手册/1.7.10 应用到质心和惯性中点.md
+
+1. Dropped "wiki/queries/1710节例3中质点一词是否应为质心.md" — Page type "finding" must be under "wiki/findings/". Current directory: "wiki/queries".
+
+## 2026-09-27T06:06:25.648Z | 数学指南_实用数学手册/1.7.11 依赖于参数的积分.md
+
+1. Dropped "wiki/queries/1711节条件a中f(\cdot,P)是否应为f(\cdot,p).md" — Page type "query" must be under "wiki/queries/". Current directory: "wiki/queries/1711节条件a中f(/cdot,P)是否应为f(".
+
+## 2026-09-27T06:26:38.917Z | 数学指南_实用数学手册/1.9.7 流、守恒律与高斯积分定理.md
+
+1. FILE block "wiki/sources/10-数学指南实用数学手册--15-197-流守恒律与高斯积分定理--pqc5jf.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-09-27T07:02:05.207Z | 数学指南_实用数学手册/1.12.7 稳定性.md
+
+1. Dropped "wiki/concepts/赫尔维茨行列式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-09-27T07:21:40.501Z | 数学指南_实用数学手册/1.13.2 二阶数学物理方程.md
+
+1. Dropped "wiki/concepts/埃尔米特函数.md" — Pages under "wiki/concepts/" must use type "concept", but found "entity-placeholder-removed".
+
+## 2026-09-27T07:54:31.429Z | 数学指南_实用数学手册/1.14.6 函数的表示.md
+
+1. Dropped "wiki/concepts/刘维尔定理.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+2. Dropped "wiki/concepts/魏尔斯特拉斯乘积公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-09-27T08:20:09.476Z | 数学指南_实用数学手册/1.14.16 在欧拉伽马函数上的应用.md
+
+1. FILE block with unsafe path "wiki/sources/.gitkeep.md" rejected (must be under wiki/, no .., no absolute paths, and Windows-safe file names).

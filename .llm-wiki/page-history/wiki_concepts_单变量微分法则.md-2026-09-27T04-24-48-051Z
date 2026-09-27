@@ -1,0 +1,36 @@
+---
+type: concept
+title: 单变量微分法则（表 0.37）
+created: 2026-09-27
+updated: 2026-09-27
+tags: [微分, 求导法则, 莱布尼茨记号]
+related: [莱布尼茨记号, 反函数求导法则, 多变量链式法则, 一阶导数表, 数学指南实用数学手册]
+sources: ["数学指南_实用数学手册/0.8 函数的微分表.md"]
+---
+
+# 单变量微分法则（表 0.37）
+
+表 0.37 是《数学指南——实用数学手册》[[数学指南实用数学手册]] 0.8.2 节的核心，以 [[莱布尼茨记号]] 列出单变量函数的六条求导法则：
+
+| 法则 | 公式 |
+|---|---|
+| 加法法则 | $\frac{\mathrm{d}(f+g)}{\mathrm{d}x} = \frac{\mathrm{d}f}{\mathrm{d}x} + \frac{\mathrm{d}g}{\mathrm{d}x}$ |
+| 与常数的乘积法则 | $\frac{\mathrm{d}(Cf)}{\mathrm{d}x} = C\frac{\mathrm{d}f}{\mathrm{d}x}$（$C$ 为常数） |
+| 乘积法则 | $\frac{\mathrm{d}(fg)}{\mathrm{d}x} = \frac{\mathrm{d}f}{\mathrm{d}x}g + f\frac{\mathrm{d}g}{\mathrm{d}x}$ |
+| 商法则 | $\frac{\mathrm{d}\left(\frac{f}{g}\right)}{\mathrm{d}x} = \frac{\frac{\mathrm{d}f}{\mathrm{d}x}g - f\frac{\mathrm{d}g}{\mathrm{d}x}}{g^{2}}$ |
+| 链式法则 | $\frac{\mathrm{d}y}{\mathrm{d}x} = \frac{\mathrm{d}y}{\mathrm{d}z}\frac{\mathrm{d}z}{\mathrm{d}x}$ |
+| 反函数法则 | $\frac{\mathrm{d}x}{\mathrm{d}y} = \frac{1}{\left(\frac{\mathrm{d}y}{\mathrm{d}x}\right)}$ |
+
+## 适用范围
+
+脚注说明：这些公式成立所需的具体假设条件见手册 1.4 节；法则对具有一个实变量或复变量的函数均成立，且表中的例 1～例 6 对复变量 $x$ 也成立。见 [[queries/085节表格脚注对应14节的假设条件]]。
+
+## 例题所演示的思路
+
+- 例 1～例 2：加法法则与常数乘积法则，直接由 [[一阶导数表]] 逐项求导。
+- 例 3：乘积法则，如 $(x\mathrm{e}^x)' = (1+x)\mathrm{e}^x$、$(x^2\sin x)' = 2x\sin x + x^2\cos x$、$(x\ln x)' = \ln x + 1$。
+- 例 4：商法则，由 $\tan x = \frac{\sin x}{\cos x}$ 得 $(\tan x)' = \frac{1}{\cos^2 x}$，成立范围为 $x \neq k\pi + \frac{\pi}{2}$。
+- 例 5～例 6：链式法则，如 $y = \sin 2x$ 得 $y' = 2\cos 2x$，$y = \cos(3x^4+5)$ 得 $y' = -12x^3\sin(3x^4+5)$。
+- 反函数求导法则的应用：由 $y = \mathrm{e}^x$ 的反函数 $x = \ln y$ 推出 $\frac{\mathrm{d}\ln y}{\mathrm{d}y} = \frac{1}{y}$，见 [[反函数法则导出对数函数的导数]]。
+
+在 0.8.3 节中，乘积法则与商法则被进一步解释为 [[多变量链式法则]] 的特例，见 [[乘积法则是多变量链式法则的特例]]。

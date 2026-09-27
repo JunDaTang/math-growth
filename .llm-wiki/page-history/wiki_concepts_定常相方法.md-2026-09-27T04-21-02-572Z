@@ -1,0 +1,57 @@
+---
+type: concept
+title: 定常相方法
+created: 2026-09-27
+updated: 2026-09-27
+tags: [渐近分析, 振荡积分, 光学, 傅里叶积分算子]
+related: [渐近级数, 庞加莱渐近展开式, 傅里叶积分算子, 定常相方法前提条件的适用范围, 073节若干转写疑误, 10-数学指南实用数学手册--8-073-渐近级数--1jby90l]
+sources: ["数学指南_实用数学手册/0.7.3 渐近级数.md"]
+---
+
+# 定常相方法
+
+手册 0.7.3.3 节以盒装公式给出的振荡积分渐近展开：
+
+$$
+\int_{-\infty}^{\infty}A(x)\mathrm{e}^{\mathrm{i}\omega p(x)}\,\mathrm{d}x\sim\frac{b\,\mathrm{e}^{\mathrm{i}\,p(a)}}{\sqrt{\omega}}\sum_{k=0}^{\infty}\frac{A_{k}}{\omega^{k}},\qquad\omega\to+\infty,
+$$
+
+其中
+
+$$
+b:=\sqrt{\frac{2\pi i}{p''(a)}}\quad(\operatorname{Re} b>0),
+$$
+
+$$
+A_{k}:=\sum_{\substack{n-m=k\\ 2n\geqslant 3m\geqslant 0}}\frac{1}{\mathrm{i}^{k}2^{n}n!m!p''(a)}\frac{\mathrm{d}^{n+1}}{\mathrm{d}x^{n+1}}(P^{m}f)(a),
+$$
+
+且
+
+$$
+P(x):=p(x)-p(a)-\frac{1}{2}(x-a)^{2}p''(a).
+$$
+
+注意 $A_k$ 的内层是对满足 $n-m=k$、$2n\geqslant 3m\geqslant 0$ 的整数对 $(n,m)$ 求和。
+
+## 假设条件（手册原文）
+
+- (i) 复值相因子 $p:\mathbb{R}\to\mathbb{C}$ 无穷可微，且 $\operatorname{Im} p(a)=0$；当 $p''(a)\neq 0$ 时，$p'(a)=0$。
+- (ii) 对所有实数 $x\neq a$，有 $p'(x)\neq 0$。对所有实数 $x$，虚部 $\operatorname{Im} p(x)$ 非负。
+- (iii) 描述振幅的实函数 $A:\mathbb{R}\to\mathbb{R}$ 无穷可微，且在某一有界区间外为 0。
+
+这些条件的作用是保证**唯一**的定常点 $a$（$p'(a)=0$）且该点非退化（$p''(a)\neq 0$），并把振幅限制为具紧支集的无穷可微函数。条件 (i) 中「当 $p''(a)\neq 0$ 时，$p'(a)=0$」的表述顺序存在歧义，见 [[concepts/定常相方法]]。
+
+## 结果的形式
+
+- 展开按 $\omega$ 的负幂次组织，主项振幅 $\sim 1/\sqrt{\omega}$，反映了定常点邻近区域的驻相贡献。
+- $b$ 的取值依赖 $p''(a)$，且以 $\operatorname{Re} b>0$ 固定平方根的辐角。
+- 系数 $A_k$ 只依赖于相因子 $p$ 在 $a$ 处的局部展开与被展成 $P$ 的余项、以及振幅 $A$ 在 $a$ 处的导数 $(P^{m}f)^{(n+1)}(a)$。
+
+## 重要性
+
+手册指出：该定理在**经典光学**（限制在大的角频率，因此就是小的波长 $\lambda$ 的作用上）和 [[傅里叶积分算子]]的现代理论中非常重要。它也是[[渐近级数]]在分析学之外最典型的应用场景之一。
+
+## 疑点
+
+主项指数写作 $\mathrm{e}^{\mathrm{i}\,p(a)}$，从上下文（$\omega\to+\infty$、主项含 $1/\sqrt{\omega}$）看应为 $\mathrm{e}^{\mathrm{i}\omega p(a)}$，见 [[073节若干转写疑误]]。
