@@ -95,3 +95,7 @@ Poincaré 引理不仅有抽象陈述，也有初等构造性证明。[3] 给出
 13. [The Essence of de Rham Cohomology](https://arxiv.org/abs/2411.06296) — arxiv.org
 14. [Exactness, Cohomology, and Uniqueness in First-Order Differential Equations](https://arxiv.org/abs/2507.16457) — arxiv.org
 15. [Quantization of the de Rham complex](https://books.google.com/books?hl=en&lr=&id=FOACCAAAQBAJ&oi=fnd&pg=PA205&dq=de+Rham+complex+exactness+closed+form&ots=T10byLZty2&sig=jAMPBmlroB-rYrL2EsD68YGrFWo) — books.google.com
+
+## Related
+- [[queries/research-既有相关页面黎曼面共形映射几何函数论单值化定理单连通域的交叉链接更新-2026-09-27-100227-research-343]]
+- [[queries/research-可缩区域单连通与-de-rham-上同调的关系-2026-09-27-085543-research-304]]

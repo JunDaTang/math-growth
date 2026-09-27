@@ -90,3 +90,7 @@ Carl Friedrich Gauss（1777—1855）被后世称为 *princeps mathematicorum*�
 12. [Vector analysis and Cartesian tensors](https://books.google.com/books?hl=en&lr=&id=W0taDwAAQBAJ&oi=fnd&pg=PR6&dq=Gauss+theorem+vector+analysis+origin&ots=RbhB4f3jun&sig=gOmGt2qLvHo4I5pAfPvezcAt-Yg) — books.google.com
 13. [Vector and tensor analysis](https://books.google.com/books?hl=en&lr=&id=DjsPEAAAQBAJ&oi=fnd&pg=PP1&dq=Gauss+theorem+vector+analysis+origin&ots=j-NuB6RyAC&sig=zdrae8YLiTqDOp09hQINqRSmZJA) — books.google.com
 14. [Vector analysis versus vector calculus](https://books.google.com/books?hl=en&lr=&id=tdF8uTn2cnMC&oi=fnd&pg=PR3&dq=Gauss+theorem+vector+analysis+origin&ots=vBlbO4REMP&sig=Z3MFOTyRwz3TKcaAsD2wq293oec) — books.google.com
+
+## Related
+- [[queries/research-二次数域类数问题与-bakerheegnerstark-定理是否单独建页-2026-09-27-160621-research-5]]
+- [[queries/research-数学指南06-节素数表尚未入库-2026-09-27-122249-research-55]]

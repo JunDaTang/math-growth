@@ -100,3 +100,7 @@ tags: [research]
 12. [On irreducible 3-manifolds which are sufficiently large](https://www.jstor.org/stable/1970594) — jstor.org
 13. [C0-gap between entropy-zero Hamiltonians and autonomous diffeomorphisms of surfaces](https://link.springer.com/article/10.1007/s11856-022-2418-z) — link.springer.com
 14. [The Conley conjecture and beyond](https://link.springer.com/article/10.1007/s40598-015-0017-3) — link.springer.com
+
+## Related
+- [[queries/research-闭形式与精确形式closed-and-exact-forms概念页缺失-2026-09-27-085256-research-303]]
+- [[queries/research-微分形式differential-forms一般概念页缺失-2026-09-27-085148-research-302]]

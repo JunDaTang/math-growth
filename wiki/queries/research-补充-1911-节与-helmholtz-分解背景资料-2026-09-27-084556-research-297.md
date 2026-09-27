@@ -92,3 +92,6 @@ Helmholtz 分解定理指出，一个光滑向量场可以依据其散度（dive
 13. [运动学涡度, 极摩尔圆及其在一般剪切带定量分析中的应用](https://journal.geomech.ac.cn/cn/article/pdf/preview/e7cdda5d-0249-4a99-a6e1-14934199b417.pdf) — journal.geomech.ac.cn
 14. [状态向量的扩展有限元方法研究](https://lxsj.cstam.org.cn/cn/article/doi/10.6052/1000-0879-14-203?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Mechanics_in_Engineering_TrendMD_0) — lxsj.cstam.org.cn
 15. [空间旋转对称场可视分析](https://www.jcad.cn/cn/article/id/37c9e0c8-1cf0-470f-bc4c-595831e5453d) — jcad.cn
+
+## Related
+- [[queries/research-补充-helmholtz-分解与可缩区域拓扑前提的经典来源-2026-09-27-084709-research-298]]

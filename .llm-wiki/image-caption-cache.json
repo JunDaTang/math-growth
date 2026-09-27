@@ -3278,5 +3278,2357 @@
     "capturedAt": "2026-09-27T08:37:20.421Z",
     "imageHash": "e7a9f3a172fa63a0e605476b95759b6d536a5c18e036a049c08d30819d63a816",
     "outputLanguage": "Chinese"
+  },
+  "d5457fea8c70fb635ffa8c30fedb91f66b0e8f3def3c63ab36f83040ca32e1c7::language:chinese": {
+    "caption": "图像为一个几何示意图：图中画有一条斜向的直线，直线右上方用波浪线标注字母 Y，表示该直线为 Y；直线上标有一点 P，沿直线方向画有一个带箭头的向量，标注为 a；从点 P 出发另画有一个指向右方的带箭头向量，标注为 b。该图用于线性代数中说明直线上的点与向量关系的示例。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:29:12.086Z",
+    "imageHash": "d5457fea8c70fb635ffa8c30fedb91f66b0e8f3def3c63ab36f83040ca32e1c7",
+    "outputLanguage": "Chinese"
+  },
+  "00ecf43eeb5ed3d0fa26c0236d0a84d8e600bb8d693a5273ed61f3845dc79cf2::language:chinese": {
+    "caption": "图中画出四条平行的斜线，自下而上依次标注为过原点 O 的直线、u + Y、v + Y 和 (u + v) + Y，表示线性空间中子空间 Y 的陪集（商空间示意）。从点 O 出发有两个箭头：先沿标有 u 的箭头到达直线 u + Y，再以花括号标注 v 的箭头继续到达直线 v + Y；另一支合并的箭头以花括号标注 u + v，直接从 O 指向最上方的直线 (u + v) + Y，说明两个陪集相加 u + v + Y 的几何意义。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:29:13.588Z",
+    "imageHash": "00ecf43eeb5ed3d0fa26c0236d0a84d8e600bb8d693a5273ed61f3845dc79cf2",
+    "outputLanguage": "Chinese"
+  },
+  "6e3d254bb6aa9370737c2f1ed85b2eae8aba6c79a0daa18e1fc7c2348dc372b4::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），无法直接查看其具体画面。根据上下文文件名“10-数学指南实用数学手册--7-23-线性代数”可推断，该图出自《数学指南：实用数学手册》第7章第23节线性代数部分，但无法确认图中是否包含公式、图表或文字。由于无法看到实际内容，不能提供图中可见文本或图形结构的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:29:14.305Z",
+    "imageHash": "6e3d254bb6aa9370737c2f1ed85b2eae8aba6c79a0daa18e1fc7c2348dc372b4",
+    "outputLanguage": "Chinese"
+  },
+  "f609a021156eaf19bc58a39015af3de531837a6241447398e7611fd0ab50ddd0::language:chinese": {
+    "caption": "图片展示了一个用线条绘制的正方体（立方体）示意图，采用斜二测画法呈现其三维立体形态，可见正面、顶面和右侧面三个面。正方体下方标注有数字\"1\"。该图可能用于表示棱长为1的单位正方体或作为几何示例图形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:51:59.407Z",
+    "imageHash": "f609a021156eaf19bc58a39015af3de531837a6241447398e7611fd0ab50ddd0",
+    "outputLanguage": "Chinese"
+  },
+  "3a2e232b4ad7dff0b322934a9440999448675caac615ac028e359993d9f38b42::language:chinese": {
+    "caption": "该图片内容无法正常加载显示（系统提示不支持该图片格式），因此无法描述其具体的文字、图表或图形细节。根据文档上下文，此图片位于《数学指南实用数学手册》第13-26节“伽罗瓦理论和代数方程”部分，是编号为002的引用本地图片，前后分别为编号001和003的图片。推测其内容与该章节的伽罗瓦理论或代数方程相关，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:12.063Z",
+    "imageHash": "3a2e232b4ad7dff0b322934a9440999448675caac615ac028e359993d9f38b42",
+    "outputLanguage": "Chinese"
+  },
+  "7a70f3b221c08ea1d80878b519e3851470b5668e2244208a5a28b8c87e0de4e7::language:chinese": {
+    "caption": "图中为一个简单的几何示意图：一个圆，圆心处标有一个实心黑点，从圆心向右引出一条水平线段，线段另一端点位于圆周上，也标有一个实心黑点，线段上方标注数字“1”，表示该圆的半径为1（即单位圆）。该图出现在关于费马数（费马猜测形如 $2^{2^k}+1$ 的数为素数，欧拉发现 $k=5$ 时可分解为 $641 \\cdot 6700417$）的讨论之后，属于“伽罗瓦理论和代数方程”章节的插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:13.507Z",
+    "imageHash": "7a70f3b221c08ea1d80878b519e3851470b5668e2244208a5a28b8c87e0de4e7",
+    "outputLanguage": "Chinese"
+  },
+  "f35059ab7242b60289cc455f150b3233cfb38c2c697d21ea659767b8c19c6735::language:chinese": {
+    "caption": "图中为一个直角三角形示意图：斜边旁标注数字\"1\"，左下角顶点处画有一条弧线标记锐角，三角形下方标注\"cos φ\"。该图用于说明余弦函数的直角三角形定义，即锐角 φ 的邻边与斜边（长度为1）之比。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:18.170Z",
+    "imageHash": "f35059ab7242b60289cc455f150b3233cfb38c2c697d21ea659767b8c19c6735",
+    "outputLanguage": "Chinese"
+  },
+  "93d363a7bdfbebeeff16a98044fc26daac0deed4f5870e5d2c3de2be612e6557::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其视觉细节。根据上下文信息，该图片来自《数学指南实用数学手册》第13-26节“伽罗瓦理论和代数方程”部分，是文档中连续图片序列（003至005）之间的第004张图片。由于无法看到图像本身，无法提供其中可能包含的公式、图表或文字内容的具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:22.982Z",
+    "imageHash": "93d363a7bdfbebeeff16a98044fc26daac0deed4f5870e5d2c3de2be612e6557",
+    "outputLanguage": "Chinese"
+  },
+  "213223a68fa6f791b057a26ca17149dd810d8dacf1fc883a3af1eb928f5e5915::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图片数据未能加载）。根据上下文，该图片来自《数学指南：实用数学手册》第13章第26节“伽罗瓦理论和代数方程”部分，是文档中连续图片序列（005与007之间）的第006张插图，推测为该节讲解伽罗瓦理论时的公式、图表或示意图，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:45.942Z",
+    "imageHash": "213223a68fa6f791b057a26ca17149dd810d8dacf1fc883a3af1eb928f5e5915",
+    "outputLanguage": "Chinese"
+  },
+  "b1899b035c7ec562c41a6d4442bed2d0e951cae9a1cd863d7c4f4ef724314815::language:chinese": {
+    "caption": "无法获取该图像的实际内容（图像数据未能加载），因此无法描述其中的文字、图表或图形细节。根据上下文文件名可知，该图出自《数学指南：实用数学手册》中“伽罗瓦理论和代数方程”章节，是文档中连续排列的插图之一。在图像内容可见之前，无法提供更具体的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:52:51.201Z",
+    "imageHash": "b1899b035c7ec562c41a6d4442bed2d0e951cae9a1cd863d7c4f4ef724314815",
+    "outputLanguage": "Chinese"
+  },
+  "fd2739dcd98bb884dedc3d46806762d4eb7e6ebc5815aafd45ee97b8d5be7db9::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉信息。根据上下文文件路径可知，该图出自《数学指南实用数学手册》中“伽罗瓦理论和代数方程”章节，是编号为007的插图，位于006号与008号图片之间。由于图像本身不可见，无法确认其中包含的文字、公式、图表结构或其他视觉元素，故无法提供进一步的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T10:53:07.957Z",
+    "imageHash": "fd2739dcd98bb884dedc3d46806762d4eb7e6ebc5815aafd45ee97b8d5be7db9",
+    "outputLanguage": "Chinese"
+  },
+  "93146f27f055ad6993b4c359a2389df0ddc93fa7e3b9fb800962694a38bd80b7::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型（image_url），因此无法看到任何可见文字、图表或图形元素，无法对其进行事实性描述。根据上下文，该图片出现在关于孪生素数猜想的章节（2.7.3.6）之后，该章节讨论了相差 2 的素数对（如 3 与 5、5 与 7、11 与 13），但无法确认图片是否与此内容相关。如需准确描述，请提供可正常显示的图片。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:06:11.180Z",
+    "imageHash": "93146f27f055ad6993b4c359a2389df0ddc93fa7e3b9fb800962694a38bd80b7",
+    "outputLanguage": "Chinese"
+  },
+  "982167e0a57ca5398fe1e4cdd13789f161c861c3e0e946081cf5a3d603287d14::language:chinese": {
+    "caption": "图中显示一条水平线段，表示数轴上的区间：线段两端各有一个短竖线刻度，中间也有一个刻度。左端刻度下方标注数字“0”，中间刻度下方标注斜体字母“x”，右端刻度下方标注数字“1”。这是一个在区间 [0, 1] 上标记点 x 的简单示意图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:13:29.780Z",
+    "imageHash": "982167e0a57ca5398fe1e4cdd13789f161c861c3e0e946081cf5a3d603287d14",
+    "outputLanguage": "Chinese"
+  },
+  "457f4c24d721f7bd4d7c92df5913a86fb339db6604fff691ff53c2129d1fb43d::language:chinese": {
+    "caption": "图中为一个数集分类的层级结构图：顶部一个矩形框内写有“实数”，从该框引出两条线分别指向左下方的“有理数”和右下方的“无理数”；“有理数”再引出一条线连到底部的“代数数”，而“无理数”则引出两条线，分别连到底部的“代数数”和右下角的“超越数”。该图展示了实数按有理数/无理数以及代数数/超越数两种方式的交叉分类关系，与前后文中关于超越数的讨论相对应。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:16:16.594Z",
+    "imageHash": "457f4c24d721f7bd4d7c92df5913a86fb339db6604fff691ff53c2129d1fb43d",
+    "outputLanguage": "Chinese"
+  },
+  "ad81c213addd3bff2cf10f7cf3f9926201fd34e9f486e20d4918d90d9bbbc7f5::language:chinese": {
+    "caption": "该图是一个展示环论中各类环之间蕴含关系的层级示意图。图中最上方为“欧几里得环”，向下箭头指向“主理想环”；“主理想环”再分出两个箭头，分别指向左下方的“唯一因子分解环”和右下方的“诺特环”；“诺特环”下方还有一个向下箭头指向“拉斯克-诺特定理”。整图由黑色文字和单向箭头构成，无坐标轴或数值，结合上下文（关于理想 $\\mathcal{A} \\cap \\mathcal{B}$ 与 $\\mathcal{A} + \\mathcal{B}$ 的讨论），该图用于说明不同类型环之间的强弱关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:28:58.572Z",
+    "imageHash": "ad81c213addd3bff2cf10f7cf3f9926201fd34e9f486e20d4918d90d9bbbc7f5",
+    "outputLanguage": "Chinese"
+  },
+  "fe6934e042739bb680d004e06b6450927cf07696ce7bf1a6005be14fe5388619::language:chinese": {
+    "caption": "图中为一个细长矩形框，黑色边框，框内居中显示斜体衬线字母“hg”。结合上下文关于相似变换与三角形相似的几何内容，该图形可能表示一个以 h 和 g 为标记的矩形（如边长或面积记号），但图中未标注其他文字、坐标或箭头。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:38:41.315Z",
+    "imageHash": "fe6934e042739bb680d004e06b6450927cf07696ce7bf1a6005be14fe5388619",
+    "outputLanguage": "Chinese"
+  },
+  "d53314e9229ada5ac2fe88d4ea373dbde5821886e2facdc6e2ab33f588909c01::language:chinese": {
+    "caption": "图中显示两条平行的有向线段（箭头），均从左下方指向右上方。每条线段的起点处画有一个空心小圆圈，终点处为一个实心黑点，箭头尖端紧邻黑点。图中没有任何文字标注，该示意图可能用于说明向量或平移的概念。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:38:41.873Z",
+    "imageHash": "d53314e9229ada5ac2fe88d4ea373dbde5821886e2facdc6e2ab33f588909c01",
+    "outputLanguage": "Chinese"
+  },
+  "5f66757585fcfb75573344563c3f4ca803b31e2613ebb4fa47b675c9bb2624e5::language:chinese": {
+    "caption": "图中显示一个较大的圆，圆心处有一个实心黑点表示圆心。圆周顶部有一个实心黑点，圆周的右上方有一个空心小圆圈，一条带箭头的弧线沿圆周从空心小圆圈逆时针方向指向顶部的实心黑点。该图无任何文字标注，结合上下文（克莱因的埃尔兰根纲领），可能用于示意圆上的点经旋转等变换的对应关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:38:41.991Z",
+    "imageHash": "5f66757585fcfb75573344563c3f4ca803b31e2613ebb4fa47b675c9bb2624e5",
+    "outputLanguage": "Chinese"
+  },
+  "86b46683b1f8828faa4b192ff7110aaf2b1fb6219ac7cd1a19dbe8bcdd32bc6d::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），无法直接观察其视觉细节。根据上下文，该图片出自《数学指南：实用数学手册》第26至31页，所在章节主题为“由克莱因的埃尔兰根纲领所概括的几何学的基本思想”，图片前后紧邻其他图片文件（001与003编号），推测为该章节中的插图或图表。由于无法确认图中实际内容，此处仅能依据文件名与周边文本提供上述背景信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:38:43.183Z",
+    "imageHash": "86b46683b1f8828faa4b192ff7110aaf2b1fb6219ac7cd1a19dbe8bcdd32bc6d",
+    "outputLanguage": "Chinese"
+  },
+  "7dd943349512e3fa16540b9f9648246c4611db262db5777e3bda43116c24f4ee::language:chinese": {
+    "caption": "图中显示一个由8个顶点组成的图结构：外层是一个大正方形，四个角为黑色实心圆点，且每个角沿对角线方向向外延伸出带箭头的短线；内层是一个小正方形，四个顶点为白色空心圆圈。外层四个角与内层正方形的顶点之间有连线，两条对角线穿过中心相互交叉，连接对角的外顶点并经过内层顶点。该图出现在与克莱因的埃尔兰根纲领所概括的几何学基本思想相关的内容中，图中无其他文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:38:56.768Z",
+    "imageHash": "7dd943349512e3fa16540b9f9648246c4611db262db5777e3bda43116c24f4ee",
+    "outputLanguage": "Chinese"
+  },
+  "a1e324793dd430d4c66b9b363f4e8331c0996bf15ad061775b629be2f3a684cc::language:chinese": {
+    "caption": "图中是一条从左下延伸到右上的斜直线，另一支带箭头的线段从右下方的一个空心小圆出发，穿过这条斜线，箭头指向左上方的一个实心黑点。该图形呈现了一个点（空心圆）经由斜线映射（如反射或变换）到另一个点（实心圆）的示意结构，图中无任何文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:39:02.213Z",
+    "imageHash": "a1e324793dd430d4c66b9b363f4e8331c0996bf15ad061775b629be2f3a684cc",
+    "outputLanguage": "Chinese"
+  },
+  "4d9fedb0d800038db32f4cee44783f9bc2c335ac371d09bc15add5d6eff97308::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉细节。根据上下文文件名信息，该图片出自《数学指南实用数学手册》第9-321节“平面三角学”部分，是连续扫描页面序列中的第004页（前后分别为003和005页）。由于无法确认页面上的实际文字、公式或图表内容，无法提供更具体的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:42:50.517Z",
+    "imageHash": "4d9fedb0d800038db32f4cee44783f9bc2c335ac371d09bc15add5d6eff97308",
+    "outputLanguage": "Chinese"
+  },
+  "97cdc69c4dafc1e717c30bbf0eb44de3d3b2164da6fe553efd4564526fdf1760::language:chinese": {
+    "caption": "图中为一个三角形几何示意图，顶点标记为 A、B、C，三条边分别标注为 a、b、c，三个内角分别标注为 α（位于顶点 A 处）、β（位于顶点 B 处）、γ（位于顶点 C 处）。从顶点 A 向边 BC 的延长线作垂线，垂线标注为 h_a，垂足处画有小圆圈和直角记号，表示三角形的高。该图用于平面三角学中说明三角形边角关系及高的作法。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:42:53.413Z",
+    "imageHash": "97cdc69c4dafc1e717c30bbf0eb44de3d3b2164da6fe553efd4564526fdf1760",
+    "outputLanguage": "Chinese"
+  },
+  "0af14dfdf1a7d82e9e05f4d0ba8977715c54ba1165164164c4f5609c8db040bf::language:chinese": {
+    "caption": "该图片内容未能成功加载，无法查看其具体视觉内容。根据上下文，此图出自《数学指南实用数学手册》第9-321节“平面三角学”部分，是连续图片序列中的第三张（文件名003开头）。由于图像不可见，无法提供图中文字、公式、图表或图形元素的逐字描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:42:55.030Z",
+    "imageHash": "0af14dfdf1a7d82e9e05f4d0ba8977715c54ba1165164164c4f5609c8db040bf",
+    "outputLanguage": "Chinese"
+  },
+  "9a2d0b079ef6e4334edd808da8d49fab946d3247890df8112ed04a48cf19fde5::language:chinese": {
+    "caption": "图中展示了一个三角形示意图：三角形顶点均以黑色圆点标出，两条腰均标注为 a，底边标注为 c。顶角（顶点处）用弧线标出并标注为 γ，左底角标注为 α，右底角标注为 β，各角均以弧线标记。该图出自数学手册的平面三角学部分，用于说明三角形的边角记号。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:03.019Z",
+    "imageHash": "9a2d0b079ef6e4334edd808da8d49fab946d3247890df8112ed04a48cf19fde5",
+    "outputLanguage": "Chinese"
+  },
+  "76f05e3e576a57249bd837ea4a74a53f1f7b2026498d567a8fb4b1d894a39128::language:chinese": {
+    "caption": "图片内容未能加载，仅显示“[unsupported content type: image_url]”的占位提示，因此无法确认其具体画面内容。根据前后文中的文件路径信息，该图出自《数学指南实用数学手册》第9-321节“平面三角学”，是编号005的插图，位于004号与006号图片之间。由于图像本身不可见，无法描述其中的文字、公式、图表或图形元素。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:03.158Z",
+    "imageHash": "76f05e3e576a57249bd837ea4a74a53f1f7b2026498d567a8fb4b1d894a39128",
+    "outputLanguage": "Chinese"
+  },
+  "8abef526d927531caba5bc33c97b62eeeb0c34121ce3698d899cd6caf846eb8f::language:chinese": {
+    "caption": "该图片为文档中标注为“图3.9”的插图，位于平面三角学章节（9.321）内。图片前的公式片段为 CB/CB′，表明该图很可能是一个涉及点 C、B、B′（可能还有点 A）的几何示意图，用于配合正弦定理或相似三角形等相关推导。由于图片内容本身未能加载显示，图中具体的线条结构、角度标记及其他标注文字无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:05.494Z",
+    "imageHash": "8abef526d927531caba5bc33c97b62eeeb0c34121ce3698d899cd6caf846eb8f",
+    "outputLanguage": "Chinese"
+  },
+  "0d1b662cf3557464a2ee8155558c507b0de9da9a32d4b3f4bfa77a3269f7baf5::language:chinese": {
+    "caption": "该图片未能正常加载显示（系统提示不支持该图片内容类型），因此无法描述其具体的视觉细节、文字或图表结构。根据上下文文件名信息，此图出自《数学指南：实用数学手册》第9-321节“平面三角学”部分，是连续插图序列中的第006张（文件名以006-32cc569d开头）。图片前后均为同章节其他插图的文件引用，未提供可用的图注、标题或说明文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:07.773Z",
+    "imageHash": "0d1b662cf3557464a2ee8155558c507b0de9da9a32d4b3f4bfa77a3269f7baf5",
+    "outputLanguage": "Chinese"
+  },
+  "0192cd6266e53343c2b2ab78704e08d3e769d3e72b459c154882f06025411b67::language:chinese": {
+    "caption": "无法查看该图像的实际内容，图片数据未能正常加载。根据上下文文件名信息，该图出自《数学指南实用数学手册》第321页附近的“平面三角学”章节，是连续插图序列中的第009张（位于008号与010号图片之间）。除文件名中包含的书籍名称、页码和章节主题外，无法确认图中的具体文字、图表坐标轴、数值或图形结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:14.470Z",
+    "imageHash": "0192cd6266e53343c2b2ab78704e08d3e769d3e72b459c154882f06025411b67",
+    "outputLanguage": "Chinese"
+  },
+  "104b213db5353be9dfcbfb1c40f7c83b639e65300dd4d15c441a46c8823fbfee::language:chinese": {
+    "caption": "图中为一个平面三角学几何示意图：三角形顶点 A 位于左下角、C 位于顶部、P 位于底部中间，各顶点均以黑点标出；边 AC 标记为 a，由 C 垂直向下至 P 的线段标记为 h，底边 A 至 P 的下方也标记为 h。角 A 处用弧线标出角 α，顶点 C 处边 a 与垂线 h 之间的夹角同样标为 α。另有一条线段从 C 连向右侧更远处的另一个点 P，与底边延长线构成辅助三角形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:15.353Z",
+    "imageHash": "104b213db5353be9dfcbfb1c40f7c83b639e65300dd4d15c441a46c8823fbfee",
+    "outputLanguage": "Chinese"
+  },
+  "575f9969b02e8687c6bb1c86546862c278b66fd09a105301e1aedaaf5fa06d01::language:chinese": {
+    "caption": "图片内容未能加载，显示为“[unsupported content type: image_url]”，因此无法看到图像中的任何文字、图表或图形元素。根据上下文文件名可推断，该图出自《数学指南实用数学手册》第9-321节“平面三角学”部分，是编号010的插图（位于009与011号图片之间）。由于无法实际查看图像，无法提供其具体视觉内容的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:17.227Z",
+    "imageHash": "575f9969b02e8687c6bb1c86546862c278b66fd09a105301e1aedaaf5fa06d01",
+    "outputLanguage": "Chinese"
+  },
+  "fc90447c1c0a822dcae3c701c777ef714308e7abf09478954df78f719ae2e13a::language:chinese": {
+    "caption": "该图片内容无法正常加载显示（系统提示不支持该图片类型），因此无法确认其中的具体文字、图表或图形元素。根据上下文判断，此图出自《数学指南实用数学手册》第9-321节“平面三角学”部分，是文档中连续排列的系列图片之一（编号011），前后均为同章节的其他图片文件。建议重新提供可读取的图片文件以便进行准确描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:18.751Z",
+    "imageHash": "fc90447c1c0a822dcae3c701c777ef714308e7abf09478954df78f719ae2e13a",
+    "outputLanguage": "Chinese"
+  },
+  "7448e70cd47a586fb0e60ed12795209d7ff71f0cd214541e9e193dc8fa71545b::language:chinese": {
+    "caption": "图中显示一个圆，圆周上有三点 A、B、C 构成内接三角形，圆内一点 M（似为圆心）与 A、B 相连。顶点 C 处的圆周角标注为 γ，M 处的圆心角标注为 2γ，用以演示圆周角定理（同弧上的圆心角为圆周角的两倍）。该图出自数学手册的平面三角学部分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:22.933Z",
+    "imageHash": "7448e70cd47a586fb0e60ed12795209d7ff71f0cd214541e9e193dc8fa71545b",
+    "outputLanguage": "Chinese"
+  },
+  "00f989dde5f4b7add57ae86de81ef75817762933c2fc74e3400bc13f998198ab::language:chinese": {
+    "caption": "图中展示了一个平面几何示意图：顶点 C 位于上方，从 C 出发有两条射线分别向左下和右下延伸，被两条水平直线所截。上面的水平直线与两射线的交点标记为 A 和 B，下面的水平直线与两射线的交点标记为 A′ 和 B′。在点 A 和 A′ 处的角均标注为 α，在点 B 和 B′ 处的角均标注为 β，用以说明两条水平线被同一组射线所截时同位角相等（即 AB 与 A′B′ 平行）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:26.424Z",
+    "imageHash": "00f989dde5f4b7add57ae86de81ef75817762933c2fc74e3400bc13f998198ab",
+    "outputLanguage": "Chinese"
+  },
+  "3d2a28c6c2b7a6faabade2f47855215e38f52e5a80cd8e2c8cb9fbec5059ca84::language:chinese": {
+    "caption": "该图片未能正常加载显示（系统提示不支持该图片内容类型），因此无法描述其具体的图表、公式或文字内容。根据上下文文件名判断，此图出自《数学指南实用数学手册》第9-321节“平面三角学”部分，是文档中连续插图序列（012至014）中的第013张图片。周围文本仅为相邻图片的文件路径引用，未包含任何可锚定的图号、标题或内容说明。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:43:27.559Z",
+    "imageHash": "3d2a28c6c2b7a6faabade2f47855215e38f52e5a80cd8e2c8cb9fbec5059ca84",
+    "outputLanguage": "Chinese"
+  },
+  "1837bcfecc5d1a731a8f656fdd911df7949e42592e419e1a50bcda87697a0ae8::language:chinese": {
+    "caption": "图中显示一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内画有一个直角三角形：左下顶点标为 A，右上顶点标为 B，三个顶点处均有黑色圆点。连接 A 与 B 的斜边标注为 d，斜边与水平线之间的夹角用弧线箭头标出并标注为 α。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:11.272Z",
+    "imageHash": "1837bcfecc5d1a731a8f656fdd911df7949e42592e419e1a50bcda87697a0ae8",
+    "outputLanguage": "Chinese"
+  },
+  "a98ba2826c1526ce19b1e65aead55595617c89dab824c92fcdfce6f7c46f4028::language:chinese": {
+    "caption": "图中显示一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内画有一个三角形，其三个顶点分别为 A、B 和 P，其中 A 和 B 用实心黑点表示，P 用空心圆圈表示。在顶点 A 处标注角 α，在顶点 B 处标注角 β，该图用于说明大地测量学中的角度交会（前方交会）原理。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:12.354Z",
+    "imageHash": "a98ba2826c1526ce19b1e65aead55595617c89dab824c92fcdfce6f7c46f4028",
+    "outputLanguage": "Chinese"
+  },
+  "a321d22a51421943aa500398ccd36756fe2fe08ba17c6301b65939cd8bd0f7b0::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内画有一个直角三角形：顶点 A 位于上方（用黑点标出），右下方顶点标注为 B（黑点），左下角顶点也用黑点标出但无字母标注。斜边 AB 旁标注字母 d，在左下角顶点处用弧线箭头标出角 α，该角位于竖直边与斜边 d 之间。该图应出自数学手册中“对大地测量学的应用”一节，用于说明距离 d 与角度 α 的几何关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:15.448Z",
+    "imageHash": "a321d22a51421943aa500398ccd36756fe2fe08ba17c6301b65939cd8bd0f7b0",
+    "outputLanguage": "Chinese"
+  },
+  "bbdf2c54f9e778dad0e5831ad442ecb14f3e9b463bcf7526556e1fc286f0a210::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息（如文字、图表、坐标轴或图形结构）。根据上下文，该图出自《数学指南：实用数学手册》第322页“13-322 对大地测量学的应用”一节，是位于文件004与006之间的第005张插图，但前后文本仅为图片文件路径引用，未提供任何说明性标题或图注。因此无法对该图的具体内容作出事实性描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:20.852Z",
+    "imageHash": "bbdf2c54f9e778dad0e5831ad442ecb14f3e9b463bcf7526556e1fc286f0a210",
+    "outputLanguage": "Chinese"
+  },
+  "95f74501cb206182c2a04e06b7c5c15fc11d2226748f06944512e50d961dbc22::language:chinese": {
+    "caption": "图中显示一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内有一点 P（空心圆点），从 P 出发引出三条线段分别连接到三个实心黑点 A、B、C，其中 A、B 之间和 B、C 之间也有线段相连，形成折线 A–B–C。在点 P 处标注了两个角：PA 与 PB 之间的角 α，以及 PB 与 PC 之间的角 β。该图出自《数学指南实用数学手册》中“对大地测量学的应用”一节，用于说明角度测量或方向确定问题。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:21.664Z",
+    "imageHash": "95f74501cb206182c2a04e06b7c5c15fc11d2226748f06944512e50d961dbc22",
+    "outputLanguage": "Chinese"
+  },
+  "faca72c3a132a42b131a3abcda9869b7f0569737d1cb26a3540a475194314f11::language:chinese": {
+    "caption": "图中为一个大地测量示意图：底部两点 A 与 B 之间标有基线 c，上方两点 P 与 Q 之间画有一个带斜线阴影的椭圆，标注为“湖”，并注明 d = PQ（P、Q 间距离）。在 A 点处标出角 α 和 β，在 B 点处标出角 γ 和 δ，四点之间以交叉连线（AP、AQ、BP、BQ）构成测量三角网，用于跨越湖泊间接测定 P、Q 两点间的距离。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:25.191Z",
+    "imageHash": "faca72c3a132a42b131a3abcda9869b7f0569737d1cb26a3540a475194314f11",
+    "outputLanguage": "Chinese"
+  },
+  "fba4043bb20e3e2545c01fb7dfae48eefdb18ed042f09c6858d25005816d2866::language:chinese": {
+    "caption": "该图是“对大地测量学的应用”一节的几何示意图，配合正文公式 x = σ cot β − ρ cot α、y = σ − ρ 以及 d = √(x² + y²) 的推导。图中以线条绘出观测点、基线与目标点之间的位置关系，并标注与公式对应的量：观测角 α、β，距离 σ、ρ，以及所求距离 d。整图为黑白线条插图，不含坐标轴或数值刻度，用于直观说明由测角和基线长度计算两点间距离的几何原理。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T11:46:31.338Z",
+    "imageHash": "fba4043bb20e3e2545c01fb7dfae48eefdb18ed042f09c6858d25005816d2866",
+    "outputLanguage": "Chinese"
+  },
+  "66582c0ad45e21ddc0e59d16fbd207f3c347fd2388fc4e253ff19c06279f0172::language:chinese": {
+    "caption": "图中画有一个大圆表示球面，圆内标有两个黑点 A 和 B，两点之间由一条弯曲的弧线（大圆弧）连接，弧线旁引出一条线标注字母 S，表示该弧段。在顶点 A 处标出角 α，由弧线与另一条短线构成夹角。右下方画有几条短弧线，用以暗示球面的弯曲表面。该图出自球面几何学部分，展示球面上两点间的弧段 S 及其在点 A 处的夹角 α。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:03:07.524Z",
+    "imageHash": "66582c0ad45e21ddc0e59d16fbd207f3c347fd2388fc4e253ff19c06279f0172",
+    "outputLanguage": "Chinese"
+  },
+  "554351d474ec7c32f3c4e759bece27ad961ed90f42ac25d25c72ac9146287d65::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息。根据上下文，该图片来自一份中文数学文档《数学指南实用数学手册》，前后均为图片文件路径引用（如 media/10-数学指南实用数学手册--9-323-球面几何学--1e89i27/ 目录下的 002 与 004 编号图片），文件名中包含“球面几何学”字样，提示该图可能属于球面几何学章节，但周围文本未提供任何图注、标题或说明文字，故无法确认图中具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:03:28.695Z",
+    "imageHash": "554351d474ec7c32f3c4e759bece27ad961ed90f42ac25d25c72ac9146287d65",
+    "outputLanguage": "Chinese"
+  },
+  "98ae367319e09b4199da142efc15811e116fee560db43f572d0b7819825225e1::language:chinese": {
+    "caption": "该图片未能成功加载，无法查看其具体内容。根据上下文，此图出自《数学指南：实用数学手册》第9-323节“球面几何学”部分，是文档中连续引用的本地图片序列中的一张（其前为001号图片，其后为003号图片）。周围文本未提供可确认图片内容的标题、图号或说明文字，故无法描述图中的文字、坐标轴、图形结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:03:49.527Z",
+    "imageHash": "98ae367319e09b4199da142efc15811e116fee560db43f572d0b7819825225e1",
+    "outputLanguage": "Chinese"
+  },
+  "edd0593c34555ba9d264751a36627acea365349f6465bc966b2e2920d36a81a4::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图像数据未能加载）。根据上下文，该图片位于《数学指南：实用数学手册》第9章“球面几何学”一节中，紧接在余弦定律公式 cos γ = sin α sin β cos c* − cos α cos β 之后，推测为球面三角形相关的插图或后续公式排版内容，但具体画面细节无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:04:03.208Z",
+    "imageHash": "edd0593c34555ba9d264751a36627acea365349f6465bc966b2e2920d36a81a4",
+    "outputLanguage": "Chinese"
+  },
+  "50ac0305eff7f0811d95110afd146ea8f9ae05ec6b748394e7504a65721c251a::language:chinese": {
+    "caption": "无法获取该图像的实际内容，系统显示图像内容类型不受支持，因此无法描述其中的文字、图表或图形元素。根据前后文中的文件路径信息，该图出自《数学指南实用数学手册》第323页“球面几何学”一节，是文档中连续插图（004至006号文件）之间的一张图片。在无法查看图像的情况下，不能对其中的坐标轴、数值、框图结构或可见文字作任何具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:04:35.940Z",
+    "imageHash": "50ac0305eff7f0811d95110afd146ea8f9ae05ec6b748394e7504a65721c251a",
+    "outputLanguage": "Chinese"
+  },
+  "ec2d91adf520e5db5a59db11c334bcd843cb368ec890d125bc9efeb14b2f1064::language:chinese": {
+    "caption": "图片内容未能加载，无法看到任何可见的视觉元素、文字或图表。根据上下文文件名信息，该图片来自《数学指南：实用数学手册》第9-323页“球面几何学”章节的插图（文件005-91e63aba...jpg），推测为该章节中的数学图示，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:05:12.745Z",
+    "imageHash": "ec2d91adf520e5db5a59db11c334bcd843cb368ec890d125bc9efeb14b2f1064",
+    "outputLanguage": "Chinese"
+  },
+  "0de562accb3c578b91c19dcb2b5612047effaee058b335bcb6b47a2af3eec522::language:chinese": {
+    "caption": "图片内容无法加载（显示为不支持的内容类型），因此无法确认图中的具体视觉元素、文字或标注。根据前后文判断，该图应出自数学教材中与公式 (3.15) 和 (3.16) 相关的推导部分，上下文涉及角 $c_* = 54^\\circ$、弧长 $c = R \\frac{2\\pi c_*^\\circ}{360^\\circ} = 6000$ 以及角 $\\beta$ 的确定，推测为相关的几何示意图，但此推断无法从图像本身得到验证。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:23:16.970Z",
+    "imageHash": "0de562accb3c578b91c19dcb2b5612047effaee058b335bcb6b47a2af3eec522",
+    "outputLanguage": "Chinese"
+  },
+  "2552c8525cf2ce3b740266f5c73197a3f19b3a71f92c4a12991ec7f1bf039bc3::language:chinese": {
+    "caption": "图中显示一条水平直线，直线右端标注字母 l，直线上从左至右依次标有三个黑点，分别标注为 A、B、C。该图出自《数学指南实用数学手册》中“几何的希尔伯特公理”一节，用于示意直线上的点（如点属于直线的关联关系）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:22.474Z",
+    "imageHash": "2552c8525cf2ce3b740266f5c73197a3f19b3a71f92c4a12991ec7f1bf039bc3",
+    "outputLanguage": "Chinese"
+  },
+  "15f3dd7606b7bec78ac5eb1ec80062550d0d787229dcb273510bd55873930ea1::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），无法直接观察其视觉细节。根据上下文文件路径可知，该图出自《数学指南：实用数学手册》中“几何的希尔伯特公理”一节，为该章节的第003张图片（文件名以003开头），前后均为同章节的连续图片引用，未提供可用的图注或说明文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:25.946Z",
+    "imageHash": "15f3dd7606b7bec78ac5eb1ec80062550d0d787229dcb273510bd55873930ea1",
+    "outputLanguage": "Chinese"
+  },
+  "6677a89c533d7529a2e1d07e51858a85de643bd6374424047f34ebfd1f0ec636::language:chinese": {
+    "caption": "图片内容未能正常加载，无法直接查看其视觉细节。根据图注，该图为“图 3.24 阿基米德公理”，出自关于几何的希尔伯特公理的章节；其前文论述“则由这些公理定义的几何也不会出现矛盾”，即讨论公理系统的相容性。由此推断该图应为说明阿基米德公理的示意图，但图中具体的线段、标注或文字内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:28.975Z",
+    "imageHash": "6677a89c533d7529a2e1d07e51858a85de643bd6374424047f34ebfd1f0ec636",
+    "outputLanguage": "Chinese"
+  },
+  "b6e3b65b63a920e91538e735ee8317a8c0e34fcbdf007fcab8dd333df714b3d8::language:chinese": {
+    "caption": "图片内容未能加载，无法直接观察其视觉细节。根据上下文文件名可知，该图出自《数学指南：实用数学手册》第13-325节“几何的希尔伯特公理”部分，且前后均为相邻图片的引用标记，无文字说明可佐证图中具体内容。因此仅能推断该图很可能为与希尔伯特几何公理相关的示意图（如点、线、面等几何元素），但无法确认其确切的图形结构、标注文字或数值。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:29.758Z",
+    "imageHash": "b6e3b65b63a920e91538e735ee8317a8c0e34fcbdf007fcab8dd333df714b3d8",
+    "outputLanguage": "Chinese"
+  },
+  "70ab99dddca39b5cc1f45ef8f60370556b36a1efbd4c23df87817471c6a9c60c::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图像数据未能加载，显示为不支持的内容类型）。根据上下文文件路径可知，该图出自《数学指南：实用数学手册》第13-325节“几何的希尔伯特公理”部分，是编号006的插图，位于编号005与007的图片之间。由于无法看到图像本身，无法提供其中可见的文字、坐标轴数值或图形结构等具体细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:32.027Z",
+    "imageHash": "70ab99dddca39b5cc1f45ef8f60370556b36a1efbd4c23df87817471c6a9c60c",
+    "outputLanguage": "Chinese"
+  },
+  "2b17a7b358b3705d0f33cca3f571664189c14afd94493d294366f2aac209f8b0::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图像数据未能加载），因此无法描述其中的文字、图表或图形细节。根据上下文文件路径，该图片来自《数学指南实用数学手册》第13-325节“几何的希尔伯特公理”部分，编号为005，推测是与希尔伯特几何公理相关的插图或公式，但具体内容无法确认。如需准确描述，请提供可读取的图像数据。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:32.199Z",
+    "imageHash": "2b17a7b358b3705d0f33cca3f571664189c14afd94493d294366f2aac209f8b0",
+    "outputLanguage": "Chinese"
+  },
+  "d39f10de4b3705b14e3e5887ab83f6bbcffb5d70b1b250e38538b16c30f5a86d::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其视觉细节。根据上下文文件路径可知，该图出自《数学指南：实用数学手册》第325页“几何的希尔伯特公理”一节，位于编号006与008的两张图片之间（即编号007），推测为与希尔伯特几何公理相关的数学图示或公式插图。由于图像本身不可见，无法确认其中的具体文字、坐标轴、图形结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:36.222Z",
+    "imageHash": "d39f10de4b3705b14e3e5887ab83f6bbcffb5d70b1b250e38538b16c30f5a86d",
+    "outputLanguage": "Chinese"
+  },
+  "b447e6cd867ded9f8f366ee9711bfda51a7e04882601351a8a81ffe6e6b390c4::language:chinese": {
+    "caption": "几何示意图：一条水平直线，右端标注为 l，直线上方标有花体字母 𝒜，下方标有花体字母 ℬ，表示以直线 l 分界的两个半平面。图中画有四个黑点：点 A 位于直线上方，点 B 位于直线下方，线段 AB 竖直穿过直线 l；点 A′ 位于 A 的右上方，由线段与 A 相连，点 B′ 位于 B 的右下方，由线段与 B 相连。该图出自关于几何的希尔伯特公理的内容，用于说明点关于直线 l 的对称（反射）关系及半平面划分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:39.539Z",
+    "imageHash": "b447e6cd867ded9f8f366ee9711bfda51a7e04882601351a8a81ffe6e6b390c4",
+    "outputLanguage": "Chinese"
+  },
+  "53d77175550b79737a4e7ba90a947f5d0d94fe5b868fa08553c1628d0885986c::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其视觉细节。根据上下文，该图位于一份中文数学文档中，文档主题为“几何的希尔伯特公理”（出自《数学指南实用数学手册》第13-325节），且该图是连续图片序列中的第010张，前后分别为编号009和011的图片文件。由于周围文本仅为图片文件路径引用，未包含对该图内容的文字说明或图注，故无法提供图中可见的文字、坐标轴、数值或图表结构等具体信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:43.666Z",
+    "imageHash": "53d77175550b79737a4e7ba90a947f5d0d94fe5b868fa08553c1628d0885986c",
+    "outputLanguage": "Chinese"
+  },
+  "15eb7751584337440aa32da3d730b28a1312dfabfd55f82a47de2f4a96aed4f8::language:chinese": {
+    "caption": "图中显示一个几何示意图：左侧有一个实心黑点（表示一个点），从该点引出两条射线。上方一条射线向右上方延伸，端点标注为 c′；下方一条射线向右略偏下方向延伸，端点标注为 b′。该图出自《数学指南实用数学手册》中“几何的希尔伯特公理”一节，用于说明从同一点出发的两条射线（半线）的位置关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:46.215Z",
+    "imageHash": "15eb7751584337440aa32da3d730b28a1312dfabfd55f82a47de2f4a96aed4f8",
+    "outputLanguage": "Chinese"
+  },
+  "931050d25111ff439a98ddfa8e46251b89e08d1b4a986bdda3a569357d9a4311::language:chinese": {
+    "caption": "该图片未能成功加载，系统提示\"unsupported content type: image_url\"，因此无法查看其具体内容。根据文件路径信息，此图来自《数学指南实用数学手册》中“几何的希尔伯特公理”一节（编号13-325），为该系列图片中的第009张。前后文本仅为其他图片文件的引用链接，未提供可用的图注或说明文字，故无法描述图中的具体文字、坐标轴或图形结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:46.391Z",
+    "imageHash": "931050d25111ff439a98ddfa8e46251b89e08d1b4a986bdda3a569357d9a4311",
+    "outputLanguage": "Chinese"
+  },
+  "c0e95d7b0b7366e4bfe997af40c2d8de3801e29fbfe93c129fbc1354b661ffef::language:chinese": {
+    "caption": "该图片内容未能成功加载，无法查看其具体视觉细节（显示为不支持的图片格式）。根据上下文文件路径可知，此图来自《数学指南实用数学手册》中“几何的希尔伯特公理”一节，是编号为011的连续页面图片（前为010，后为012）。由于无法看到实际内容，无法描述其中的文字、公式或图表结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:47.743Z",
+    "imageHash": "c0e95d7b0b7366e4bfe997af40c2d8de3801e29fbfe93c129fbc1354b661ffef",
+    "outputLanguage": "Chinese"
+  },
+  "5e7b0a4ee1a623fefcd6675a42417f2bb4a9c5a20a00e0ee183899b80d946a1d::language:chinese": {
+    "caption": "图中显示一个三角形，三个顶点均以黑色实心圆点标出，并分别标注为 A′（左下角）、B′（右下角）和 C′（上方顶点）。三条线段连接 A′、B′、C′ 构成三角形轮廓。结合上下文，该图出自关于几何的希尔伯特公理的章节，应为说明几何图形（如三角形/点）的示意图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:52.341Z",
+    "imageHash": "5e7b0a4ee1a623fefcd6675a42417f2bb4a9c5a20a00e0ee183899b80d946a1d",
+    "outputLanguage": "Chinese"
+  },
+  "6cedf224fd1f665df10734099e559b693aa7e2f195afa4e86674ca39087a4fa7::language:chinese": {
+    "caption": "该图片内容无法正常显示（图像数据不可用），因此无法描述其可见文字、坐标轴、数值或图形结构。根据上下文文件名可推断，此图出自《数学指南：实用数学手册》中“几何的希尔伯特公理”一节的嵌入插图。除此之外没有可核实的视觉细节，不作进一步推测。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:56.794Z",
+    "imageHash": "6cedf224fd1f665df10734099e559b693aa7e2f195afa4e86674ca39087a4fa7",
+    "outputLanguage": "Chinese"
+  },
+  "ce213299220d76f27b29e5b2c1ab5ac9ebbffded24b11d66663468e95d004219::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉细节。根据上下文，该图片位于一份中文数学文档中，文档主题为“几何的希尔伯特公理”（出自《数学指南实用数学手册》），前后均为同章节的图片文件引用（编号012与014之间，本图为013）。因此可推断该图很可能与希尔伯特几何公理体系相关，但无法确认图中具体包含的文字、图形或标注内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:24:58.093Z",
+    "imageHash": "ce213299220d76f27b29e5b2c1ab5ac9ebbffded24b11d66663468e95d004219",
+    "outputLanguage": "Chinese"
+  },
+  "196a8d2caf3e770fb2c5fbee04770d5234efc79cbf0fc8f18b2db8bf716ba32e::language:chinese": {
+    "caption": "图中是一个带边框的文本框，内容为“欧几里得平行公理（图 3.25）　如果一点 P 不在一条直线 l 上， 则恰好存在一条包含点 P 的直线 p, 它平行于 l.”。文本框下方是一个示意图，画有两条水平平行线：上方直线标记为 p，线上有一个黑点并标注字母 P；下方直线标记为 l。该图对应正文所讨论的图 3.25，用于说明平行公理。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:27:00.721Z",
+    "imageHash": "196a8d2caf3e770fb2c5fbee04770d5234efc79cbf0fc8f18b2db8bf716ba32e",
+    "outputLanguage": "Chinese"
+  },
+  "8f9db7107599ea49e2ae5c29360e1cfdff250d8dc52b32d20faa65cc4bbe19d7::language:chinese": {
+    "caption": "图3.26：一个球体示意图，球面上标有黑点A（左）、B（右）和P（顶部），从A经P到B画有两条带箭头的实线弧线，分别由引线标注为l和m；球的下半部分用虚线画出赤道轮廓，右下方引线标注“赤道”。该图用于说明球面上两点间的测地线（大圆弧）情形，与前后文中关于公理在几何定理证明中作用的讨论相关。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:28:59.821Z",
+    "imageHash": "8f9db7107599ea49e2ae5c29360e1cfdff250d8dc52b32d20faa65cc4bbe19d7",
+    "outputLanguage": "Chinese"
+  },
+  "f7ac1eec124d1ceb15239e488b5b7f1765a1c0c91e38d1d7e609293688a2c25e::language:chinese": {
+    "caption": "图中展示了一条水平虚线，虚线左端点处标有小圆圈并注有字母 Q，虚线上方绘有两个半圆弧。外侧较大的半圆弧上标有一个黑点 P，该弧通过引线标注为 p；内侧较小的半圆弧上标有两个黑点 A 和 B，该弧通过引线标注为 l。该图出自非欧双曲几何学部分，示意庞加莱半平面模型中以虚线为边界的测地线（半圆弧 p 与 l）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:30:16.292Z",
+    "imageHash": "f7ac1eec124d1ceb15239e488b5b7f1765a1c0c91e38d1d7e609293688a2c25e",
+    "outputLanguage": "Chinese"
+  },
+  "57b91061d88cb4cbd6f64ae9cde1ba68f0d4ba2757ddf6590e6f2fe692670512::language:chinese": {
+    "caption": "图片内容未能加载，系统显示“不支持的内容类型： image_url”，因此无法确认图中的具体文字、坐标轴、数值或图形结构。根据上下文文件名可知，该图出自《数学指南实用数学手册》第11章第328页“非欧双曲几何学”一节，推测为该章节的插图，但无法核实其具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:30:17.766Z",
+    "imageHash": "57b91061d88cb4cbd6f64ae9cde1ba68f0d4ba2757ddf6590e6f2fe692670512",
+    "outputLanguage": "Chinese"
+  },
+  "2d7b946c115706d6dc9bdadfe6f4acf2668bff6b35aeda1aeca56328514704f7::language:chinese": {
+    "caption": "该图片内容未能加载（显示为不支持的内容类型），因此无法确认其具体视觉细节。根据上下文，此图出自《数学指南——实用数学手册》第328页“非欧双曲几何学”一节，紧接在庞加莱模型度量公式 ds² = (dx² + dy²)/y²（y > 0）之后，该模型具有（负）常值高斯曲率 K = -1。图片很可能展示与庞加莱上半平面模型相关的几何示意图（如测地线或几何光学解释），但具体内容无法核实。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:30:22.826Z",
+    "imageHash": "2d7b946c115706d6dc9bdadfe6f4acf2668bff6b35aeda1aeca56328514704f7",
+    "outputLanguage": "Chinese"
+  },
+  "fea94cd0de1336ae43952df7df10ca0aa49672bf6ffad57f0950c9482a02412b::language:chinese": {
+    "caption": "图中标注为 (b) 的示意图展示了一个平面直角坐标系：原点 O 处画有小圆圈，沿横轴和纵轴分别标出单位向量 i 和 j（带箭头）。从原点 O 出发的一个带箭头的向量 r 指向点 P，点 P 用实心圆点表示，其位置由虚线投影到坐标轴上，横轴对应 x、纵轴对应 y。该图用于说明向量及其坐标分量（x, y）的几何表示。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:34:50.216Z",
+    "imageHash": "fea94cd0de1336ae43952df7df10ca0aa49672bf6ffad57f0950c9482a02412b",
+    "outputLanguage": "Chinese"
+  },
+  "f8397688a79072abf809bc49d02282d895b3667c72489ef170aaa45aa6d9ce73::language:chinese": {
+    "caption": "图中展示了一个直角坐标系（纵轴为 y，横轴为 x），原点处画有一个小圆圈。一条斜直线穿过坐标系，线上标有两点：点 P₀ 和点 P。从原点分别引出两个位置向量 r₀（指向 P₀）和 r（指向 P），并沿直线方向标出一个方向向量 v，其箭头指向直线下方，用以说明直线的向量参数方程 r = r₀ + tv 的几何意义。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:34:51.797Z",
+    "imageHash": "f8397688a79072abf809bc49d02282d895b3667c72489ef170aaa45aa6d9ce73",
+    "outputLanguage": "Chinese"
+  },
+  "8bdff88e97a2016eda392a96addb1fc0827815d0af2d7aaaf7e6d021e694286d::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系（x 轴、y 轴），从原点出发画出三个向量 r₀、r₁ 和 r，其中 r₀ 的终点为直线上的点 P₀（用实心圆点标出），r 的终点为同一直线上的点 P。一条斜线穿过 P₀ 和 P，旁边用箭头标注 v = r₁ − r₀，表示该直线的方向向量。该图用于说明直线的向量方程，即通过定点 P₀（位置向量 r₀）和方向向量 v 确定直线上的任意点 P（位置向量 r）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:34:51.981Z",
+    "imageHash": "8bdff88e97a2016eda392a96addb1fc0827815d0af2d7aaaf7e6d021e694286d",
+    "outputLanguage": "Chinese"
+  },
+  "fdc07f96f0014c64735dae49913d4fdb7ef327735ac9bcff20ada32e61261425::language:chinese": {
+    "caption": "该图片为数学手册中的插图，根据上下文标注为“图3.34 二维和三维体积”，包含(a)和(b)两个子图，分别对应二维和三维情形的示意。图片所属章节内容与向量代数在解析几何学中的应用相关。需要说明的是，图片本身未能成功加载显示（提示为不支持的内容类型），因此无法确认图中具体的几何图形、坐标轴、标注文字等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:34:53.359Z",
+    "imageHash": "fdc07f96f0014c64735dae49913d4fdb7ef327735ac9bcff20ada32e61261425",
+    "outputLanguage": "Chinese"
+  },
+  "a8e4d0f05422c8af8bffa2aeb859fd5abae2dd9f9cd4fc7abc19342a25bbb6f4::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉细节，仅显示“[unsupported content type: image_url]”的占位提示。根据上下文可知，该图片出自《数学指南实用数学手册》第17-33节“向量代数在解析几何学中的应用”部分，前后均为同一文档中的连续图片文件引用，未提供可用的图注或说明文字。因此无法描述图中的文字、坐标轴、数值或图形结构等具体信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:02.060Z",
+    "imageHash": "a8e4d0f05422c8af8bffa2aeb859fd5abae2dd9f9cd4fc7abc19342a25bbb6f4",
+    "outputLanguage": "Chinese"
+  },
+  "dc8f4ccf6340c5247125f46f4a2f7f1b50c96b1d4a685b8f3a256dd0363e2fba::language:chinese": {
+    "caption": "该图片未能正常加载显示（系统返回\"unsupported content type: image_url\"提示），因此无法观察其具体视觉内容、文字或图表细节。根据上下文文件名判断，此图出自《数学指南：实用数学手册》第17-33节“向量代数在解析几何学中的应用”部分的连续插图序列，位于004号与006号图片之间。周围文本仅为图片文件路径引用，未包含可用的图注、标题或说明文字，故无法提供进一步的图像描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:02.273Z",
+    "imageHash": "dc8f4ccf6340c5247125f46f4a2f7f1b50c96b1d4a685b8f3a256dd0363e2fba",
+    "outputLanguage": "Chinese"
+  },
+  "adc38cfb6d67b600e80e0dbd63477003dab440f2cfe36563e95e364a8ca52129::language:chinese": {
+    "caption": "该图片未能正常加载（显示为不支持的内容类型），无法查看其具体内容。根据上下文，此图出自《数学指南实用数学手册》第17-33节“向量代数在解析几何学中的应用”部分，前后文本仅为相邻图片的文件路径引用（编号007前后分别为006和008），未包含可确认图像内容的文字说明或图注。因此无法提供图中可见文字、坐标轴数值或图形结构的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:04.980Z",
+    "imageHash": "adc38cfb6d67b600e80e0dbd63477003dab440f2cfe36563e95e364a8ca52129",
+    "outputLanguage": "Chinese"
+  },
+  "cd76e894c8b62d95da627b8f8edfae843c376d104b0f1631305d4522603c0ab1::language:chinese": {
+    "caption": "图片内容未能成功加载，显示为不支持的内容类型，因此无法描述其具体的视觉细节、文字或图表结构。根据上下文可判断，该图片出自《数学指南：实用数学手册》第17-33节“向量代数在解析几何学中的应用”部分，是文档中连续图片序列（编号007至009）中的第008张插图。前后文本仅为图片文件的引用标记，未包含可用的图注、标题或说明文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:06.183Z",
+    "imageHash": "cd76e894c8b62d95da627b8f8edfae843c376d104b0f1631305d4522603c0ab1",
+    "outputLanguage": "Chinese"
+  },
+  "e49b336483b7b93c3f485a7e69a429f29c0daedb9df206c82302cf0f900b04e6::language:chinese": {
+    "caption": "无法获取该图像的实际内容，系统显示图像内容类型不受支持，因此无法描述其中的文字、图表坐标轴、数值或图形结构。根据上下文文件名可知，该图出自《数学指南：实用数学手册》第17-33节“向量代数在解析几何学中的应用”部分，是序列中的第010张插图，位于第009张与第011张插图之间。如需准确描述，请提供可访问的图像内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:07.357Z",
+    "imageHash": "e49b336483b7b93c3f485a7e69a429f29c0daedb9df206c82302cf0f900b04e6",
+    "outputLanguage": "Chinese"
+  },
+  "00ae1eabcc32c6e14074af7502335c3db5f8d58038bf9e3121c4826e3d7fa445::language:chinese": {
+    "caption": "图中为一张向量几何示意图：上方一条斜线上标有两点 P₀ 与 P₁，箭头 v 沿直线从 P₀ 指向 P₁，表示直线的方向向量。左下方原点 O 以小圆圈标记，从 O 出发画出三个向量：r₀ 指向 P₀，r₁ 指向 P₁，r 指向斜线上的另一点（右端另有一个小箭头符号）。该图用于说明直线上任一点向径 r 与定点向径 r₀、r₁ 及方向向量 v 之间的关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:13.424Z",
+    "imageHash": "00ae1eabcc32c6e14074af7502335c3db5f8d58038bf9e3121c4826e3d7fa445",
+    "outputLanguage": "Chinese"
+  },
+  "a8417de4f3fecc894bb69d36bc56b4e9ba5b6b7180b6878384e59ffe7fd7296e::language:chinese": {
+    "caption": "图中画出一个平行六面体的三维示意图：从底部同一顶点出发，向量 a 沿底面前缘向右，向量 b 沿底面侧棱向右后方（以虚线延伸表示被遮挡的棱），向量 c 沿左侧竖直棱向上，三者构成该平行六面体的三条棱。被遮挡的棱用虚线表示，其余棱为实线。该图用于说明三个向量 a、b、c 张成的平行六面体（常与混合积/体积概念相关）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:13.682Z",
+    "imageHash": "a8417de4f3fecc894bb69d36bc56b4e9ba5b6b7180b6878384e59ffe7fd7296e",
+    "outputLanguage": "Chinese"
+  },
+  "3163dd85d9867d4be9ad1d2075e7186f045c3bdebd259af340faebc4ef711857::language:chinese": {
+    "caption": "图中为一个三角形示意图：底边是水平向右的向量 a（箭头指向右端），另一条边是从左下顶点指向右上顶点的向量 b（箭头朝右上方），三角形内部用密集的斜线阴影填充。向量标注为斜体字母 a 和 b，该图用于说明两个向量所构成的三角形（常见于向量积与面积计算的示意）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:17.927Z",
+    "imageHash": "3163dd85d9867d4be9ad1d2075e7186f045c3bdebd259af340faebc4ef711857",
+    "outputLanguage": "Chinese"
+  },
+  "71a26ed4260d45c4c61cbc13b07668faea661f3eb73353374020a3cda1dc2511::language:chinese": {
+    "caption": "图中显示一个空间解析几何示意图：一个用虚线画出的平行四边形表示平面 E，左下角原点 O（空心圆点）出发的向量指向平面上的一点（实心点），并由该点引出法向量 n（竖直向上箭头）。另一向量 r* 从 O 指向平面外右上方的点 P*（实心点），平面左侧标有“+”号，左下外侧标有“−”号，另有一条线段穿过平面并标注字母 E。该图用于说明平面的法向量与点的位置向量之间的关系（点 P* 相对平面 E 的正负侧）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:35:18.649Z",
+    "imageHash": "71a26ed4260d45c4c61cbc13b07668faea661f3eb73353374020a3cda1dc2511",
+    "outputLanguage": "Chinese"
+  },
+  "b031286bae8af33cf874af09c419d850217bfebfd4a32325b8b4995a7130a3a4::language:chinese": {
+    "caption": "图中展示了一个二维坐标系旋转示意图：水平轴标注为ξ，垂直轴标注为η，两轴在原点处垂直相交并带箭头。另有一组旋转后的坐标轴，ξ′轴指向右上方，η′轴指向左上方，两轴同样相互垂直。ξ轴与ξ′轴之间用带箭头的弧线标出夹角，标注为φ。该图表示坐标系绕原点（z轴）旋转φ角后得到的新坐标系（ξ′, η′）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:37:34.687Z",
+    "imageHash": "b031286bae8af33cf874af09c419d850217bfebfd4a32325b8b4995a7130a3a4",
+    "outputLanguage": "Chinese"
+  },
+  "e8f1413214c962d9eb73252163396d375f70fef28ff5cc17ca4c526b4e426802::language:chinese": {
+    "caption": "图中为一条水平直线，直线上从左至右依次标有四个实心黑点，分别标注字母 A、B、C、D。其中 B 与 C 两点相距较近，A 与 B、C 与 D 之间距离较大。该图出自射影几何学章节，可能用于说明直线上点的排列或点列分割关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:38.975Z",
+    "imageHash": "e8f1413214c962d9eb73252163396d375f70fef28ff5cc17ca4c526b4e426802",
+    "outputLanguage": "Chinese"
+  },
+  "fc638d3022b54079e75bc3281d228c4cf62dd7ed669e4221551d395241649496::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴标注为 y,横轴标注为 x,坐标轴以箭头表示方向。图中有两条斜率为正的平行直线，分别与 y 轴相交于标注为 3 和 1 的两点(即截距分别为 3 和 1)。结合上下文，该图出自射影几何学一节，用于说明平面上平行直线的位置关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:39.309Z",
+    "imageHash": "fc638d3022b54079e75bc3281d228c4cf62dd7ed669e4221551d395241649496",
+    "outputLanguage": "Chinese"
+  },
+  "a6cb8f5bda6e47f585a5153cce3f246e2672cb0766fa62eb33a4419e053e49b2::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型，无法看到实际图像。根据上下文，该图片位于《数学指南实用数学手册》第8-35节“射影几何学”的“Referenced Local Images”部分，是编号002的本地引用图片，前后分别为编号001和003的图片。由于无法查看图像本身，无法描述其中的文字、图表或图形结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:43.951Z",
+    "imageHash": "a6cb8f5bda6e47f585a5153cce3f246e2672cb0766fa62eb33a4419e053e49b2",
+    "outputLanguage": "Chinese"
+  },
+  "9cbea1639dc2e63ec4f4b4b4a7f81eba0a60cb7655533fcf8581b41d990662b5::language:chinese": {
+    "caption": "该图片未能成功加载，无法查看其具体内容（系统显示不支持该图片格式）。根据上下文文件名可知，此图出自《数学指南实用数学手册》第8-35节“射影几何学”部分，是连续排列的多幅插图之一（位于002号与004号图片之间）。除文件路径信息外，周围文本未提供任何可确认图片内容的说明、标题或图表数据。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:46.236Z",
+    "imageHash": "9cbea1639dc2e63ec4f4b4b4a7f81eba0a60cb7655533fcf8581b41d990662b5",
+    "outputLanguage": "Chinese"
+  },
+  "d7f095a9ed599dc819978751fea355fe8fed91d5cf74f2b8b57569ccb3c1e009::language:chinese": {
+    "caption": "图中为一幅射影几何示意图：左上方有一个空心小圆点，从该点引出两条直线向右下方延伸；另有两条大致平行的斜线自左下向右上穿过画面。直线相交处用实心黑点标出交点，其中两条线上画有箭头，指示投影方向。图中无文字标注，该图应出自“射影几何学”一节，用于说明中心投影的概念。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:49.413Z",
+    "imageHash": "d7f095a9ed599dc819978751fea355fe8fed91d5cf74f2b8b57569ccb3c1e009",
+    "outputLanguage": "Chinese"
+  },
+  "ebe1fb9d3ffaf619a83206685727bb5715b92e395a0125193d1955d5e4ebfbe5::language:chinese": {
+    "caption": "图片内容未能加载，显示为“[unsupported content type: image_url]”，因此无法看到图像的实际内容。根据上下文文件路径信息，该图出自《数学指南实用数学手册》第8-35节“射影几何学”部分，位于编号004与006的图片之间（即编号005的插图），推测为该节中与射影几何相关的示意图或公式插图，但具体图形元素、文字标注及数值均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:49.854Z",
+    "imageHash": "ebe1fb9d3ffaf619a83206685727bb5715b92e395a0125193d1955d5e4ebfbe5",
+    "outputLanguage": "Chinese"
+  },
+  "d913dd65bd5bd46f714520f5ec68d33c56598c7af51194685117825b867f87d5::language:chinese": {
+    "caption": "图片内容未能加载，显示为“[unsupported content type: image_url]”，因此无法确认其具体视觉细节。根据上下文文件名信息，该图出自《数学指南实用数学手册》中“射影几何学”章节，推测为该章节的插图，但图中是否包含文字、图形或标注均无法核实。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:39:54.685Z",
+    "imageHash": "d913dd65bd5bd46f714520f5ec68d33c56598c7af51194685117825b867f87d5",
+    "outputLanguage": "Chinese"
+  },
+  "123bb1b9bb577054d4054b3a1c4a4d8c70b997a3d2b3b577ca94a493854cfb5a::language:chinese": {
+    "caption": "图中显示一条向上弯曲的曲线（形似抛物线），一条直线与该曲线相切，切点处标有一个黑色实心圆点，点旁标注字母\"P\"。直线从左下方延伸至右上方，在点 P 处与曲线相接触。该图应为数学手册“平面曲线”部分中示意曲线在某点处切线的插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:44:49.873Z",
+    "imageHash": "123bb1b9bb577054d4054b3a1c4a4d8c70b997a3d2b3b577ca94a493854cfb5a",
+    "outputLanguage": "Chinese"
+  },
+  "0d4d34be0c95212116b1bbc36d2acd73a864672f2b9df93c6152b78047672999::language:chinese": {
+    "caption": "无法查看该图像的实际内容（图像数据未能加载）。根据上下文文件名可知，该图出自《数学指南：实用数学手册》第8-361节“平面曲线”部分，是连续插图序列中的一张（位于002号与004号图片之间）。除文件路径中包含的书名、章节编号“8-361”和“平面曲线”字样外，图像内部的具体文字、坐标轴、数值或图形结构均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:44:50.213Z",
+    "imageHash": "0d4d34be0c95212116b1bbc36d2acd73a864672f2b9df93c6152b78047672999",
+    "outputLanguage": "Chinese"
+  },
+  "2217257e95dd9b5ccb14baa592beaa52b3e848e7c1c1e2337f2d63b06ea2b0ed::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x，并在坐标轴上分别标出 y₀ 和 x₀ 的刻度。第一象限内有一条曲线，曲线上用箭头标明方向，曲线沿一条虚线（切线方向）趋近并到达点 (x₀, y₀)，该点处另有一条实线穿过（表示另一方向的直线，如法线或割线）。该图出自数学手册中关于平面曲线的内容，用于示意曲线在某点处的切线与曲线的接近方式。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:44:56.017Z",
+    "imageHash": "2217257e95dd9b5ccb14baa592beaa52b3e848e7c1c1e2337f2d63b06ea2b0ed",
+    "outputLanguage": "Chinese"
+  },
+  "9a7445308655079dafb25536d9aa1a6ca659e7fb23498cd79850ad8d9db44946::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉细节。根据周围文本可知，该图出自《数学指南实用数学手册》第8-361页“平面曲线”一节，是文档中连续排列的图片序列之一（位于004号与006号图片之间的005号图片）。由于前后文本仅为图片文件引用、无实际说明文字，无法确认图中是否包含坐标轴、曲线图形或其他标注内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:00.023Z",
+    "imageHash": "9a7445308655079dafb25536d9aa1a6ca659e7fb23498cd79850ad8d9db44946",
+    "outputLanguage": "Chinese"
+  },
+  "a60c9e85a345d71981a3a269fd134ec8a2c25ceb9cf79919ad5157d5eb4579f1::language:chinese": {
+    "caption": "该图片无法正常加载显示，仅返回“[unsupported content type: image_url]”的提示信息，因此无法看到图像的实际内容。根据上下文文件路径可知，此图出自《数学指南实用数学手册》中“平面曲线”一节，是连续排列的插图之一（编号约为006），但图中具体包含的文字、坐标轴、曲线形状或图形结构均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:00.186Z",
+    "imageHash": "a60c9e85a345d71981a3a269fd134ec8a2c25ceb9cf79919ad5157d5eb4579f1",
+    "outputLanguage": "Chinese"
+  },
+  "d69fabf2d64a82464ce90de2efd5431dcee135c478730ce3fcbf5397ff001378::language:chinese": {
+    "caption": "图中为一个平面直角坐标系示意图：纵轴标注 y，横轴标注 x，纵轴上有刻度 y₀，横轴上有刻度 x₀。一条曲线经过以实心圆点标出的点 (x₀, y₀)，该点处画有一条与曲线相切的直线，曲线上另有一个箭头指向该点，表示沿曲线的运动方向。此图似用于说明曲线在某点处的切线与切向方向，与紧邻上文“图 3.50 渐近线：双曲线”的标题内容并不直接对应。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:04.301Z",
+    "imageHash": "d69fabf2d64a82464ce90de2efd5431dcee135c478730ce3fcbf5397ff001378",
+    "outputLanguage": "Chinese"
+  },
+  "462d09c2dc4429eb05fce9b4bc55dd5afaa79f793509d5ac25bcbf3db6c6f54f::language:chinese": {
+    "caption": "图中显示两条相交的直线和两条通过交点的曲线（弧线），曲线两端带有箭头指示方向。在交点附近，上方直线与其中一条曲线之间用带箭头的弧线标出夹角，并标注希腊字母 φ。该图出自数学手册“平面曲线”部分，示意两条曲线在交点处的切线夹角（交角）的定义。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:04.376Z",
+    "imageHash": "462d09c2dc4429eb05fce9b4bc55dd5afaa79f793509d5ac25bcbf3db6c6f54f",
+    "outputLanguage": "Chinese"
+  },
+  "ae10666676f74577f0ef44e28ca05264508f173ae0b778e7e19d5e7e3ff747f4::language:chinese": {
+    "caption": "图中显示一条水平虚线，虚线上有一个小空心圆点，标记为 (x₀, y₀)。从该点向右分出两条实线曲线：上方曲线带箭头指向右上，末端标注 (t > t₀)；下方曲线带箭头指向右下，末端标注 (x₀, y₀)。该图示意曲线或轨线在某点处分成上下两支的情形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:06.562Z",
+    "imageHash": "ae10666676f74577f0ef44e28ca05264508f173ae0b778e7e19d5e7e3ff747f4",
+    "outputLanguage": "Chinese"
+  },
+  "5a89fda0e166b28e6a7a6ce1cb6f50180cb1d006648be3a7e4b868eea388cda7::language:chinese": {
+    "caption": "图中显示一个以坐标原点为圆心的圆，坐标系横轴标记为 x，纵轴标记为 y。从原点引出一条半径线，与 x 轴正方向的夹角标记为 φ，该半径与圆的交点处画有一个实心圆点并标注 R。圆上的一段弧用引线标注为 S，表示弧长。该图用于说明圆的参数：半径 R、角度 φ 与弧长 S 之间的关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:06.696Z",
+    "imageHash": "5a89fda0e166b28e6a7a6ce1cb6f50180cb1d006648be3a7e4b868eea388cda7",
+    "outputLanguage": "Chinese"
+  },
+  "0b0bc240de34889ddbc42b6e8f622cad08c9840608c5c4477f977a6d4b6dea9e::language:chinese": {
+    "caption": "图中显示一条从左下方向右上方延伸的光滑曲线（平面曲线），曲线左上方有一个用小圆圈表示的点，其下方标注坐标 (x₀, y₀)。该图出自《数学指南实用数学手册》中关于平面曲线的部分，用于示意点 (x₀, y₀) 与曲线的位置关系。图中除坐标标注外无其他文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:10.512Z",
+    "imageHash": "0b0bc240de34889ddbc42b6e8f622cad08c9840608c5c4477f977a6d4b6dea9e",
+    "outputLanguage": "Chinese"
+  },
+  "ed72ae9bd4a711b31c48480f883498a0a82148e39aa358c12b973adba083c2fc::language:chinese": {
+    "caption": "图中显示一条平面曲线示意图：一条实线曲线从左下方一个用小圆圈标记的起点出发，向右上方延伸后趋于平缓，曲线右端附近标注有“t ≥ t₀”。起点下方标注坐标“(x₀, y₀)”。另有一条虚线从起点附近向右上方延伸，表示曲线在初始点处的切线方向。该图出自数学手册的平面曲线部分，示意参数 t 从 t₀ 起对应的曲线段。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:12.465Z",
+    "imageHash": "ed72ae9bd4a711b31c48480f883498a0a82148e39aa358c12b973adba083c2fc",
+    "outputLanguage": "Chinese"
+  },
+  "090300e2e3daf5c624e8fea13e46ccad264caa2c974c9244cc495e9744b7b927::language:chinese": {
+    "caption": "图中显示三条曲线分支相交于一点，交点处用一个小圆圈标记，圆圈下方标注坐标“(x₀, y₀)”。三条曲线从交点向不同方向延伸，分别朝左上、右上和下方展开。结合上下文（数学手册“平面曲线”章节），该图应为平面曲线奇点（如结点）的示意图，展示多条分支通过同一奇点的情形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:14.782Z",
+    "imageHash": "090300e2e3daf5c624e8fea13e46ccad264caa2c974c9244cc495e9744b7b927",
+    "outputLanguage": "Chinese"
+  },
+  "7bb66a25a4c039539be8a51ec3e075e2b0781b3b120ad6b87e7f301b516ffef4::language:chinese": {
+    "caption": "图片内容未能加载，系统显示“[unsupported content type: image_url]”，因此无法看到图像的实际内容。前后文本仅为图片文件路径引用，没有提供有效的图注或说明文字。根据文件路径中的“平面曲线”字样推测，该图可能出自《数学指南：实用数学手册》中关于平面曲线的章节，但具体内容（如文字、坐标轴、图形结构等）无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:15.961Z",
+    "imageHash": "7bb66a25a4c039539be8a51ec3e075e2b0781b3b120ad6b87e7f301b516ffef4",
+    "outputLanguage": "Chinese"
+  },
+  "eb499fe97075000725a12bf8d6b701baacc00bc1847c331b27d076d3c7d6c35a::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息。根据上下文，该图片位于一份名为《数学指南实用数学手册》的文档中“平面曲线”章节内，前后均为同章节的插图文件（文件名序号显示其位于013号与015号图片之间，推测为014号插图）。由于周围文本仅包含图片文件引用而无实际说明文字，无法确认图中是否含有坐标轴、数值、文字标注或图表结构等具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:22.110Z",
+    "imageHash": "eb499fe97075000725a12bf8d6b701baacc00bc1847c331b27d076d3c7d6c35a",
+    "outputLanguage": "Chinese"
+  },
+  "37e3eae06f1af9ea269dd8982beac2c1e0dbef92949fb184c257e518e7d470bd::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，横轴标注为 x，纵轴标注为 y，两轴以箭头表示正方向。图中绘制了一条类似反比例函数 y = 1/x 的双曲线，包含两个分支：一支位于第一象限，从靠近 y 轴的高处陡然下降并逐渐逼近 x 轴；另一支位于 x 轴下方左侧，随 x 趋近 0 而陡峭下坠，并向左逐渐逼近 x 轴。该图出自数学手册“平面曲线”部分，周围文字仅为图片文件引用，未提供额外图注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:25.915Z",
+    "imageHash": "37e3eae06f1af9ea269dd8982beac2c1e0dbef92949fb184c257e518e7d470bd",
+    "outputLanguage": "Chinese"
+  },
+  "53ee57056642fbc3cc3cc5096aaf0910eca680b06dfbcc8003dbcf475ff789f0::language:chinese": {
+    "caption": "该图片内容无法正常加载查看（系统提示不支持该图片格式），因此无法描述其中的具体文字、坐标轴、图形结构等视觉元素。根据上下文文件名信息，该图出自《数学指南：实用数学手册》第361页“平面曲线”一节，推测为与平面曲线相关的数学图示。由于无法确认图中实际内容，不作进一步描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:45:26.706Z",
+    "imageHash": "53ee57056642fbc3cc3cc5096aaf0910eca680b06dfbcc8003dbcf475ff789f0",
+    "outputLanguage": "Chinese"
+  },
+  "e85b85c08a951c9a9be3b981e3ced270409415ec65edca0e9320d1558f25532c::language:chinese": {
+    "caption": "图片内容无法查看（系统提示不支持该图片类型），因此无法描述其可见的文字、图形或坐标轴等细节。根据上下文推断，该图出自《数学指南：实用数学手册》第8章第362页“空间曲线”一节，位于公式 r(s) = r(0) + ∫₀ˢ t(s) ds 附近，可能展示空间曲线及其切向量相关的示意图，但此为推测而非对图像的实际观察。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:04.187Z",
+    "imageHash": "e85b85c08a951c9a9be3b981e3ced270409415ec65edca0e9320d1558f25532c",
+    "outputLanguage": "Chinese"
+  },
+  "62583dd1c8396b423033ed7e36802d02a42197a69f3547976220fc95f641ec71::language:chinese": {
+    "caption": "该图片未能成功加载，无法查看其具体内容。根据上下文，此图位于《数学指南：实用数学手册》第362页“空间曲线”一节的“Referenced Local Images”（引用的本地图片）部分，是所列三张图片中的第二张（前后分别为001和003编号的图片文件）。周围文本仅包含图片文件路径，未提供图号、标题或内容说明，因此无法描述其可见文字、坐标轴、数值或图示结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:04.264Z",
+    "imageHash": "62583dd1c8396b423033ed7e36802d02a42197a69f3547976220fc95f641ec71",
+    "outputLanguage": "Chinese"
+  },
+  "84bf2c36af9bb6e1e5feca0ed718fcb2dc9a94a9c54a0df30d9cb6806c11c6a5::language:chinese": {
+    "caption": "无法查看该图像的实际内容（图像数据未能加载）。根据上下文文件名推断，该图出自《数学指南：实用数学手册》第8-362页“空间曲线”一节，可能为空间曲线相关的数学插图或公式图示，但无法确认其具体内容。由于图像不可见，无法提供图中文字、坐标轴、数值或图形结构的准确描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:07.792Z",
+    "imageHash": "84bf2c36af9bb6e1e5feca0ed718fcb2dc9a94a9c54a0df30d9cb6806c11c6a5",
+    "outputLanguage": "Chinese"
+  },
+  "9de07bec7495826e083f99652afad917c94ab55add49355babfa4754bbba27c7::language:chinese": {
+    "caption": "图中展示了一条空间曲线在某点处的活动标架（弗雷内标架）示意图：一条曲线从左下方延伸至图中一个黑点处，再向右上方弯曲延伸，曲线上还标有一个沿曲线方向的箭头。从黑点出发画出三个带箭头的向量：竖直向上的向量标记为 b（副法向量），水平向右的轴标记为 t（切向量），斜向右上方的向量标记为 n（主法向量）。该图对应文档中“空间曲线”一节的内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:08.022Z",
+    "imageHash": "9de07bec7495826e083f99652afad917c94ab55add49355babfa4754bbba27c7",
+    "outputLanguage": "Chinese"
+  },
+  "2a4e4dfed81b42cef05b5a237ed3a1ec0015cef684e8a8a1f40b45e7d0029277::language:chinese": {
+    "caption": "图中显示空间曲线的弗莱纳（Frenet）活动标架示意图：一条曲线从左下方延伸，经过原点处的一个实心圆点后向上弯曲，曲线上标有箭头指示方向。从该点出发画出三个向量：竖直向上的向量 b（副法向量）、水平向右的向量 t（切向量）以及斜向右上方的向量 n（主法向量），三者构成右手标架。图中可见文字标注为 b、n、t。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:11.619Z",
+    "imageHash": "2a4e4dfed81b42cef05b5a237ed3a1ec0015cef684e8a8a1f40b45e7d0029277",
+    "outputLanguage": "Chinese"
+  },
+  "735ce4083d9dc5fb7556fda2d9722e93ef3c2c35662df1abe1b3c1f407a82073::language:chinese": {
+    "caption": "图中展示了一条空间螺旋线的示意图：一个竖直圆柱体，其顶端呈波浪状断开（表示圆柱向上延续），一条带箭头的螺旋曲线沿柱面自下而上缠绕数圈，虚线表示被圆柱遮挡的部分。坐标轴标注为 x、y、z，其中 z 轴竖直向上并沿圆柱中心轴穿过（柱内部分为虚线），x 轴与 y 轴从圆柱底部向右下方和右上方伸出。结合上下文（“空间曲线”），该图应为数学手册中讲解空间曲线时给出的圆柱螺旋线示例。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:48:12.973Z",
+    "imageHash": "735ce4083d9dc5fb7556fda2d9722e93ef3c2c35662df1abe1b3c1f407a82073",
+    "outputLanguage": "Chinese"
+  },
+  "10ae32d7045d7e46a6cf6ce93fc9b1b529258c2dba69bcc80953149a1db205c4::language:chinese": {
+    "caption": "图中展示了一个曲面局部几何示意图：一片以虚线为边界的曲面，其上一点 P₀（用小圆圈标记）处建立了局部坐标系，x 轴与 y 轴沿曲面在 P₀ 处的切方向延伸，z 轴竖直向上，并标出曲面的法向量 N。曲面上还画有通过 P₀ 的两条曲线，示意曲面在该点的截线或坐标曲线。该图对应文档中“高斯的曲面局部理论”部分，用于说明曲面在一点处的切平面、法向量与局部坐标系的构造。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:50:53.381Z",
+    "imageHash": "10ae32d7045d7e46a6cf6ce93fc9b1b529258c2dba69bcc80953149a1db205c4",
+    "outputLanguage": "Chinese"
+  },
+  "c448ade946b8b5c11aebdde8802b770a2c321b5a31b5ff7ae7ce2c80c65c9655::language:chinese": {
+    "caption": "图中展示了一个曲面局部理论的示意图：一块弯曲的曲面片上取一点，从原点 O 出发的位置向量 r 指向该点，点处画出两个切向量 e₁ 和 e₂ 以及法向量 N。曲面上还画有两条坐标曲线，分别标注为 u = const. 和 v = const.，表示曲面的参数曲线。该图配合前文关于测地曲率积分与高斯曲率的公式，用于说明曲面的局部参数化结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:50:55.223Z",
+    "imageHash": "c448ade946b8b5c11aebdde8802b770a2c321b5a31b5ff7ae7ce2c80c65c9655",
+    "outputLanguage": "Chinese"
+  },
+  "4ee3e0b668349fb3c729a91448a0a62cb17f04f0e9e840b643ec93ce7eb8de00::language:chinese": {
+    "caption": "图中显示一个由三条弧线围成的曲边三角形区域，三个顶点用实心圆点标出，三条边上带有箭头表示沿边界的定向（逆时针方向）。三个内角分别用希腊字母 α、β、γ 标注，其中 α 位于左下角，β 位于右下角，γ 位于顶角处。一条引线从三角形内部指向右侧的字母 D，表示该曲面三角形区域记为 D。该图出自数学手册中关于高斯曲面局部理论的部分，示意测地三角形及其内角。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:50:55.897Z",
+    "imageHash": "4ee3e0b668349fb3c729a91448a0a62cb17f04f0e9e840b643ec93ce7eb8de00",
+    "outputLanguage": "Chinese"
+  },
+  "8961e32a0690f3d1af8c7e357bf6ac1452e26e9a8e7cec0d5ce3f657378b8370::language:chinese": {
+    "caption": "无法查看该图片内容（图片数据未能加载），因此无法描述其中的文字、图表或图形细节。根据上下文可推断，该图片出自《数学指南：实用数学手册》第13章第363节“高斯的曲面局部理论”部分，是位于002与004号图片之间的一页（约003号）插图，可能涉及曲面局部微分几何的相关公式或图示，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:50:57.135Z",
+    "imageHash": "8961e32a0690f3d1af8c7e357bf6ac1452e26e9a8e7cec0d5ce3f657378b8370",
+    "outputLanguage": "Chinese"
+  },
+  "976d6ba8e101f3f968d0a663b8fb72fa4214e9d8be61b7c3c8f29702ad013361::language:chinese": {
+    "caption": "图中显示一组从左侧某一点向右发散的密集直线束（射线族），直线延伸至图像右边缘，这些直线的包络线在左侧形成一条弯曲的曲线轮廓，整体呈现类似焦散线（caustic）的几何图形。该图来自《数学指南实用数学手册》第10-37节“平面曲线的例子”，是平面曲线包络线的示例插图。图中无文字标注或坐标轴数值。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:19.812Z",
+    "imageHash": "976d6ba8e101f3f968d0a663b8fb72fa4214e9d8be61b7c3c8f29702ad013361",
+    "outputLanguage": "Chinese"
+  },
+  "a3e01d7dc7cdd922c8667a87022440cf58a0b06b85f9e50b9f349bb981a5d66e::language:chinese": {
+    "caption": "图像展示了一条开口向上的抛物线曲线图，顶点位于坐标原点处，原点位置标有一个实心黑点。图中绘有两条坐标轴，纵轴上方标注字母“y”，横轴右端标注字母“x”，抛物线两支对称地向左上方和右上方延伸。根据上下文，该图出自数学手册中“平面曲线的例子”一节，是平面曲线示例系列插图中的第三幅。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:23.365Z",
+    "imageHash": "a3e01d7dc7cdd922c8667a87022440cf58a0b06b85f9e50b9f349bb981a5d66e",
+    "outputLanguage": "Chinese"
+  },
+  "81c7fc7b146d85b31831e676a0fec09ef4b470d74b70af02699b5195fe409118::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴顶端标注 y，横轴右端标注 x。图中绘制了一条关于 y 轴对称的尖点曲线，两支曲线从上方两侧向下延伸，相交于 y 轴正半轴上的一点，该尖点处标有一个实心黑点。此图应为数学手册中“平面曲线的例子”一节的插图，展示具有尖点（歧点）的曲线形状。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:24.719Z",
+    "imageHash": "81c7fc7b146d85b31831e676a0fec09ef4b470d74b70af02699b5195fe409118",
+    "outputLanguage": "Chinese"
+  },
+  "8b1c1fb2d364cd770e7ada5f626312733838b12538e33f2ef57870afe45dd87c::language:chinese": {
+    "caption": "图中是一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。在 x 轴上沿水平方向依次排列着四个大小相同的圆，相邻的圆彼此相交重叠。上下各有一条水平直线与这四个圆同时相切，构成夹住圆带的平行线。该图结合前后文（关于周转圆与平面曲线的例子）应是用以说明某种平面曲线的几何示意图，图中除坐标轴字母外无其他文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:25.106Z",
+    "imageHash": "8b1c1fb2d364cd770e7ada5f626312733838b12538e33f2ef57870afe45dd87c",
+    "outputLanguage": "Chinese"
+  },
+  "4f56d1cf19d3e75a2127a19ffb3ba9bedb331670b0a458d917eaf8575d5af604::language:chinese": {
+    "caption": "该图展示了一个平面直角坐标系（横轴标为 x，纵轴标为 y）中的两条曲线：一个横向的椭圆（左侧标注“椭圆”）和位于其内部的星形渐屈线（右侧标注“渐屈线”）。渐屈线呈四尖点星形线状，其四个尖点处各有一个实心圆点，分别位于 y 轴正负方向和 x 轴正负方向上，即渐屈线与椭圆在坐标轴上的四个顶点处相切。结合上下文，此图出自《数学指南实用数学手册》中“平面曲线的例子”一节，用于示例说明椭圆的渐屈线形状。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:27.734Z",
+    "imageHash": "4f56d1cf19d3e75a2127a19ffb3ba9bedb331670b0a458d917eaf8575d5af604",
+    "outputLanguage": "Chinese"
+  },
+  "f375f1384e7e1075cfd370f07a71297c1ee9db03901ede13d8df1f89edaf8ab8::language:chinese": {
+    "caption": "图片内容未能成功加载，无法直接查看其视觉细节。根据上下文信息，该图片出自《数学指南实用数学手册》第10-37节“平面曲线的例子”，是文档中连续排列的多张插图之一（编号006），前后均为同系列的图片文件。推测其内容为平面曲线的数学图示或函数图像，但具体曲线类型、坐标轴数值及标注文字无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:35.136Z",
+    "imageHash": "f375f1384e7e1075cfd370f07a71297c1ee9db03901ede13d8df1f89edaf8ab8",
+    "outputLanguage": "Chinese"
+  },
+  "c9616833e79d318d669bbdb5131b524d4b59c78954448457f37ec5de6f4330a5::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型（image_url），因此无法看到其具体视觉细节。根据上下文推断，该图来自《数学指南实用数学手册》第10-37节“平面曲线的例子”部分，是系列插图中的第007张，位于006号与008号图片之间，推测为某种平面曲线（如抛物线、椭圆、摆线等）的示例图示。由于无法确认图中的坐标轴、标注或曲线形状，此处不作具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:35.566Z",
+    "imageHash": "c9616833e79d318d669bbdb5131b524d4b59c78954448457f37ec5de6f4330a5",
+    "outputLanguage": "Chinese"
+  },
+  "775c476f67a02cc755bf96af1271b4eb5ef49cbfaa9a6a63a8526557cd9e0678::language:chinese": {
+    "caption": "图中展示了一条悬链线的示意图：在直角坐标系中(x 轴与 y 轴均带箭头，分别标注 x、y),一条关于 y 轴对称的 U 形曲线，曲线左、右两臂上各有一个空心圆点，分别标注为 P 和 Q,曲线最低点(顶点)位于 y 轴上，以实心圆点标记。图像底部有一行被截断的图注，可见“(a) 悬链线”字样，表明这是平面曲线例子中的悬链线图形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:37.216Z",
+    "imageHash": "775c476f67a02cc755bf96af1271b4eb5ef49cbfaa9a6a63a8526557cd9e0678",
+    "outputLanguage": "Chinese"
+  },
+  "c036701bb114886a17de0e0c9f090af54443ef76129e71f0e683d2ba04144579::language:chinese": {
+    "caption": "该图片内容无法查看（系统返回“不支持的内容类型： image_url”提示），因此无法描述其中的具体文字、坐标轴、图形结构或数值。根据上下文，此图位于《数学指南实用数学手册》第10-37节“平面曲线的例子”的一组连续插图之间（前后图片文件名序号分别为007和009），推测为该节展示平面曲线例子的插图之一。由于无法直接看到图像内容，其具体视觉元素无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:38.432Z",
+    "imageHash": "c036701bb114886a17de0e0c9f090af54443ef76129e71f0e683d2ba04144579",
+    "outputLanguage": "Chinese"
+  },
+  "ae8e3f9238fc9327146b17c654b075ae097be073058433983c52be7a4ab16f69::language:chinese": {
+    "caption": "图中展示了一条双纽线（8字形曲线）的示意图，曲线由两个对称的环组成，在坐标原点处相交。坐标系中标注了横轴 x 和纵轴 y，左环内横轴上标有一点 −a，右环内横轴上标有一点 a，两点均用实心圆点标记。该图属于数学手册中“平面曲线的例子”部分的插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:43.273Z",
+    "imageHash": "ae8e3f9238fc9327146b17c654b075ae097be073058433983c52be7a4ab16f69",
+    "outputLanguage": "Chinese"
+  },
+  "c19b16d717b085bbf844e1d95fea32bbce808cef1c2678fec3ad0e6a785a0c4c::language:chinese": {
+    "caption": "图中显示一组嵌套的闭合平面曲线，共约四层，围绕两个标记为 A 和 B 的实心黑点（字母为斜体衬线字体）。最内层是分别包围点 A 和点 B 的两个独立椭圆状闭曲线，外层曲线则逐渐合并为包围两点的单一曲线，中部呈收窄的“8”字形或花生形轮廓。结合上下文，该图出自数学手册中“平面曲线的例子”一节，展示的是围绕两个中心点的曲线族（类似双纽线或卡西尼卵形线）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:46.551Z",
+    "imageHash": "c19b16d717b085bbf844e1d95fea32bbce808cef1c2678fec3ad0e6a785a0c4c",
+    "outputLanguage": "Chinese"
+  },
+  "1e2ad63ecaf905837495a0ee27a176a6484383f915be8964254aa1e4a1e34af4::language:chinese": {
+    "caption": "图像为一条无任何文字标注的黑色平面曲线示意图：曲线由三个竖直方向的环圈横向相连组成，环与环之间在两个交叉点处相交，整体形似三瓣相连的花环或利萨茹（Lissajous）型曲线。结合上下文可知，该图出自《数学指南实用数学手册》第10-37节“平面曲线的例子”，是书中展示的平面曲线示例图之一。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:48.577Z",
+    "imageHash": "1e2ad63ecaf905837495a0ee27a176a6484383f915be8964254aa1e4a1e34af4",
+    "outputLanguage": "Chinese"
+  },
+  "3d92b16a13816c1c83de3c966844fdfcb6843e166f0fc45a14ebb9dac55e9d0a::language:chinese": {
+    "caption": "图片为一张无文字标注的黑白线条图，展示了一条对称的平面曲线：曲线由两条细长的U形弧线组成，在底部中央附近相互交叉，形成两个狭长的环状圈，形似两条相交的抛物线或一条自交的闭合曲线。图中没有坐标轴、刻度、数值或任何文字标签。根据所在文档的章节标题“10-37 平面曲线的例子”，该图应为数学手册中平面曲线示例的插图之一。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:53.442Z",
+    "imageHash": "3d92b16a13816c1c83de3c966844fdfcb6843e166f0fc45a14ebb9dac55e9d0a",
+    "outputLanguage": "Chinese"
+  },
+  "273d968d67b5a33cde36ef97093834bd202bac38936db2d6467ba84f710589d4::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉细节。根据周围文本的文件路径信息，该图出自《数学指南：实用数学手册》第10-37节“平面曲线的例子”部分，是系列插图中的第016张。由于前后文本仅为图片引用标记，未包含可用的图注或说明文字，故无法提供图中可见的文字、坐标轴或图形结构等具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:54.122Z",
+    "imageHash": "273d968d67b5a33cde36ef97093834bd202bac38936db2d6467ba84f710589d4",
+    "outputLanguage": "Chinese"
+  },
+  "cbb8c767902dad00b510c4ef4f731c96aea1839ebee21bec08b1be8455aca4a1::language:chinese": {
+    "caption": "该图片内容无法访问（显示为不支持的内容类型），因此无法描述其具体视觉细节。根据上下文，此图来自《数学指南实用数学手册》第10-37节“平面曲线的例子”部分，是文档中连续图片序列（014、015、016）中的第015张图片，前后均为同章节的其他插图文件。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:57.160Z",
+    "imageHash": "cbb8c767902dad00b510c4ef4f731c96aea1839ebee21bec08b1be8455aca4a1",
+    "outputLanguage": "Chinese"
+  },
+  "b54c252398821651a692d27bc7eef1081023b5a227e3b327046c3df5dba63c8e::language:chinese": {
+    "caption": "这是一幅黑白线条几何图形，无任何文字标注。图中显示两条相交的闭合曲线（形似两个倾斜方向不同的椭圆），相互交叉后在中心形成X形交叉点，整体构成上下左右对称的四瓣花状图案，上下各有一个较大的弧形瓣，左右各有一个较窄的尖角瓣。根据上下文，该图出自《数学指南实用数学手册》第10-37节“平面曲线的例子”的插图序列（编号014），属于平面曲线示例图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:52:58.596Z",
+    "imageHash": "b54c252398821651a692d27bc7eef1081023b5a227e3b327046c3df5dba63c8e",
+    "outputLanguage": "Chinese"
+  },
+  "a36a718cc4388859708c8885eb5e2c2c7f069cc141bb62016e706b43fad4823a::language:chinese": {
+    "caption": "图中展示了一条平面螺旋曲线的示意图：曲线从右上方的水平虚线（渐近线）出发，沿逆时针方向（曲线上标有箭头指示方向）向内盘旋，逐渐收拢至中心点。左侧用一个带双向箭头的竖直线段标注了从虚线到曲线起点水平位置的距离，标记为“a”。螺旋中心处有一个实心圆点，由一条引线指向下方标注的“0”，表示极点或原点。该图应为数学手册中平面曲线例子部分的一幅插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:04.860Z",
+    "imageHash": "a36a718cc4388859708c8885eb5e2c2c7f069cc141bb62016e706b43fad4823a",
+    "outputLanguage": "Chinese"
+  },
+  "d9e85de7aaf4a25875d586a824a52ff042bb753e79930ec8fc3c1e083a00846b::language:chinese": {
+    "caption": "图中展示了一条平面曲线：一条光滑曲线经过坐标原点（原点处标有黑点并标注\"0\"），向右上方和左下方分别卷绕成两个逐渐收紧的螺线，螺线中心处画有黑白相间的同心圆点。坐标系为直角坐标，纵轴标注 y，横轴标注 x，箭头指向正方向。结合上下文，该图出自《数学指南实用数学手册》第10-37节“平面曲线的例子”，属于平面曲线示例插图（编号018），曲线形态类似科努螺线（回旋曲线）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:05.871Z",
+    "imageHash": "d9e85de7aaf4a25875d586a824a52ff042bb753e79930ec8fc3c1e083a00846b",
+    "outputLanguage": "Chinese"
+  },
+  "12787e82051eb948706147b6f7d325ffefe9788029d558277a18969594dcc1eb::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图片内容未成功加载）。根据周围文本可知，该图片来自《数学指南实用数学手册》第10-37节“平面曲线的例子”部分，文件名编号为019，推测为展示平面曲线例子的数学图示或曲线图形。由于图片本身不可见，无法提供图中具体的文字、坐标轴、数值或图形结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:09.125Z",
+    "imageHash": "12787e82051eb948706147b6f7d325ffefe9788029d558277a18969594dcc1eb",
+    "outputLanguage": "Chinese"
+  },
+  "02155e18e72bf7a98a93b56d9536e02bb255a2b98f149e872921c5f8d708d6da::language:chinese": {
+    "caption": "图片内容未能加载，仅显示占位提示“[unsupported content type: image_url]”，因此无法确认其具体视觉细节。根据文件路径及上下文，该图出自《数学指南实用数学手册》第“10-37 平面曲线的例子”一节，文件编号为020，位于编号019与021的图片之间，推测为该节中展示平面曲线例子的插图之一。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:09.757Z",
+    "imageHash": "02155e18e72bf7a98a93b56d9536e02bb255a2b98f149e872921c5f8d708d6da",
+    "outputLanguage": "Chinese"
+  },
+  "8158d7ffded36b8cd0eee817b7c2cce8e6fd73e998ea570321fc08702000894f::language:chinese": {
+    "caption": "图中为一个平面曲线示意图：绘制了直角坐标系，纵轴顶端标有 y，横轴右端标有 x；在 x 轴上位置 a 处有一实心圆点并标注字母 a，该处画有一条竖直虚线（渐近线）。一条关于 x 轴对称的实线曲线自原点出发向右张开，上下两支逐渐逼近虚线 x = a。图形下方标注文字“b < a”。该图出自数学手册“平面曲线的例子”部分的系列插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:13.176Z",
+    "imageHash": "8158d7ffded36b8cd0eee817b7c2cce8e6fd73e998ea570321fc08702000894f",
+    "outputLanguage": "Chinese"
+  },
+  "4984e752ef9428c47c3954e2f0edc76e8fddcd09fa868dd3a70b1a52f6e69708::language:chinese": {
+    "caption": "图中展示了一条平面曲线的示意图：直角坐标系中，纵轴标注为 y（向上箭头），横轴标注为 x（向右箭头），原点附近曲线形成一个小的环状圈，随后分为上下两支向右延伸，并逐渐逼近右侧的一条竖直虚线（渐近线）。曲线整体位于 y 轴右侧、虚线左侧区域，上下支关于 x 轴对称。图像下方标注文字“b > a”，表明该曲线形状在此条件下成立。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:13.420Z",
+    "imageHash": "4984e752ef9428c47c3954e2f0edc76e8fddcd09fa868dd3a70b1a52f6e69708",
+    "outputLanguage": "Chinese"
+  },
+  "069042908f250b8c1e60409e898461748e66ac826eb4878e2f6cdd87cab90103::language:chinese": {
+    "caption": "该图片内容无法正常加载显示（系统提示不支持该图片格式），因此无法描述其具体的视觉细节。根据上下文文件路径信息，此图来自《数学指南实用数学手册》第10-37节“平面曲线的例子”部分，是系列插图中的第023张。该章节内容涉及平面曲线的示例图示，但图片本身的具体内容（如曲线形状、坐标轴、标注文字等）无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:22.143Z",
+    "imageHash": "069042908f250b8c1e60409e898461748e66ac826eb4878e2f6cdd87cab90103",
+    "outputLanguage": "Chinese"
+  },
+  "23c5823a740b9ccb414d70836acdc4001025ac9c1863d03efd5ca8c9b01147f6::language:chinese": {
+    "caption": "图中展示了一条平面曲线的示意图：直角坐标系中，纵轴向上标注 y，横轴向右标注 x，两轴均带箭头。曲线关于 x 轴对称，由一个较大的圆弧形外圈和靠近原点处的一个小内圈组成，形似带有内环的蚶线（limaçon）曲线。根据上下文，该图出自《数学指南实用数学手册》第 10-37 节“平面曲线的例子”，是其中一幅示例曲线插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:23.165Z",
+    "imageHash": "23c5823a740b9ccb414d70836acdc4001025ac9c1863d03efd5ca8c9b01147f6",
+    "outputLanguage": "Chinese"
+  },
+  "bb74a36598ad8755915ec5f95eea0f20a2dbfeb59de03b3da06634c90c47973e::language:chinese": {
+    "caption": "图片内容未能成功加载，无法直接查看其具体视觉细节。根据上下文文件路径中的文字“10-数学指南实用数学手册--10-37-平面曲线的例子”，该图片应出自《数学指南：实用数学手册》第10.37节“平面曲线的例子”，推测为展示某种平面曲线（如各类经典曲线图形）的示意图或坐标图。由于图像本身不可见，无法确认其中的具体曲线类型、坐标轴数值或标注文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:23.368Z",
+    "imageHash": "bb74a36598ad8755915ec5f95eea0f20a2dbfeb59de03b3da06634c90c47973e",
+    "outputLanguage": "Chinese"
+  },
+  "0f20593257205e40c81c1d67cae1b922496adf31ccb6fe1f70e0ec6022199c82::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系中有一个大的闭合曲线（形似蚶线/利马松线），其左侧有一处凹陷。原点处绘制一个虚线小圆，一条从原点出发的射线穿过该虚线圆（交点以空心小圆圈标记），并延伸至大曲线上的一点（以实心黑点标记）。结合上下文，该图出自数学手册“平面曲线的例子”一节，展示的是由极径作图法生成的平面曲线示例。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:24.231Z",
+    "imageHash": "0f20593257205e40c81c1d67cae1b922496adf31ccb6fe1f70e0ec6022199c82",
+    "outputLanguage": "Chinese"
+  },
+  "5f441d1677b5f124a0d7a38844bba8d752b8fd5221e82b5186b9793212b06b5a::language:chinese": {
+    "caption": "图中展示了一个平面坐标系，纵轴标注为 y，横轴标注为 x，一条形似摆线（旋轮线）的波浪形曲线沿 x 轴延伸。原点附近标有点 P，其上方画有一个虚线圆和一段带箭头的弧线，示意圆周滚动（逆时针旋转）的生成过程。曲线上在两处拱形最低点（尖点）处用黑点标出并分别标注字母 A 和 B，曲线上还画有箭头指示曲线的行进方向。结合上下文，该图出自《数学指南实用数学手册》第 10 章第 37 节“平面曲线的例子”的插图序列。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:29.520Z",
+    "imageHash": "5f441d1677b5f124a0d7a38844bba8d752b8fd5221e82b5186b9793212b06b5a",
+    "outputLanguage": "Chinese"
+  },
+  "c5c759a928e619413beb767102600acee0d2414c254b32d50efdc2dd464e6c20::language:chinese": {
+    "caption": "图片内容无法查看（系统提示不支持该图片格式），因此无法描述其中的具体图形、文字或数据。根据上下文推断，该图片来自《数学指南实用数学手册》第10-37节“平面曲线的例子”部分，是文档中连续排列的第027张插图，前后分别为026和028号图片，推测内容与平面曲线示例相关，但具体细节无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:32.048Z",
+    "imageHash": "c5c759a928e619413beb767102600acee0d2414c254b32d50efdc2dd464e6c20",
+    "outputLanguage": "Chinese"
+  },
+  "13f3a51c159106f868e22489c3a3986e201618cb1b78864eb388f99f8125c495::language:chinese": {
+    "caption": "图片内容未能加载，显示为“不支持的内容类型：image_url”，因此无法看到图像本身的具体内容。根据上下文，该图片位于一份中文数学手册《数学指南实用数学手册》第10-37节“平面曲线的例子”的图片序列中，文件名为028，处于027号和029号图片之间。由于无法查看实际图像，无法描述其中的文字、坐标轴、曲线图形或其他视觉元素。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:34.428Z",
+    "imageHash": "13f3a51c159106f868e22489c3a3986e201618cb1b78864eb388f99f8125c495",
+    "outputLanguage": "Chinese"
+  },
+  "bf2966b176233479b0f3d4e2f578d861f12accb8288f3e8fad80491d001b97d3::language:chinese": {
+    "caption": "图中展示了一个平面坐标系，纵轴标注为 y，横轴标注为 x，原点处有一个虚线圆，右侧还有一个较小的虚线圆。一条实线曲线呈心脏线（心形线）形状环绕坐标原点，曲线由多个圆弧状的瓣组成，在 x 轴正方向上汇聚于一点，该点标注为 P，旁边有一个带箭头的弧线指示小圆滚动（曲线生成）的方向。该图出自《数学指南实用数学手册》中“平面曲线的例子”一节，展示的是由滚动的圆生成心脏线的几何示意。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:36.828Z",
+    "imageHash": "bf2966b176233479b0f3d4e2f578d861f12accb8288f3e8fad80491d001b97d3",
+    "outputLanguage": "Chinese"
+  },
+  "f560bece134b3b1e43136c10c97a4af7686b3abb583ee07f618657ebd8e0be79::language:chinese": {
+    "caption": "图片内容未能加载，系统显示“unsupported content type: image_url”，因此无法看到图像的实际内容。前后文本仅为 markdown 格式的图片文件路径引用，没有提供有效的图注、标题或说明文字。根据文件路径可推断该图可能出自《数学指南实用数学手册》第10-37节“平面曲线的例子”相关页面，但其具体视觉内容（文字、坐标轴、图形结构等）无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:37.007Z",
+    "imageHash": "f560bece134b3b1e43136c10c97a4af7686b3abb583ee07f618657ebd8e0be79",
+    "outputLanguage": "Chinese"
+  },
+  "59dacf3168ade555994363d976f8759afd445985a6e0e4bc3ab26edec2fd7f83::language:chinese": {
+    "caption": "图中展示了一条平面曲线（外摆线类曲线）的生成示意图：直角坐标系中画有 x 轴和 y 轴，中心处有一个虚线大圆，曲线呈四瓣花形环绕该圆。原点处引出一条线段指向曲线上标记为 P 的点，与 x 轴的夹角标注为 φ；x 轴正方向上另有一点 P，其旁画有一个小的虚线圆（滚动圆），并带有箭头指示滚动方向，曲线上方也有箭头表示点的运动方向。该图出自《数学指南实用数学手册》第10-37节“平面曲线的例子”。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:44.305Z",
+    "imageHash": "59dacf3168ade555994363d976f8759afd445985a6e0e4bc3ab26edec2fd7f83",
+    "outputLanguage": "Chinese"
+  },
+  "f714130da860f5c09c24d6f229c274f581d9ba86f5c8baee865ba6fbc0f7bc2d::language:chinese": {
+    "caption": "图中为一个平面直角坐标系示意图，纵轴标注为 y，横轴标注为 x。坐标系内有一条实线绘制的闭合曲线，呈四瓣波浪花形（近似圆形但带有四个内凹弧），曲线内部画有一个虚线圆。实线曲线的右上方标有一个箭头，指示曲线的行进方向（逆时针）；在 x 轴正方向附近有一点标注为 P，一条短线由标注 P 指向该点，该点处另有一小段虚线圆弧。该图出自文档“平面曲线的例子”部分，展示的是由点 P 生成的平面曲线示例。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:44.595Z",
+    "imageHash": "f714130da860f5c09c24d6f229c274f581d9ba86f5c8baee865ba6fbc0f7bc2d",
+    "outputLanguage": "Chinese"
+  },
+  "12c83a74be53f049b86b4b2aa5c8634d1daa677b8817148c47253970140b635c::language:chinese": {
+    "caption": "图中展示了一条星形线（四尖内摆线）的示意图：实线绘制的曲线有四个尖点分别位于坐标轴上，外围有一个虚线大圆与之相切，坐标轴分别标注为 x（横轴）和 y（纵轴）。在正 x 轴的尖点处标有一点 P，其附近画有一个小虚线圆，表示沿大圆内部滚动生成该曲线的小圆，曲线上还画有一个箭头指示轨迹方向。该图出自数学手册中“平面曲线的例子”部分，用于说明星形线的几何生成方式。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:46.742Z",
+    "imageHash": "12c83a74be53f049b86b4b2aa5c8634d1daa677b8817148c47253970140b635c",
+    "outputLanguage": "Chinese"
+  },
+  "8337a1c149a56e337c61c131b92a2cca64c8a1002c5665c33a379106b304f55a::language:chinese": {
+    "caption": "图中展示了一个平面坐标系，纵轴标注为 y，横轴标注为 x，原点处有一个以虚线绘制的圆。实线曲线围绕该虚线圆呈四瓣状分布，在坐标轴的上下左右四个位置各形成一个小的环状圈，曲线右上方带有一个箭头指示方向。在 x 轴正半轴靠近右侧小环处标注了点 P，该处还用虚线小圆圈出。该图出自数学手册“平面曲线的例子”一节，呈现的是动点沿圆周滚动所描出的带小环的四瓣形曲线（如外摆线类曲线）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:50.538Z",
+    "imageHash": "8337a1c149a56e337c61c131b92a2cca64c8a1002c5665c33a379106b304f55a",
+    "outputLanguage": "Chinese"
+  },
+  "84e8da52c8976df03cf93e81b61fff0eb741de7aadb2745977d3faeba2f27405::language:chinese": {
+    "caption": "图中展示了一条星形线（四尖内摆线）的示意图：在标注为 y（纵轴）和 x（横轴）的直角坐标系中，一条实线画出的四角星形曲线，其四个尖点分别位于两坐标轴上，曲线上还画有一个箭头指示方向。曲线外围有一个较大的虚线圆与之相切，在 x 正半轴上的点 P 附近还画有一个小的虚线圆，表示生成该曲线的滚动小圆，P 为小圆上描绘星形线的点。该图出自《数学指南实用数学手册》“平面曲线的例子”一节，作为平面曲线的示例插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:54.443Z",
+    "imageHash": "84e8da52c8976df03cf93e81b61fff0eb741de7aadb2745977d3faeba2f27405",
+    "outputLanguage": "Chinese"
+  },
+  "24bce7f19bd8483cd8452be5d7378bdbd36d9994426be5c4b507729d7c73de5e::language:chinese": {
+    "caption": "图中展示了一个平面曲线（摆线类曲线）的示意图：直角坐标系中标注了 y 轴（竖直向上）和 x 轴（水平向右），实线绘出一条四尖点的星形曲线（类似星形线），每个尖点处带有小环圈，其中一段曲线上画有指示运动方向的箭头。外围有一个虚线大圆表示固定圆，在 x 轴正半轴上标注点 P，P 处有一个虚线小圆表示滚动圆，说明该曲线由小圆在大圆内滚动时点 P 的轨迹生成。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:53:59.590Z",
+    "imageHash": "24bce7f19bd8483cd8452be5d7378bdbd36d9994426be5c4b507729d7c73de5e",
+    "outputLanguage": "Chinese"
+  },
+  "b04abdc7f8736251532fbcdbc91612e8eaee962f634af4f3476f17770ef2f286::language:chinese": {
+    "caption": "图中展示了一个平面曲线（外摆线）的几何示意图：在直角坐标系中画有一个以原点为圆心的大圆，坐标轴分别标注为 y（竖直向上）和 x（水平向右）。一个小圆位于大圆外部右侧、与 x 轴相交处，小圆上标记了一点 P（位于小圆上方），并有一个带箭头的弧线沿大圆外缘从 x 轴附近指向 P 点方向，表示小圆沿大圆外滚动时 P 点的运动轨迹方向。该图对应文档中“平面曲线的例子”一节，用于说明一动圆沿定圆外部滚动时圆上一点的轨迹。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:54:00.214Z",
+    "imageHash": "b04abdc7f8736251532fbcdbc91612e8eaee962f634af4f3476f17770ef2f286",
+    "outputLanguage": "Chinese"
+  },
+  "5016050c6eaaea0ba2acec8e4a30df0db9df53d8e5217e32004e59c07d62dfb1::language:chinese": {
+    "caption": "图中为一张简单的手绘线条示意图，没有任何文字标注。画面左侧是一条从左下角延伸至右上方的波浪形曲线，中间有明显的弯曲起伏；右下方是一个闭合的不规则圆角形状，类似一块圆润的四边形斑块。该图可能用于示意曲线与闭区域等基本数学概念，但图中未给出具体标签或数值。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:56:59.896Z",
+    "imageHash": "5016050c6eaaea0ba2acec8e4a30df0db9df53d8e5217e32004e59c07d62dfb1",
+    "outputLanguage": "Chinese"
+  },
+  "1e5f636c054a4a79eae489f1c67bf6f6b684ab1cbfa7ed3e4554489904bcd9b2::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x，原点处画有一个实心圆点。从原点出发向右方延伸出两条曲线分支：一支向右上方弯曲延伸，另一支向右下方弯曲延伸，整体构成一个开口向右、以原点为尖点的曲线（形如 y² = x 的图像）。该图来自数学手册中“基本思想”部分，用于示意此类曲线的形状。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:01.828Z",
+    "imageHash": "1e5f636c054a4a79eae489f1c67bf6f6b684ab1cbfa7ed3e4554489904bcd9b2",
+    "outputLanguage": "Chinese"
+  },
+  "98f4ffe39fa6cf5e18e540696861daaaca2fb8e74510c47d78d0f6a947dbb874::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图片以不支持的内容类型提供，未能成功加载）。根据上下文信息，该图片来自《数学指南：实用数学手册》第381页“基本思想”部分，是文档中连续排列的多张插图之一（前后均为同章节的图片文件）。由于无法确认图片中的可见文字、图表坐标轴、数值或图示结构，无法提供更具体的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:02.230Z",
+    "imageHash": "98f4ffe39fa6cf5e18e540696861daaaca2fb8e74510c47d78d0f6a947dbb874",
+    "outputLanguage": "Chinese"
+  },
+  "e4e8f9e98dbe1f615e05bffe8b78e9fdd829d12af8d19e4210c800d423e323cf::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型，因此无法看到图像中的实际文字、图表或图形元素。根据上下文，该图片位于《数学指南实用数学手册》一书中，前后文讨论的是某一数学分支对数学许多领域及自然学科的强烈影响，并称其为“基础的和基本的数学支柱”之一，但无法确认图片具体展示的内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:03.560Z",
+    "imageHash": "e4e8f9e98dbe1f615e05bffe8b78e9fdd829d12af8d19e4210c800d423e323cf",
+    "outputLanguage": "Chinese"
+  },
+  "9093f07b7e7f6d62bbb22fc5b50048df2a9fc5cd1e2859aeb03729dd1fe317ca::language:chinese": {
+    "caption": "图中画有一个斜置的平行四边形，位于两条带箭头的轴线之间：水平轴向右延伸，其右下方标注 2ω₁；另一条斜轴向上延伸，左侧标注 2ω₂。平行四边形的左侧两个顶点用空心小圆圈标出，底边中部和上边各有一个实心黑点，一条引线从右上方的字母 T 指向平行四边形内部，表示该区域为 T。该图呈现的是与周期 2ω₁、2ω₂ 相关的基本区域（周期平行四边形）示意。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:08.827Z",
+    "imageHash": "9093f07b7e7f6d62bbb22fc5b50048df2a9fc5cd1e2859aeb03729dd1fe317ca",
+    "outputLanguage": "Chinese"
+  },
+  "9403f3b642aeba7cd444433821a4e065341cfec0971c8899779adbee4fcc7402::language:chinese": {
+    "caption": "无法查看该图片的实际内容（图像数据未能加载），因此无法描述其中的文字、图表或图形元素。根据上下文，该图片出自《数学指南：实用数学手册》第8-381页“基本思想”部分，在文档中位于编号005与007的图片之间，推测为该数学手册中的插图或公式图示。如需准确描述，请提供可正常显示的图像内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:10.852Z",
+    "imageHash": "9403f3b642aeba7cd444433821a4e065341cfec0971c8899779adbee4fcc7402",
+    "outputLanguage": "Chinese"
+  },
+  "a7e31c1f917d4a68db3305a09d0fd3100c19e435960e3c42402f2ace5b3e2337::language:chinese": {
+    "caption": "图中为一个数学示意图，画有一个由平行四边形组成的网格（类似周期平行四边形的基本区域），并配有向左上和向右的两个坐标轴箭头。上方平行四边形内标有一点 t₃，下方平行四边形内标有一点 t₃*；左侧边标注 2ω₂，底边标注 2ω₁，左下角有一条引线从字母 T 指向平行四边形的左下边。该图应出自数学手册中关于基本思想（如椭圆函数周期格）的内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:13.419Z",
+    "imageHash": "a7e31c1f917d4a68db3305a09d0fd3100c19e435960e3c42402f2ace5b3e2337",
+    "outputLanguage": "Chinese"
+  },
+  "38ec7f7e90405dd0f12e551368b6cb246b135c46d957b24d428153ccca1e9c4e::language:chinese": {
+    "caption": "无法获取该图像的实际内容，系统显示图像内容类型不受支持，因此无法看到图片中的任何文字、图表或图形元素。根据上下文，该图片来自一份名为《数学指南实用数学手册》的文档（文件路径中含“基本思想”字样），推测为该手册中讲解基本思想部分的插图，但具体内容无法确认。为避免虚构信息，此处仅能说明图像存在及其来源文档，无法提供画面细节描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:57:13.573Z",
+    "imageHash": "38ec7f7e90405dd0f12e551368b6cb246b135c46d957b24d428153ccca1e9c4e",
+    "outputLanguage": "Chinese"
+  },
+  "947b5d6d0025c6b7ff36fc32df7359c89e6be91a77e063372fa11e58e2963d47::language:chinese": {
+    "caption": "图中显示一个平面曲线示例，顶部标注文字“常春藤叶子”，并有一条斜线从文字指向下方的曲线图形。该曲线呈叶片形状：左侧由两条实线弧相交形成尖锐的叶尖，右侧由虚线弧线构成圆润的叶身轮廓，整体形似常春藤的叶子。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:37.750Z",
+    "imageHash": "947b5d6d0025c6b7ff36fc32df7359c89e6be91a77e063372fa11e58e2963d47",
+    "outputLanguage": "Chinese"
+  },
+  "5fe478597936f422966738484b2ca077265612082b2ddb6c3c466e0fec54362a::language:chinese": {
+    "caption": "图中展示了一条钟形曲线，即阿涅西箕舌线（Witch of Agnesi）的示意图。曲线关于纵轴 y 对称，在原点上方达到最高点（标有一个实心圆点），两侧各有一个实心圆点标记。横轴 x 上标有两个刻度点，分别位于 −a/√3 和 a/√3 处，对应曲线上的两个标记点；曲线从最高点向两侧单调下降并无限逼近 x 轴。该图配合前文对阿涅西箕舌线的介绍，展示了曲线的形状及特殊点的位置。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:43.411Z",
+    "imageHash": "5fe478597936f422966738484b2ca077265612082b2ddb6c3c466e0fec54362a",
+    "outputLanguage": "Chinese"
+  },
+  "d850c92a75c6508e4c3e5d3643345cb846ef8f601c3a27440173717c36f5be30::language:chinese": {
+    "caption": "图片内容无法加载（显示为不支持的内容类型），因此无法描述其具体视觉细节。根据上下文文件路径可知，该图出自《数学指南实用数学手册》第382页“平面曲线的例子”一节，位于编号003与005的插图之间，推测为该节中展示平面曲线示例的插图之一，但图中具体文字、坐标轴或图形结构均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:43.856Z",
+    "imageHash": "d850c92a75c6508e4c3e5d3643345cb846ef8f601c3a27440173717c36f5be30",
+    "outputLanguage": "Chinese"
+  },
+  "fb83f31d4e0e109f0396d8db81813ed7f5a09cd5744075bc24021b85d612b39c::language:chinese": {
+    "caption": "图中为一个平面直角坐标系，纵轴标注 y，横轴标注 x，原点为 O。坐标系内有一条虚线圆（圆心在 x 轴上）和一条经过原点 O、向右开口的曲线（上下两支，下支上画有指向原点的箭头），曲线在 x = a 处有一条竖直虚线渐近线，a 标注在 x 轴上。从 O 出发的一条虚线射线依次经过曲线上的点 P（实心点）、圆上的点 A（空心小圆），并延伸至右上方的点 B（空心小圆）。该图应为数学手册“平面曲线的例子”中用圆与射线构造曲线（如蔓叶线类曲线）的示意图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:50.463Z",
+    "imageHash": "fb83f31d4e0e109f0396d8db81813ed7f5a09cd5744075bc24021b85d612b39c",
+    "outputLanguage": "Chinese"
+  },
+  "a47695dc769ea6371c3925d3158b8d30fa9ffe8d5ffe59cb01451d349b3b5324::language:chinese": {
+    "caption": "图中展示了一条平面曲线（叶形线）的示意图。直角坐标系中，曲线经过原点，在第一象限形成一个环，环上标有箭头指示曲线的走向，环的右上方曲线上标注一点 P。一条虚线表示曲线的渐近线，该虚线与 x 轴负半轴和 y 轴负半轴分别相交，两个交点处均标注刻度 −a。曲线还从原点向右下方延伸，趋近于这条虚线渐近线。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:50.628Z",
+    "imageHash": "a47695dc769ea6371c3925d3158b8d30fa9ffe8d5ffe59cb01451d349b3b5324",
+    "outputLanguage": "Chinese"
+  },
+  "ac828a0be60f17aebd2fe9a644b3a3447282527931a2002771cb3ae9445fa4b8::language:chinese": {
+    "caption": "无法查看该图像的实际内容（图像数据未能加载）。根据周围文本可知，该图出自《数学指南——实用数学手册》第11章第382节“平面曲线的例子”部分，前后均为同章节的连续图片文件引用，未提供可用的图注或说明文字。因此仅能推断该图可能是与平面曲线示例相关的数学插图或公式图表，具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:53.206Z",
+    "imageHash": "ac828a0be60f17aebd2fe9a644b3a3447282527931a2002771cb3ae9445fa4b8",
+    "outputLanguage": "Chinese"
+  },
+  "08a22ef7d58344f3d1fd3a3c3460bb1cb2577025aae1cd85d72e0ca80038e48a::language:chinese": {
+    "caption": "该图片无法正常加载或查看（系统提示不支持该图片内容类型），因此无法描述其具体视觉内容。根据周围文本中的文件名信息，此图出自《数学指南：实用数学手册》第11章\"平面曲线的例子\"部分，是编号006的插图，位于005号和007号图片之间。周围文本未提供任何图注、标题或说明文字，故无法确认图中具体展示的曲线类型或数学内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:54.897Z",
+    "imageHash": "08a22ef7d58344f3d1fd3a3c3460bb1cb2577025aae1cd85d72e0ca80038e48a",
+    "outputLanguage": "Chinese"
+  },
+  "4031037091f27c29e1832d73ad096eb563f8032255d53d65087198b82fb4936a::language:chinese": {
+    "caption": "图中展示了一条平面曲线：在直角坐标系中（横轴标注 x，纵轴标注 y，两端均带箭头），绘制了一条形如\"∞\"的双纽线（lemniscate），曲线由两个对称的环组成，在原点处自交，两个环分别位于 y 轴的左右两侧，且关于 x 轴和 y 轴对称。结合上下文（“平面曲线的例子”），该图应为数学手册中平面曲线示例部分的双纽线插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:58:58.037Z",
+    "imageHash": "4031037091f27c29e1832d73ad096eb563f8032255d53d65087198b82fb4936a",
+    "outputLanguage": "Chinese"
+  },
+  "82967025bd2766ae99831a12b8c3f9c03f6acb631b1452d159e0d5739a5291fc::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其视觉细节。根据上下文文件名信息，该图出自《数学指南实用数学手册》第382页“平面曲线的例子”一节，是连续排列的多张插图（文件序号007至009）之一，推测为某种平面曲线的示例图，但具体曲线类型、坐标轴、标注文字等细节均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:59:01.524Z",
+    "imageHash": "82967025bd2766ae99831a12b8c3f9c03f6acb631b1452d159e0d5739a5291fc",
+    "outputLanguage": "Chinese"
+  },
+  "1d60bd17bf549a26f841dec134370b120d46e7911074fbaf8f17d79a117eb4d9::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其具体细节。根据上下文文件路径可知，该图出自《数学指南——实用数学手册》第382页“平面曲线的例子”一节，前后均为同章节的连续图片（008号与010号图片），推测本图（009号）为该节中展示平面曲线示例的插图或公式图。由于无法看到图像本身，无法提供图中具体的文字、坐标轴、数值或图形结构信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T12:59:01.896Z",
+    "imageHash": "1d60bd17bf549a26f841dec134370b120d46e7911074fbaf8f17d79a117eb4d9",
+    "outputLanguage": "Chinese"
+  },
+  "25cc8d277021def5064425421f6143f118bf9253970300fd537528ca32015ac7::language:chinese": {
+    "caption": "该图片内容无法访问，系统显示为不支持的内容类型（image_url），因此无法确认图片中实际呈现的公式、图形或文字。根据上下文文件名信息，此图出自《数学指南：实用数学手册》第384页附近，所属章节主题为“平面代数曲线的射影复形式”，推测可能包含相关数学公式或曲线图示，但具体视觉细节无法核实。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:03:17.253Z",
+    "imageHash": "25cc8d277021def5064425421f6143f118bf9253970300fd537528ca32015ac7",
+    "outputLanguage": "Chinese"
+  },
+  "31ad26f0e36ee75fe217a422a99d30cbb954b3e292bee23f3b4c27db0f35aa45::language:chinese": {
+    "caption": "图中显示一个几何示意图：中心处有一个实心黑点，两条直线在该点相交并分别向左上、右下和右上、左下方向延伸，同时两条弯曲的曲线（形如双曲线或抛物线分支）也从该点附近穿过并向左右两侧延展。图中没有任何文字标注或坐标轴。结合上下文，该图应与平面代数曲线及其对偶的讨论相关，示意多条曲线（直线与曲线）交于一点的情形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:03:20.516Z",
+    "imageHash": "31ad26f0e36ee75fe217a422a99d30cbb954b3e292bee23f3b4c27db0f35aa45",
+    "outputLanguage": "Chinese"
+  },
+  "8a7b67e98812c3324cd8fedaa175d26bddf5c0f275f88919f5b9638636906b9b::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉细节（返回信息显示“不支持的内容类型： image_url”）。根据上下文文件路径可推断，该图出自《数学指南——实用数学手册》第385页“曲线的亏格”一节，位于编号003与005的图片之间，应为该节中的插图（可能为004号图片）。由于无法看到图像本身，无法提供其中的文字、坐标轴、数值或图形结构等具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:44.768Z",
+    "imageHash": "8a7b67e98812c3324cd8fedaa175d26bddf5c0f275f88919f5b9638636906b9b",
+    "outputLanguage": "Chinese"
+  },
+  "126b1b6b53bc1f509ffc41d44ad64543eb2f96957e2cb413418156677a09201a::language:chinese": {
+    "caption": "图片显示一个用黑色线条绘制的简单圆形轮廓，位于白色背景上。圆形内部右下方有一小段弧形短线标记。图中没有任何文字标注、坐标轴或其他图形元素，结合上下文推测该图出自数学手册中关于“曲线的亏格”的内容，可能用于示意圆或曲线的基本图形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:45.759Z",
+    "imageHash": "126b1b6b53bc1f509ffc41d44ad64543eb2f96957e2cb413418156677a09201a",
+    "outputLanguage": "Chinese"
+  },
+  "b2a1ab314a44d5d04221eee13cf5815609856f1dbd4dd7efbd3c5fd51a338b0a::language:chinese": {
+    "caption": "图中是一个简单的黑白线描图，呈现一个立体圆环（环面）的透视形状：外圈为一个大的椭圆形轮廓，内部包含一个较小的椭圆形孔洞，两椭圆之间构成环形表面。右下方另有两道短弧线，用以表现环面的曲面立体感。结合上下文“曲线的亏格”一节，该图应为说明亏格概念所用的环面（亏格为1的曲面）示意图，图中无文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:48.141Z",
+    "imageHash": "b2a1ab314a44d5d04221eee13cf5815609856f1dbd4dd7efbd3c5fd51a338b0a",
+    "outputLanguage": "Chinese"
+  },
+  "a57f86fa206915c61efc3e1ad0e14a8ab372592134ff67242a555d4978267783::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。x 轴上标有三个点，从左到右依次记为 e₁、e₂、e₃。曲线在 e₁ 与 e₂ 之间形成一个封闭的卵形线（圈），并从 e₃ 处向右上方和右下方伸出两支无限延伸的分支，这是典型的实椭圆曲线（三次曲线）示意图。结合上下文，该图出自数学手册中关于“曲线的亏格”的内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:52.529Z",
+    "imageHash": "a57f86fa206915c61efc3e1ad0e14a8ab372592134ff67242a555d4978267783",
+    "outputLanguage": "Chinese"
+  },
+  "25a0b7e817465602393690340a6a020d663626f0f563c5e607b15e1197cc0912::language:chinese": {
+    "caption": "图片内容未能加载，无法直接观察其视觉细节。根据上下文，该图出自《数学指南：实用数学手册》第385页“曲线的亏格”一节，前后均为相邻图片的文件引用（004 与 006 编号），无文字说明或图注可资参照。因此仅能推断此图可能与曲线亏格相关的数学插图或公式示例有关，具体内容（文字、坐标轴、图形结构等）无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:54.612Z",
+    "imageHash": "25a0b7e817465602393690340a6a020d663626f0f563c5e607b15e1197cc0912",
+    "outputLanguage": "Chinese"
+  },
+  "4c38d8b2f82e117e51f7bb41c9be2d2b8c24602f38a3ab99d274086c07cc494c::language:chinese": {
+    "caption": "图中为一条平面曲线的示意图（对应正文所述图 3.79 的三次曲线示例）：直角坐标系中横轴标为 x、纵轴标为 y，在 x = 1 处有一条竖直虚线渐近线，该点用黑点标出并标注\"1\"。曲线从右上方伸向原点，在原点处形成一个位于 x 轴下方的环（圈套），环与负 x 轴交于一个黑点，随后曲线向右下方延伸趋近渐近线；曲线上多处箭头指示参数增大时的行进方向。图左侧有一条水平箭头线，其下标注字母 t，并配有一个双线箭头（⇒）指向曲线，表示参数 t 的方向。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:04:57.438Z",
+    "imageHash": "4c38d8b2f82e117e51f7bb41c9be2d2b8c24602f38a3ab99d274086c07cc494c",
+    "outputLanguage": "Chinese"
+  },
+  "e880bd9ff12bda33409d8a12c8317353c16ab97205006ba282b6262a3fd94df7::language:chinese": {
+    "caption": "图中显示标记为“(a)”的数学示意图：一条类似三次多项式的曲线从左下方升起，与一条水平直线相交三次。曲线与直线的三个交点中，左右两个用实心黑点标记，中间一个用空心圆圈标记；曲线先上升至一个局部极大值，再下降穿过直线到达局部极小值，随后再次上升。图像下方标注有“(a)”字样。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:08:54.772Z",
+    "imageHash": "e880bd9ff12bda33409d8a12c8317353c16ab97205006ba282b6262a3fd94df7",
+    "outputLanguage": "Chinese"
+  },
+  "891ad0e746835cf0d1c29bdf53d3dcd089f3630f5ccdce84766ff1536bb82b45::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x，原点处画有一个以原点为圆心的圆。横轴负方向上标有 −1 的位置处有一个实心黑点，从该点引出一条直线向右上方延伸，与圆相交于第一象限内的一点，该交点用空心小圆圈标记。此图示意了过点 (−1, 0) 的直线与单位圆的有理交点构造，与上下文中丢番图几何（单位圆的有理参数化）的内容相对应。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:08:57.365Z",
+    "imageHash": "891ad0e746835cf0d1c29bdf53d3dcd089f3630f5ccdce84766ff1536bb82b45",
+    "outputLanguage": "Chinese"
+  },
+  "9cfd0eefd65222442e2001ba6c6dfa800caaf421da2450b96671ef4422182a7d::language:chinese": {
+    "caption": "图中绘有一条连续曲线与一条水平直线：曲线自左下方上升，在一个实心黑点处与直线相接触（呈相切状），随后向下弯曲形成谷底，再向右上方攀升并穿过直线，穿过处标有一个空心圆点。图中没有任何文字标注、坐标轴或数值刻度，仅由一条曲线、一条水平直线和一实一空两个标记点构成。结合上下文（丢番图几何章节），该图示意曲线与直线的交点情形，实心点与空心点用于区分两类不同的交点。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:08:59.489Z",
+    "imageHash": "9cfd0eefd65222442e2001ba6c6dfa800caaf421da2450b96671ef4422182a7d",
+    "outputLanguage": "Chinese"
+  },
+  "d095a6eb2975b1afe54bd064cf840843520c0ff9c27a20af86b392b1fd829bc5::language:chinese": {
+    "caption": "图中显示两条直线相交成“X”形，交点处标注字母“P”，两条线上各有一个箭头，方向均背离交点向外。图形右侧有一个指向左侧的双线箭头“⇐”，其上方标注字母“f”，表示映射 f 作用于此交叉构形。该图为原书图3.92，与拉开的构造（奇点分解）相关。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:12:56.633Z",
+    "imageHash": "d095a6eb2975b1afe54bd064cf840843520c0ff9c27a20af86b392b1fd829bc5",
+    "outputLanguage": "Chinese"
+  },
+  "c6b3b7b5dcb0115c962a63561aefa98001dbfe896811eceec22770c5ba32a420::language:chinese": {
+    "caption": "无法查看该图像的实际内容（图像数据未能加载），因此无法描述其中的文字、图表或图形元素。根据上下文文件名可知，该图出自《数学指南：实用数学手册》第388页“奇点分解”相关章节，是文档中连续多张插图之一。如需准确描述，请重新提供可读取的图像内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:12:57.781Z",
+    "imageHash": "c6b3b7b5dcb0115c962a63561aefa98001dbfe896811eceec22770c5ba32a420",
+    "outputLanguage": "Chinese"
+  },
+  "f195cf0cf0f585457fd112ebe3b83354e722d5bc2cb5063d6ba1e4afcc226587::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉细节。根据上下文，该图是《数学指南——实用数学手册》第8-388节“奇点分解”中的第二张插图（文件名002），位于同节第一张与第三张插图之间。由于无法确认图中实际呈现的文字、公式或图形结构，此处不作具体描述以免虚构内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:12:58.928Z",
+    "imageHash": "f195cf0cf0f585457fd112ebe3b83354e722d5bc2cb5063d6ba1e4afcc226587",
+    "outputLanguage": "Chinese"
+  },
+  "af646304037d350cb65a4bcbd78f48eeeb0536dc39d96c86338aaa32f96fcacc::language:chinese": {
+    "caption": "图中并排展示两个示意图：左侧为两条实线相交成“X”形，交点处标有一个实心圆点；右侧为一条实线与一条虚线相交，交点处同样标有实心圆点。结合上下文（“奇点分解”章节），该图可能用于说明奇点分解中交叉（如正规交叉）的情形，虚线或表示例外除子。图中无其他文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:13:04.284Z",
+    "imageHash": "af646304037d350cb65a4bcbd78f48eeeb0536dc39d96c86338aaa32f96fcacc",
+    "outputLanguage": "Chinese"
+  },
+  "954c1b637fbe1a8fd18b3cb3c4bac77d7663a01a5438c000ee776a49959a9766::language:chinese": {
+    "caption": "图片显示一行带边框（方框）的中文数学文字，内容为“层 𝒢 在点 x 的茎 𝒢_x.”，其中 𝒢 和 x 均以数学斜体排版，句末带句号。该片段是对“层在一点处的茎”这一概念的标注说明，与前后文中关于戴环层空间 $(X, \\mathcal{G})$ 及其茎 $\\mathcal{G}_x$ 为局部环的讨论相对应。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:14:43.582Z",
+    "imageHash": "954c1b637fbe1a8fd18b3cb3c4bac77d7663a01a5438c000ee776a49959a9766",
+    "outputLanguage": "Chinese"
+  },
+  "89559b7aec261fb8b5bd37ec552074401069f96879da90db9747e15072df88f3::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系：纵轴标注为 Y（向上箭头），横轴标注为 T₃（向右箭头）。坐标系中画有一个倒置的三角形，三个顶点各以黑点标记并标注：左上顶点为 e₂，右上顶点为 e₁，下方顶点为 e₃（位于纵轴负半轴上）。横轴上标有刻度 −1/2 和 1/2，纵轴处有一条虚线段标注数值 1/3，表明上方两顶点位于高度 1/3 处。该图疑似基本粒子（如夸克）在超荷 Y 与同位旋第三分量 T₃ 平面中的权图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:27:48.181Z",
+    "imageHash": "89559b7aec261fb8b5bd37ec552074401069f96879da90db9747e15072df88f3",
+    "outputLanguage": "Chinese"
+  },
+  "528bb5ca6e802d8f5b4e3aed09a72df113897634d24c02dec71917ebc1fa8f80::language:chinese": {
+    "caption": "图片内容无法读取，系统显示为不支持的内容类型（image_url 加载失败），因此无法确认图中实际呈现的文字、公式或图形元素。根据上下文，该图位于介绍 O(n) 实正交矩阵群（满足 U^T U = UU^T = E）及由 det U = 1 构成的子群 SO(n) 的段落之后，出自《数学指南实用数学手册》中“酉几何、希尔伯特空间和基本粒子”部分，推测与该数学定义相关，但具体内容无法验证。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:27:51.503Z",
+    "imageHash": "528bb5ca6e802d8f5b4e3aed09a72df113897634d24c02dec71917ebc1fa8f80",
+    "outputLanguage": "Chinese"
+  },
+  "dde134e38b5a5d85929c27fef4ca1b5a8ea0f946c4b5fc9c6091bd6bc3786a5a::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），因此无法描述其具体视觉细节。根据上下文，该图片位于一段涉及外代数的数学内容之后，前文公式包含基向量楔积（e_1 ∧ e_2、e_2 ∧ e_3、e_3 ∧ e_1）及分量 B^1、B^2、B^3 的展开式，图片可能与该公式或其引用的插图相关，但无法确认。如需准确描述，请提供可正常显示的图片。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:32:23.861Z",
+    "imageHash": "dde134e38b5a5d85929c27fef4ca1b5a8ea0f946c4b5fc9c6091bd6bc3786a5a",
+    "outputLanguage": "Chinese"
+  },
+  "6e80b307cddf228ccf7240e4a5afb045d7a97254e3bd9fa4c39a774904c93708::language:chinese": {
+    "caption": "无法查看该图片内容，系统提示图片格式不受支持，因此无法描述其具体视觉细节。根据上下文推断，该图片位于一段关于规范场理论的文字之后，上下文讨论了将阿贝尔群 $U(1)$ 替换为其他李群（如 $U(2)$ 或 $U(3)$）所得到的非阿贝尔规范场论及其在基本粒子标准模型中的应用。从文件名来看，该图片可能与《数学指南实用数学手册》第395页“对狭义相对论的应用”部分相关，但图片本身的具体内容（如公式、图表或文字）无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:34:56.370Z",
+    "imageHash": "6e80b307cddf228ccf7240e4a5afb045d7a97254e3bd9fa4c39a774904c93708",
+    "outputLanguage": "Chinese"
+  },
+  "6d3c1909e46ea9f7e50a43ccd6136e6f3072717279831ef4c5c45508d37f203e::language:chinese": {
+    "caption": "图中为一个三维坐标系示意图：z轴竖直向上，x轴水平向右，y轴斜向右上方，坐标轴分别标注字母 z、x、y。原点处画有一个实心黑点，其下方标注 Z'。一条曲线从原点出发向右上方延伸并弯曲成一个大环，环的末端带有一个指向左侧（朝向原点方向）的箭头；曲线上有一小段加粗的黑色线段，标注为 Z，并附一个沿曲线方向的箭头，表示该处的方向或切向量。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:34:59.967Z",
+    "imageHash": "6d3c1909e46ea9f7e50a43ccd6136e6f3072717279831ef4c5c45508d37f203e",
+    "outputLanguage": "Chinese"
+  },
+  "ab866ff547e4764d231f3169914abbce7c2bf7d41c487d7eb61fae9c622cc2a0::language:chinese": {
+    "caption": "图中显示一个圆锥形示意图：底部为一个顶点，向上张开成一个椭圆（表示圆周），椭圆上标有希腊字母 φ，并带有一个沿椭圆逆时针方向的箭头。圆锥内部有一条竖直虚线表示中轴，轴上有一个向上的箭头标记为 e。圆锥的左侧棱边标注为 x′，右侧棱边标注为 x。该图与前后文中关于狄拉克算子及阿蒂亚–辛格指标定理的讨论相关联。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:39:23.619Z",
+    "imageHash": "ab866ff547e4764d231f3169914abbce7c2bf7d41c487d7eb61fae9c622cc2a0",
+    "outputLanguage": "Chinese"
+  },
+  "f8dd4af497495f88e0d5087ebd85f3ddb36ec7de3b124a4998fe52475db3d6b7::language:chinese": {
+    "caption": "图片内容未能加载，系统显示“[unsupported content type: image_url]”，因此无法查看或描述该图像的具体内容。根据前后文推测，该图可能出现在讨论重言式 (viii) 的段落之后，该重言式涉及量词逻辑：“若所有对象 x 具有性质 E 不是真的， 则存在一个对象 x, 它不具有性质 E, 并且逆命题也成立”。但由于图像本身不可见，无法确认其中是否包含公式、图表或其他视觉元素。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:45:47.607Z",
+    "imageHash": "f8dd4af497495f88e0d5087ebd85f3ddb36ec7de3b124a4998fe52475db3d6b7",
+    "outputLanguage": "Chinese"
+  },
+  "6a721489f0a78b5fc9cc4fe0625ebac5a4d5a4fa0b89d43f5d857f938a06cafd::language:chinese": {
+    "caption": "图中展示了一个集合论中的文氏图（Venn图），由两个填充为黄色的椭圆相交组成：左侧较大的椭圆标注为 A，右上方较小的圆标注为 B，两者重叠部分同样为黄色。图下方标注有符号 \"A ∪ B\"，表示该图演示的是集合 A 与集合 B 的并集。该图出自数学手册中朴素集合论章节的插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:32.523Z",
+    "imageHash": "6a721489f0a78b5fc9cc4fe0625ebac5a4d5a4fa0b89d43f5d857f938a06cafd",
+    "outputLanguage": "Chinese"
+  },
+  "d6c70c1b1d2d463e4c3383bff0c0776759b21d636a63c8678ad58745a3569b9f::language:chinese": {
+    "caption": "图片内容无法读取，显示为不支持的内容类型，因此无法描述其中的具体文字、图表或图形元素。根据上下文文件名可知，该图片来自《数学指南实用数学手册》中“朴素集合论”章节，是连续多张图片中的第三张（文件名序号003），但周围文本仅为图片引用路径，未提供任何说明性文字或图注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:37.222Z",
+    "imageHash": "d6c70c1b1d2d463e4c3383bff0c0776759b21d636a63c8678ad58745a3569b9f",
+    "outputLanguage": "Chinese"
+  },
+  "3046894bfa6286d5e74e87e6b1e254a3a66ed3c89ddb393543a4eb17ab89e588::language:chinese": {
+    "caption": "该图片是文档“Referenced Local Images（引用的本地图片）”部分中列出的第二张本地图片，文件名为\"002-23180183255ddb87818e204b583a2c5114b7a2d178fcfd68f2cb8037ab487a4e.jpg\"，前后各有一张图片引用（001和003）。根据上下文，该文档出自《数学指南实用数学手册》第8-43节“朴素集合论”部分。由于图片内容未能加载显示，无法确认其中的具体文字、坐标轴数值、图表或图形结构等视觉细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:37.510Z",
+    "imageHash": "3046894bfa6286d5e74e87e6b1e254a3a66ed3c89ddb393543a4eb17ab89e588",
+    "outputLanguage": "Chinese"
+  },
+  "6e2fc4f900d04f3946e501233d8b62a46ce5cac2b3b0f4b902524c222f2fba78::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），无法查看其具体的视觉细节、文字或图形结构。根据上下文，该图位于朴素集合论章节中，紧接“非空集. 交”之后、“由一切属于所有集合 $X_{\\alpha}$ 的元素组成”之前，推测与集合族的交集定义相关。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:39.360Z",
+    "imageHash": "6e2fc4f900d04f3946e501233d8b62a46ce5cac2b3b0f4b902524c222f2fba78",
+    "outputLanguage": "Chinese"
+  },
+  "a7989e2ae964d5471d2539bfa31dbf85d431f105ac113436bed6d5c52fed8f68::language:chinese": {
+    "caption": "该图是一个集合论的文氏图（Venn图），展示两个相交的集合：一个较大的黄色（土黄色）填充椭圆标注为 A，一个较小的白色圆标注为 B，两者部分重叠。图中引线标注：A 指向黄色椭圆区域，B 指向白色圆形区域，A \\ B 指向黄色区域，表示集合 A 减去集合 B 的差集（即属于 A 但不属于 B 的部分，以黄色阴影显示）。该图出自数学手册中朴素集合论部分，用于图示差集运算 A \\ B。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:40.151Z",
+    "imageHash": "a7989e2ae964d5471d2539bfa31dbf85d431f105ac113436bed6d5c52fed8f68",
+    "outputLanguage": "Chinese"
+  },
+  "f36e58f35da44b4a95cf1dee04b96abb22b512ea4ed6dd797d2ef91bf9118507::language:chinese": {
+    "caption": "图片内容未能加载，显示为“[unsupported content type: image_url]”，因此无法查看或描述其具体视觉内容。周围文本仅为文档中的图片文件引用链接（来自《数学指南实用数学手册》第8-43节“朴素集合论”部分），未包含对该图片的说明性文字或图注。基于现有信息无法提供该图片的可靠描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:44.876Z",
+    "imageHash": "f36e58f35da44b4a95cf1dee04b96abb22b512ea4ed6dd797d2ef91bf9118507",
+    "outputLanguage": "Chinese"
+  },
+  "684e3515399315880b8cdec6ce5e22fd13bf227f5918ddd51f19c3021e90b01c::language:chinese": {
+    "caption": "图中展示了一个文氏图（Venn图）：外层的大椭圆表示集合X，一条引线从椭圆边缘指向右下方的字母\"X\"；大椭圆内部包含一个较小的椭圆，其内部标有字母\"A\"，表示子集A包含于集合X中。该图用于朴素集合论中说明集合与其子集的包含关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:45.713Z",
+    "imageHash": "684e3515399315880b8cdec6ce5e22fd13bf227f5918ddd51f19c3021e90b01c",
+    "outputLanguage": "Chinese"
+  },
+  "d06a74660dbd38d2610af44d84cb19f137abad34fd1ac90dbc89f867ae40907c::language:chinese": {
+    "caption": "图中为一个文氏图（Venn图）：一个大的黄色填充椭圆内部包含一个白色椭圆，白色椭圆内标有字母“A”。从黄色区域引出一条线指向右下方的标记“C_X A”，表示集合A在全集X中的补集。该图用于朴素集合论中说明补集的概念。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:45.976Z",
+    "imageHash": "d06a74660dbd38d2610af44d84cb19f137abad34fd1ac90dbc89f867ae40907c",
+    "outputLanguage": "Chinese"
+  },
+  "45afa97535ee72f7ce7e21b810713f01238179a51d52bfdad7e780cd0978fe24::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x，坐标轴以箭头表示方向。一条从原点出发、向右上方弯曲的凸形曲线表示函数 G(h)，曲线右侧有一引线指向标注文字 \"G(h)\"。图形下方标有编号 \"(b)\"，表明这是某组插图中的第二幅子图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:47.286Z",
+    "imageHash": "45afa97535ee72f7ce7e21b810713f01238179a51d52bfdad7e780cd0978fe24",
+    "outputLanguage": "Chinese"
+  },
+  "3d8dd7769bf87797ba77d26efa524d4952e4e930e7757aa35ce13a53d18e8364::language:chinese": {
+    "caption": "图中是一个交换方框图（交换图），四个顶点分别为集合 X、Y、V、Z。顶部水平箭头从 X 指向 Y，标记为 f；左侧竖直箭头从 X 指向 V，标记为 r；右侧竖直箭头从 Y 指向 Z，标记为 g；底部水平箭头从 V 指向 Z，标记为 s。该图表示映射复合关系 r 与 s 的复合等于 f 与 g 的复合（即 s∘r = g∘f），出自朴素集合论部分的数学手册插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:49.711Z",
+    "imageHash": "3d8dd7769bf87797ba77d26efa524d4952e4e930e7757aa35ce13a53d18e8364",
+    "outputLanguage": "Chinese"
+  },
+  "d4357a4f43eb36fab96d7c8bbe2e5a0a2b281fbfa2f1cccd8f5b37372e57b690::language:chinese": {
+    "caption": "该图片未能成功加载，显示为不支持的内容类型，因此无法查看其具体内容。根据文档上下文，此图出自《数学指南——实用数学手册》第8-43节“朴素集合论”部分，是系列插图中的第012张（文件名以012-4393706b开头）。由于图像内容不可见，无法描述其中的文字、坐标轴、图表或图示结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:52.275Z",
+    "imageHash": "d4357a4f43eb36fab96d7c8bbe2e5a0a2b281fbfa2f1cccd8f5b37372e57b690",
+    "outputLanguage": "Chinese"
+  },
+  "8a96216b6ebe58206fbaf2f852e4cefe44a4e852cbcb8b820c54d102865447b8::language:chinese": {
+    "caption": "图中是一个三角形交换图（交换三角形）：三个顶点分别标记为 X、Y、Z，其中 X 位于左上角，Y 位于右上角，Z 位于右下角。从 X 到 Y 有一条水平向右的箭头，标记为 f；从 Y 到 Z 有一条竖直向下的箭头，标记为 g；从 X 到 Z 有一条斜向下的箭头，标记为 h。该图表示映射 f: X→Y、g: Y→Z 与 h: X→Z 之间的复合关系（即 h = g∘f），常见于朴素集合论中映射复合的说明。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:52.876Z",
+    "imageHash": "8a96216b6ebe58206fbaf2f852e4cefe44a4e852cbcb8b820c54d102865447b8",
+    "outputLanguage": "Chinese"
+  },
+  "ad4d2289713bb7e35be102404536f8e97357a3d28345944117603170e42cc599::language:chinese": {
+    "caption": "图片内容未能加载（显示为不支持的内容类型），因此无法描述其具体的视觉细节、文字或图表结构。根据上下文，该图出自《数学指南实用数学手册》第8-43节“朴素集合论”部分，是文档中编号为014的连续插图之一，其前后紧邻同系列的图片文件（013号和015号）。周围文本仅为图片文件路径引用，未提供可用的图注或说明文字。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:56.576Z",
+    "imageHash": "ad4d2289713bb7e35be102404536f8e97357a3d28345944117603170e42cc599",
+    "outputLanguage": "Chinese"
+  },
+  "451da718f50dd73a41a84092b0a3b358abffc2517e84bd93a2dfa5b6a933b6d6::language:chinese": {
+    "caption": "该图是一个数学交换三角形图，包含三个顶点 X、Y、Z。顶部有一条从 X 指向 Y 的水平箭头，标注为 f；右侧有一条从 Y 指向 Z 的竖直箭头，标注为 h；左侧有一条从 X 指向 Z 的对角箭头，标注为 id_X。该图出自朴素集合论部分的手册文档，展示了映射 f、h 与恒等映射 id_X 之间的关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:52:56.757Z",
+    "imageHash": "451da718f50dd73a41a84092b0a3b358abffc2517e84bd93a2dfa5b6a933b6d6",
+    "outputLanguage": "Chinese"
+  },
+  "7b70c5bd30ae4d649703763a4716aeed5feb1f6d365727b65438811a6263679b::language:chinese": {
+    "caption": "图片展示了一个带边框的数学公式：大写乘积符号 ∏ 下方标注下标 α∈A，右侧为 X_α，即笛卡尔积记号 ∏_{α∈A} X_α，表示由指标集 A 索引的集合族 {X_α} 的乘积。该公式来自《数学指南实用数学手册》第8章“朴素集合论”部分，前后均为相邻的公式图片，无其他文字说明。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:53:01.319Z",
+    "imageHash": "7b70c5bd30ae4d649703763a4716aeed5feb1f6d365727b65438811a6263679b",
+    "outputLanguage": "Chinese"
+  },
+  "295bab0450c8851b4c0f98b1a2b6bffad46612642e21f9f423cf38bb8a35ec8b::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉信息（如文字、图表、坐标轴或图形结构）。根据上下文文件路径可知，该图片来自《数学指南实用数学手册》中“朴素集合论”章节，是编号为015的插图，位于014号与016号图片之间。由于无法直接观察图像，无法提供其中可见文本或图形元素的逐字描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:53:02.708Z",
+    "imageHash": "295bab0450c8851b4c0f98b1a2b6bffad46612642e21f9f423cf38bb8a35ec8b",
+    "outputLanguage": "Chinese"
+  },
+  "44c30dbec16db322578b7af22dbac19eec45905613eee9983996eb791b4af2e9::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息。根据上下文，该图片来自《数学指南实用数学手册》第8章“朴素集合论”部分，是文档中连续图片序列（016至018）中的一张。由于无法确认图片中的实际文字、图表或公式内容，无法提供更具体的描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:53:06.794Z",
+    "imageHash": "44c30dbec16db322578b7af22dbac19eec45905613eee9983996eb791b4af2e9",
+    "outputLanguage": "Chinese"
+  },
+  "45ccdbf5346a3fe04dfe5d42ad35ecafdc4b2c8544524a66fa52147191064e70::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉信息，因此无法描述其中的文字、图表或图形元素。根据上下文文件名推断，该图可能出自《数学指南：实用数学手册》中“朴素集合论”一节的第017页插图，但此信息仅为推测，未经图像本身证实。建议重新提供可读取的图片文件以便进行准确描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:53:09.063Z",
+    "imageHash": "45ccdbf5346a3fe04dfe5d42ad35ecafdc4b2c8544524a66fa52147191064e70",
+    "outputLanguage": "Chinese"
+  },
+  "d8f487cbad5ce64d2b234dd1eefd985d1961347a7a3c92b134e8bb3fb09aacf7::language:chinese": {
+    "caption": "该图片未能成功加载，系统提示内容类型不受支持（image_url 无法读取），因此无法确认图中实际呈现的文字、图表或结构。根据上下文，此图位于一段关于现代数理逻辑导论的文字之后，该段落提及文献[349]、受量子论和计算机科学需求影响而建立的多值逻辑，以及与之相应的模糊集合论，但图片与该段文字的具体关联无法核实。为避免虚构信息，此处不对图像内容作进一步描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T13:59:56.433Z",
+    "imageHash": "d8f487cbad5ce64d2b234dd1eefd985d1961347a7a3c92b134e8bb3fb09aacf7",
+    "outputLanguage": "Chinese"
+  },
+  "3d2f33c42ca8c860a9f51007e6639eb9154ef6b02f935d32f1044a57fce9929a::language:chinese": {
+    "caption": "该图片内容未能加载，无法查看其具体内容（显示为不支持的内容类型）。根据上下文推测，此图可能位于一段关于稳态作用原理的数学推导之后，该段文字涉及广义坐标 $q_{j}^{(k)}$（$k = 0, 1, \\cdots, n-1$）在时刻 $t_{0}$ 和 $t_{1}$ 的取值条件。由于图片本身不可见，无法确认其中是否包含公式、图表或其他视觉元素。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:07:41.354Z",
+    "imageHash": "3d2f33c42ca8c860a9f51007e6639eb9154ef6b02f935d32f1044a57fce9929a",
+    "outputLanguage": "Chinese"
+  },
+  "47bbf5b8f1f39b18a334d31211be8f7e600ac1e20f2f94eb21d2e76c17f2d00d::language:chinese": {
+    "caption": "无法读取该图像的实际内容（图像以不支持的格式提供，未能显示）。根据上下文推断，该图出自《数学指南：实用数学手册》第512页“应用”部分，其前后文字列举了若干推导任务，包括“根据爱因斯坦狭义和广义相对论找出粒子迁移运动方程”“找出广义相对论中重力场的基本方程”“导出电动力学中麦克斯韦方程”“导出电子、正电子和光子的基本方程”“导出规范理论和基本粒子的基本方程”等。图像本身的具体文字、图表或结构信息无法确认，故不作臆测描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:29.673Z",
+    "imageHash": "47bbf5b8f1f39b18a334d31211be8f7e600ac1e20f2f94eb21d2e76c17f2d00d",
+    "outputLanguage": "Chinese"
+  },
+  "4b36463d05b45c9ecb19e869e6919e269b23a5fa9b657f4214613556c9f88dc8::language:chinese": {
+    "caption": "图中是一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内画有两条曲线，分别标注为 S₁ 和 S₂，其中 S₁ 位于左下方，S₂ 位于其右上方。曲线上标有两个黑点，每个黑点周围各画有一个虚线圆，虚线圆与曲线相切或密切接触，形似密切圆（曲率圆）的示意图。该图出自数学手册“应用”部分，用于说明曲线与圆的接触关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:33.032Z",
+    "imageHash": "4b36463d05b45c9ecb19e869e6919e269b23a5fa9b657f4214613556c9f88dc8",
+    "outputLanguage": "Chinese"
+  },
+  "0554628313787a50b608a5f1ddb67c9c88011aa6b9b9e9b29e63ad24ccc07269::language:chinese": {
+    "caption": "图片内容未能正常加载，无法查看其具体视觉细节。根据上下文信息，该图出自《数学指南：实用数学手册》第512页“应用”部分，紧接在“方程”一词之后，推测为与方程相关的数学公式、推导或图示内容，但页面中的具体文字、图形结构及数值均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:34.518Z",
+    "imageHash": "0554628313787a50b608a5f1ddb67c9c88011aa6b9b9e9b29e63ad24ccc07269",
+    "outputLanguage": "Chinese"
+  },
+  "f3ad6a075e416198cd3af0fa894051a7d639ce656e8d6a2fce4329957234db97::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉信息。周围文本仅包含图片文件路径引用（media/10-数学指南实用数学手册--6-512-应用--y5w6sn/003-888386cf74a9d5b9f8dd327f6047.jpg），来自《数学指南实用数学手册》文档，但未提供任何可用的图注、标题或说明文字。因此无法对该图像的坐标轴、数值、图表结构或文字内容进行事实性描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:34.808Z",
+    "imageHash": "f3ad6a075e416198cd3af0fa894051a7d639ce656e8d6a2fce4329957234db97",
+    "outputLanguage": "Chinese"
+  },
+  "2cf97185af691fad25a8d72da8246441389642f2c5df1a58ad3c47fcfc7b6d4a::language:chinese": {
+    "caption": "图片内容未能正常加载，显示为不支持的内容类型（image_url），因此无法看到任何可见文字、图表坐标轴、数值、方框或箭头等视觉元素。根据上下文中的文件路径，该图出自《数学指南实用数学手册》一书的“应用”部分（约第512页），但前后文本仅为图片文件引用，未提供图号或说明性文字。由于无法查看实际图像，无法对其具体内容作事实性描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:35.303Z",
+    "imageHash": "2cf97185af691fad25a8d72da8246441389642f2c5df1a58ad3c47fcfc7b6d4a",
+    "outputLanguage": "Chinese"
+  },
+  "e2caf41db69cc4d354c2bd8cc23bcad455854bd4fde8cb424d4b25334137bfae::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标记为 y，横轴标记为 x。原点处有一个实心黑点并标注为 A，横轴上有一刻度标记为 a，纵轴原点下方标注为 −h。一条带箭头的曲线从点 A 出发，先向下再向右弯曲延伸，指向位于第四象限的一个空心圆圈，该点标注为 B，箭头方向表示从 A 到 B 的运动路径。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:42.503Z",
+    "imageHash": "e2caf41db69cc4d354c2bd8cc23bcad455854bd4fde8cb424d4b25334137bfae",
+    "outputLanguage": "Chinese"
+  },
+  "aa7794f6122cfef775ab08b6588ff8bc6e0d6a015ee42d2f4cc4bf8e127d6083::language:chinese": {
+    "caption": "图片内容无法查看，系统提示为不支持的内容类型（unsupported content type: image_url），因此无法描述图中的文字、图表或图形元素。周围文本仅显示来自《数学指南实用数学手册》文档的图片文件引用（如 006-4f2d1024c44f6b03c86775fa1824002eef24692ab9f4b909cbe1ab6204f4a8d9.jpg），未包含任何图注、标题或对该图像内容的说明。基于现有信息无法确认该图像的具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:10:44.900Z",
+    "imageHash": "aa7794f6122cfef775ab08b6588ff8bc6e0d6a015ee42d2f4cc4bf8e127d6083",
+    "outputLanguage": "Chinese"
+  },
+  "dc42c3a5f02bb23e089ba961d64c8e7e3808abde0313928043bc8a60c6c31dc3::language:chinese": {
+    "caption": "图像为一个简图：纵轴标注为 p,横轴标注为 q,构成一个平面直角坐标系。第一象限内画有三条彼此平行的向上弯曲的曲线，每条曲线上均带有一个指向右上方的箭头，表示沿曲线前进的方向。该图类似相空间(p–q 空间)中的轨迹或流线示意图，图中未出现其他文字标注。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:12:17.490Z",
+    "imageHash": "dc42c3a5f02bb23e089ba961d64c8e7e3808abde0313928043bc8a60c6c31dc3",
+    "outputLanguage": "Chinese"
+  },
+  "2fbe48ebb11ffcd23db10f55876234140481a9fe16a5fb3a95b33b9216304b5d::language:chinese": {
+    "caption": "图片内容未能成功加载，系统显示为不支持的内容类型，因此无法看到图中的实际文字、坐标轴、数值或图形结构。根据文件路径可知，该图出自《数学指南：实用数学手册》第6-514节“应用”部分，且其前后紧邻的文本均为另一图片引用（\"解.\"之后直接接图片链接），没有提供可用的图注或说明文字。故无法对该图作具体的事实性描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:13:49.283Z",
+    "imageHash": "2fbe48ebb11ffcd23db10f55876234140481a9fe16a5fb3a95b33b9216304b5d",
+    "outputLanguage": "Chinese"
+  },
+  "4ddc6b8c36c5c697ff0e4b256efcd10d695f14f0db72c1078f31332bb899fde4::language:chinese": {
+    "caption": "图中为一条水平直线表示的一维坐标轴，右端带有指向右侧的箭头。轴上左侧有一短竖线刻度，其上方标注\"0\"作为原点；原点右侧的轴上画有一个实心圆点，表示一个质点，其下方标注\"q(t)\"，表示该点随时间变化的位置坐标。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:13:49.814Z",
+    "imageHash": "4ddc6b8c36c5c697ff0e4b256efcd10d695f14f0db72c1078f31332bb899fde4",
+    "outputLanguage": "Chinese"
+  },
+  "4f6dc0a7c6991f9b74b2e3cb710e2a6fd6196774ddbdd365887b6d7c1a6b9809::language:chinese": {
+    "caption": "图片内容未能加载，无法直接查看其视觉细节。根据上下文，该图出自《数学指南：实用数学手册》一书的“应用”部分，前后均为图片文件引用（如 002-7507406f1a03f13c3efd3716503f94e911cb30d4946c1f348de80ceb264247a1.jpg），无其他说明文字。因此无法确认图中包含的具体文字、坐标轴数值或图表结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:13:53.385Z",
+    "imageHash": "4f6dc0a7c6991f9b74b2e3cb710e2a6fd6196774ddbdd365887b6d7c1a6b9809",
+    "outputLanguage": "Chinese"
+  },
+  "97e58b998b53413b14a0d3672e5cf44ab035187f0c3962ecc2f44e6bb781d658::language:chinese": {
+    "caption": "该图为一个平面直角坐标系示意图，纵轴标注为 q，横轴标注为 t。图中绘有四条自左下向右上弯曲的曲线，每条曲线中部均带有指向右上方的箭头，表示极值曲线族的方向。左下方与右上方各有一个实心黑点，即各条曲线共同通过的两个端点，对应上下文中“极值曲线通过两个焦点（共轭点）”的情形。横轴上有两个刻度标记，均标注为 t₁。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:18:46.137Z",
+    "imageHash": "97e58b998b53413b14a0d3672e5cf44ab035187f0c3962ecc2f44e6bb781d658",
+    "outputLanguage": "Chinese"
+  },
+  "fd1f90e343618aa6d9993da451759c400a6b91d5dd17e83fafaab48dcd303e81::language:chinese": {
+    "caption": "图中为一个坐标系示意图：纵轴标记为 q，横轴标记为 t。图中有四条水平直线，每条线上均带有一个指向右方的箭头，表示沿水平方向向右的流线或向量场。在横轴上标有两个实心圆点，分别记为 t₀ 和 t₁，两点之间的轴线段上也画有向右的箭头。该图出自《数学指南实用数学手册》中“局部极小值的充分条件”一节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:18:47.941Z",
+    "imageHash": "fd1f90e343618aa6d9993da451759c400a6b91d5dd17e83fafaab48dcd303e81",
+    "outputLanguage": "Chinese"
+  },
+  "1266cdaa7e656198b96331cdd85051a0987d27daf6447c45b8519d5f103546c2::language:chinese": {
+    "caption": "该图片未能成功加载（显示为不支持的内容类型），无法直接查看其具体内容。根据上下文可知，此图出自《数学指南实用数学手册》第14-515节“局部极小值的充分条件”，是连续三张引用图片（001、002、003）中的第二张。推测其内容为与局部极小值充分条件相关的数学公式或正文片段，但具体文字、公式和图表细节无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:18:48.771Z",
+    "imageHash": "1266cdaa7e656198b96331cdd85051a0987d27daf6447c45b8519d5f103546c2",
+    "outputLanguage": "Chinese"
+  },
+  "47dab3c4db7b02b98d410266376f085104c9fe27f890477962482ca50542a83b::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。图中绘制了一条开口向上的抛物线，抛物线与 x 轴相交于两点，分别用实心圆点标出并标注为 −a 和 a。在 −a 与 a 之间的区间内抛物线位于 x 轴下方，在此区间之外则位于 x 轴上方，呈现典型的二次函数图像特征。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:24:20.821Z",
+    "imageHash": "47dab3c4db7b02b98d410266376f085104c9fe27f890477962482ca50542a83b",
+    "outputLanguage": "Chinese"
+  },
+  "82e5e33fc2e0aabb380d714a5b9cd8cab9d958507c4f4ecb083f4a38e4fd5c2b::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息。根据上下文，该图片来自一份中文数学文档《数学指南实用数学手册》，是连续图片序列中的第4张（前后分别为编号003和005的图片文件）。周围文本仅为图片文件引用，未包含任何可用的图注、标题或说明文字，因此无法提供图中文字、坐标轴、数值或图表结构等具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:24:23.995Z",
+    "imageHash": "82e5e33fc2e0aabb380d714a5b9cd8cab9d958507c4f4ecb083f4a38e4fd5c2b",
+    "outputLanguage": "Chinese"
+  },
+  "0f14e753cb357c38f5953a32013411e269923e1454ee403d403e6c8ba2c5cc53::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息（系统提示不支持该图片类型）。根据上下文，该图出自《数学指南实用数学手册》的应用（应用）章节，是本节连续图片序列中的第二张（002），其前为以“力.”结尾的正文段落，其后紧接第三张图片（003）。因此仅能确认其在该数学手册文档中的位置关系，无法描述图中的文字、坐标轴、数值或图形结构等细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:24:24.625Z",
+    "imageHash": "0f14e753cb357c38f5953a32013411e269923e1454ee403d403e6c8ba2c5cc53",
+    "outputLanguage": "Chinese"
+  },
+  "2d5d4c7306ea2c49f82f484c352478ad3c15595c4ff651356077096bed59ff87::language:chinese": {
+    "caption": "图片内容无法读取（系统提示不支持该图片类型），因此无法确认图中实际显示的元素。根据上下文推断，该图应出自《数学指南：实用数学手册》第6-517节，与单摆运动方程 r″ = gj − 2λr 相关，其中 −gj 表示重力，−2λr 表示沿摆圆周运动相反方向作用的附加约束力，图示可能为单摆受力示意图，但此为基于前后文字的推测，并非对图像的确认描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:24:25.672Z",
+    "imageHash": "2d5d4c7306ea2c49f82f484c352478ad3c15595c4ff651356077096bed59ff87",
+    "outputLanguage": "Chinese"
+  },
+  "db249636f41c90c94ddc08462c8e1d48a0636ffe9a1499be0d14d959913cc9d8::language:chinese": {
+    "caption": "无法查看该图片的实际内容，系统提示图片内容类型不受支持，因此无法描述其中的文字、图表或图形元素。根据前后文，该图片来自一份名为“数学指南实用数学手册”的文档，位于第6-517节“应用”部分附近，但前后文仅为图片文件名引用（如 63fc0fc092b0e1e198fc2a763f3.jpg 等），未提供任何说明性标题或描述。建议重新以可支持的格式提供图片后再进行描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:24:33.179Z",
+    "imageHash": "db249636f41c90c94ddc08462c8e1d48a0636ffe9a1499be0d14d959913cc9d8",
+    "outputLanguage": "Chinese"
+  },
+  "ea33b53313153e413e5881db45cd9de289c098bfbb3b7f3396d70a326110f860::language:chinese": {
+    "caption": "图 5.17 的示意图：平面直角坐标系，纵轴标注 y，横轴标注 x，纵轴上高度 a 处和横轴上 t₀ 处均有刻度标记。从坐标 (t₀, a) 处的黑点出发，一条带箭头的曲线（光线）指向右上方的一点 P，一条标记为 C 的曲线穿过点 P，表示光线以直角射到曲线 C 上（波前 C 的情形）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:27:52.451Z",
+    "imageHash": "ea33b53313153e413e5881db45cd9de289c098bfbb3b7f3396d70a326110f860",
+    "outputLanguage": "Chinese"
+  },
+  "f69586314f3437505df4055792348ad8b559b9d18285ace40fc7e312b617baf5::language:chinese": {
+    "caption": "图中为一个手绘示意图：一条不规则的闭合曲线围成区域，内部有一条引线标注字母 D，表示该区域。闭合曲线上画有一个沿曲线方向的箭头，表明边界的（逆时针）定向。曲线右侧边界上有一个实心黑点，从该点引出一条指向外部的箭头，标注为粗斜体 n，表示外法线方向。该图应出自《数学指南实用数学手册》中“多变量函数的变分法”一节，用于说明区域 D 及其边界法向量。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:30:43.938Z",
+    "imageHash": "f69586314f3437505df4055792348ad8b559b9d18285ace40fc7e312b617baf5",
+    "outputLanguage": "Chinese"
+  },
+  "bb8414aa84f722405a3b20819d5c4d05b6c5cfa287335008bf213cfba40d9ce1::language:chinese": {
+    "caption": "图像展示了一个三维直角坐标系示意图，纵轴标注为 $z$,水平轴标注为 $x$,斜向轴标注为 $y$,三轴从原点出发。坐标系右上方画有一个不规则形状的闭合区域，区域内部用引线标注为花体字母 $\\mathscr{F}$,其边界曲线用引线标注为 $C$。该图对应正文中关于区域 $D$ 及其边界 $\\partial D$ 上变分法问题的讨论，示意所考虑的区域与边界。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:30:44.068Z",
+    "imageHash": "bb8414aa84f722405a3b20819d5c4d05b6c5cfa287335008bf213cfba40d9ce1",
+    "outputLanguage": "Chinese"
+  },
+  "d717ae107f8d9b735aa6a4ad9b1c7c233e646d8aa0b8e89b71d6034d1242b43a::language:chinese": {
+    "caption": "图片内容无法查看，系统显示为不支持的内容类型，因此无法描述其中的文字、图表或图形细节。根据前后文可知，该图出自《数学指南：实用数学手册》第12章第52节“多变量函数的变分法”部分，是连续插图序列中的第4张（介于003与005号图片之间）。由于周围文本仅为图片文件引用，未包含任何图注或说明文字，无法进一步确认图片的具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:30:44.497Z",
+    "imageHash": "d717ae107f8d9b735aa6a4ad9b1c7c233e646d8aa0b8e89b71d6034d1242b43a",
+    "outputLanguage": "Chinese"
+  },
+  "9481486f5b7a0854ab6bd9500a13dd42f14d78ddd49c6f027853bf196763cf89::language:chinese": {
+    "caption": "该图片内容未能成功加载，无法查看其具体视觉细节。根据文档上下文可知，此图出自《数学指南：实用数学手册》第12章第52节“多变量函数的变分法”部分，是连续排列的多张插图中的第二张（文件名序号介于001与003之间）。由于无法看到图像本身，无法提供其中的公式、图表或文字内容的具体描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:30:50.480Z",
+    "imageHash": "9481486f5b7a0854ab6bd9500a13dd42f14d78ddd49c6f027853bf196763cf89",
+    "outputLanguage": "Chinese"
+  },
+  "5b339239f43ae71cc4c61540defb5bc00bf19b5590018b73365049c6af24894c::language:chinese": {
+    "caption": "图片内容无法加载，系统显示“不支持的内容类型： image_url”，因此无法看到图像的实际内容。根据上下文文件名推断，该图出自《数学指南实用数学手册》第12章“多变量函数的变分法”部分，可能包含该章节的数学公式、图表或示意图，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:30:54.235Z",
+    "imageHash": "5b339239f43ae71cc4c61540defb5bc00bf19b5590018b73365049c6af24894c",
+    "outputLanguage": "Chinese"
+  },
+  "4f963c17bcd2300763b9a081c607cfeb26ef1b655e636a99cea0b7762972cf88::language:chinese": {
+    "caption": "图中显示一条水平数轴，右端标注为 x，轴上标有三个刻度点：−b、0 和 b。在位置 −b 处有一个黑色实心圆点，其上方标注字母 W，并从该点向右画出一个箭头，指向数轴正方向。该图可能用于说明控制问题中状态 W 从 −b 处向右运动的示意。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:34:42.359Z",
+    "imageHash": "4f963c17bcd2300763b9a081c607cfeb26ef1b655e636a99cea0b7762972cf88",
+    "outputLanguage": "Chinese"
+  },
+  "c3aaafea479ec48e0b5b574125cb5a4f3f0091a9482cf1e1fbc33d47ab8eca00::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体画面。根据上下文，该图出自《数学指南：实用数学手册》第7-53节“控制问题”，紧接在推导 $x(t_*)=0$（即小车由加速转为减速的时刻 $t_*$ 必须位于 $x=0$ 处）的文字之后，推测为与该小车运动问题相关的示意图，但图中具体的坐标轴、曲线或标注无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:34:50.393Z",
+    "imageHash": "c3aaafea479ec48e0b5b574125cb5a4f3f0091a9482cf1e1fbc33d47ab8eca00",
+    "outputLanguage": "Chinese"
+  },
+  "7d25d21fac72d877dcb8f5513a8f4fd0e85db1a592fdaa8637db08ab75a587ea::language:chinese": {
+    "caption": "无法查看该图像的实际内容（图像数据不可用），因此无法描述其中的文字、坐标轴、数值或图形结构。根据上下文，该图出自《数学指南：实用数学手册》第11-54节“经典非线性最优化”部分，是文档中连续插图序列（002）中的一张，前后均为同章节的其他插图（003、004）。如需准确描述，请提供可访问的图像内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:38:51.939Z",
+    "imageHash": "7d25d21fac72d877dcb8f5513a8f4fd0e85db1a592fdaa8637db08ab75a587ea",
+    "outputLanguage": "Chinese"
+  },
+  "44aa8a676fae81304c7629ed34d67090586ded109e9ef8b9ac59cd6af9eae13e::language:chinese": {
+    "caption": "图中为一个标注“(b)”的小型数学示意图，属于非线性最优化内容。图中绘制了直角坐标系，纵轴标记为 x₂,横轴标记为 x₁;一条具有负斜率的直线与两坐标轴相交，直线上有一个空心圆点，标记为 x*,并有一条线段从原点连接到该点 x*。该图可能表示约束直线上的最优解点 x* 及其与原点的连线关系。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:38:55.299Z",
+    "imageHash": "44aa8a676fae81304c7629ed34d67090586ded109e9ef8b9ac59cd6af9eae13e",
+    "outputLanguage": "Chinese"
+  },
+  "8a7e433e1d8cbe25f6b6160d1300cc5b6977cb2b914e3632b5086ed352f2dd62::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。图中画有一条 V 形折线（类似绝对值函数图像），其最低点处标有一个实心圆点，同时有一条水平直线穿过该点。横轴上对应最低点位置有一个刻度标记，标注为 x*。该图疑似出自数学手册中经典非线性最优化部分，用于说明函数在 x* 处的不可微点或次梯度概念。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:38:56.056Z",
+    "imageHash": "8a7e433e1d8cbe25f6b6160d1300cc5b6977cb2b914e3632b5086ed352f2dd62",
+    "outputLanguage": "Chinese"
+  },
+  "e6ec914f4f67502a6a5d139afe26712ccc7ba0acbddbd626638b7a505587ade7::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体视觉信息（显示为不支持的内容类型）。根据上下文推断，该图位于《数学指南实用数学手册》第5章“经典非线性最优化”部分，紧接在关于鞍点原理的论述之后，该原理指出 x* 是某方程的解且 y* 是 (5.83) 的解，当且仅当 (x*, y*) 是 L 的一个鞍点。因此该图很可能包含与拉格朗日函数鞍点相关的数学公式或图示，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:38:58.998Z",
+    "imageHash": "e6ec914f4f67502a6a5d139afe26712ccc7ba0acbddbd626638b7a505587ade7",
+    "outputLanguage": "Chinese"
+  },
+  "aaa6742b296b7a4e1ef5064fa4f277a3b74bf842fec6507bc0519799afb08d83::language:chinese": {
+    "caption": "图中是一个平面直角坐标系，横轴为 x、纵轴为 y，原点处标有一个实心圆点。坐标系中画有数条相互平行、斜率为负的直线，其中一条标注为 F = c，表示目标函数的等值线族。第一象限内由 y 轴、x 轴与其中一条平行线围成的三角形区域用斜线阴影填充，表示可行域。图中另有一个双线空心箭头指向左下方，指示目标函数值减小的方向。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:32.406Z",
+    "imageHash": "aaa6742b296b7a4e1ef5064fa4f277a3b74bf842fec6507bc0519799afb08d83",
+    "outputLanguage": "Chinese"
+  },
+  "78c4d88a177436628900f22616e6ded7b70193009b8ef5c2452d3e63c9d215ca::language:chinese": {
+    "caption": "图片内容未能成功加载，无法直接查看其视觉细节。根据上下文，该图片来自《数学指南实用数学手册》第8-55节“线性最优化”部分，是文档中“Referenced Local Images”标题下引用的本地图片之一，位于编号001与003的图片之间（推测为002号图片）。由于无法看到图像本身，无法确认其中包含的具体文字、图表坐标轴、数值或图形结构等信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:34.357Z",
+    "imageHash": "78c4d88a177436628900f22616e6ded7b70193009b8ef5c2452d3e63c9d215ca",
+    "outputLanguage": "Chinese"
+  },
+  "9d9f169c1b94324bfcba2d02bd735c369b8580ef6e02e0f17a05bcbe15e3481d::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体细节。根据上下文文件名，该图出自《数学指南——实用数学手册》第8-55页“线性最优化”一节，是连续图片序列中的第004张（前为003号图片，后为005号图片）。除文件路径信息外，无法确认图中实际包含的文字、坐标轴、数值或图表结构。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:35.521Z",
+    "imageHash": "9d9f169c1b94324bfcba2d02bd735c369b8580ef6e02e0f17a05bcbe15e3481d",
+    "outputLanguage": "Chinese"
+  },
+  "c2aed0270256da502edbe7d80fcf3de462ef740dc1c05ef5e330a75044d74a0a::language:chinese": {
+    "caption": "图中为一个平面直角坐标系示意图，纵轴标注 y,横轴标注 x。一条自左上向右下倾斜的直线与两轴相交，该直线与两坐标轴围成的三角形区域用斜线阴影填充。横轴上有两个实心黑点，一个位于原点处，另一个位于斜线与横轴的交点处，字母 K 带引线指向两黑点之间的横轴线段。结合上下文，此图用于线性最优化一节，示意可行区域(集合 K)。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:36.543Z",
+    "imageHash": "c2aed0270256da502edbe7d80fcf3de462ef740dc1c05ef5e330a75044d74a0a",
+    "outputLanguage": "Chinese"
+  },
+  "d838129c38770a4f7c9b2688353a8ff4bbc78156b4dfe8354b827f95692b66a0::language:chinese": {
+    "caption": "图中为一个直角坐标系，纵轴标注 y，横轴标注 x。纵轴上标有一点 P，从 P 向右引出一条水平线，另有一条斜线从 P 向右下方延伸至 x 轴；斜线下方与 x 轴之间构成的三角形区域用斜线阴影填充，并标注字母 K。该图出自线性最优化章节，示意可行区域 K 及其顶点 P。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:43.594Z",
+    "imageHash": "d838129c38770a4f7c9b2688353a8ff4bbc78156b4dfe8354b827f95692b66a0",
+    "outputLanguage": "Chinese"
+  },
+  "03bc39a256c46012f1370ab1f18b15a52371189d6bbf8b44247ff3f0899ab04e::language:chinese": {
+    "caption": "图像显示一个平面直角坐标系，纵轴标注为 y（向上箭头），横轴标注为 x（向右箭头）。坐标系的左下方有一个用斜线阴影填充的矩形区域，其下边界为 x 轴、左边界为 y 轴、上边界为一条水平直线。字母 K 标注在该水平线上方，并有一条短斜线指向这条水平线，表示该边界线（约束线）记为 K。该图出自线性最优化（线性优化）章节，示意由约束线 K 从上方界定的阴影可行区域。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:45.665Z",
+    "imageHash": "03bc39a256c46012f1370ab1f18b15a52371189d6bbf8b44247ff3f0899ab04e",
+    "outputLanguage": "Chinese"
+  },
+  "87f64290fb435504364be2dbdc0d7d9824b00650fcd21e28a9161f0d3eb5b106::language:chinese": {
+    "caption": "该图片无法正常查看，系统显示为不支持的内容类型（unsupported content type: image_url），因此无法获取图像的实际内容。根据周围文本的文件路径信息，该图片来自《数学指南实用数学手册》第8-55节“线性最优化”部分，位于编号007的图片引用之后、编号008的图片引用之前。由于图像内容不可见，无法描述其中的文字、坐标轴、数值、图表结构或图形元素等具体细节。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:45.788Z",
+    "imageHash": "87f64290fb435504364be2dbdc0d7d9824b00650fcd21e28a9161f0d3eb5b106",
+    "outputLanguage": "Chinese"
+  },
+  "8c833bc21ae9b983ef2ee9788a17ea147144570c1eefa34d0d59eda7d7cab4ff::language:chinese": {
+    "caption": "图像展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。图中有一条从左上向右下倾斜的直线，直线上标有字母 K，直线与 y 轴和 x 轴的交点处各有一个实心圆点标记。该图出自线性最优化（线性规划）相关内容，表示一条以 K 标记的直线及其在两坐标轴上的截距点。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:46.243Z",
+    "imageHash": "8c833bc21ae9b983ef2ee9788a17ea147144570c1eefa34d0d59eda7d7cab4ff",
+    "outputLanguage": "Chinese"
+  },
+  "4b84fab50ed2a9863dafa08c61b20c219427af9fb99da7150fad2c36d913bb69::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型，因此无法查看其具体画面。根据上下文文件名可知，该图出自《数学指南：实用数学手册》中“线性最优化”一节，但无法确认图中是否包含坐标轴、数值、公式或图表等元素。由于无法直接观察图像，不能对其中的可见文字或图形结构作进一步描述。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:50.618Z",
+    "imageHash": "4b84fab50ed2a9863dafa08c61b20c219427af9fb99da7150fad2c36d913bb69",
+    "outputLanguage": "Chinese"
+  },
+  "87bd5aaad813f654e3a0ccde7fff70ce6f11d62a5869ac2f34a26f144c32f536::language:chinese": {
+    "caption": "图中为一个平面直角坐标系示意图，纵轴标注 y，横轴标注 x。在原点位置画有一个实心圆点，从该点沿 x 轴正方向引出一条水平射线，一条斜引线从射线上方指向标注字母 K。该图出自线性最优化章节，用于示意集合 K（一条自原点出发的射线）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:52.097Z",
+    "imageHash": "87bd5aaad813f654e3a0ccde7fff70ce6f11d62a5869ac2f34a26f144c32f536",
+    "outputLanguage": "Chinese"
+  },
+  "692f6e621453d254d0737af1c33c01c8aa52e9c67bbf8a4c0e9b1e90f82bed8d::language:chinese": {
+    "caption": "图中展示了一个三维直角坐标系，纵轴标注为 z，右上方斜轴标注为 y，水平轴标注为 x。坐标系中画有一个带阴影线（斜线填充）的三角形区域，其三个顶点以黑色圆点标出，分别位于 z 轴上、y 轴方向上和 x 轴上。三角形上方标有字母 K，并由一条短线指向该阴影区域，表示该集合记作 K。该图应为线性最优化内容中三维空间内凸集（可行域）的示意图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:40:53.814Z",
+    "imageHash": "692f6e621453d254d0737af1c33c01c8aa52e9c67bbf8a4c0e9b1e90f82bed8d",
+    "outputLanguage": "Chinese"
+  },
+  "fd920e2888ac4662b031fbe4bb251ca2863f3b2da0f3eb150b4fee6ad61bbe19::language:chinese": {
+    "caption": "图片展示了一个线性最优化（运输问题）中的表格，表格由一条竖线和一条横线分隔。竖线右上方自上而下标有数字0和5，其下一行为带方框的20以及5、10、10、5；横线下方左侧两行分别为0与带方框的15、10与带方框的15，中间一列数字为15和5，右侧各列均以短横线（—）填充，底部标有20和一条竖线。带方框的数字（20、15、15）疑似表示供应量或需求量，该表应为线性最优化应用章节中的初始运输表（单纯形表）的一部分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:24.571Z",
+    "imageHash": "fd920e2888ac4662b031fbe4bb251ca2863f3b2da0f3eb150b4fee6ad61bbe19",
+    "outputLanguage": "Chinese"
+  },
+  "698ab153b6b4e289b955a8a34b5abcef0a6e995bcd684867d63507c0347ece8d::language:chinese": {
+    "caption": "图片内容未能正常加载（系统返回\"unsupported content type: image_url\"提示），因此无法确认其具体视觉细节。根据上下文，该图出自《数学指南实用数学手册》第11章“线性最优化的应用”部分，紧接在关于运输算法的说明文字之后，该段文字讲述通过引入ε并作替换步骤去除运输表中的负值、从而避免退化情形的方法。据此推测该图可能为与运输表或ε替换示例相关的表格或图示，但其确切内容（文字、数值、结构）无法核实。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:25.013Z",
+    "imageHash": "698ab153b6b4e289b955a8a34b5abcef0a6e995bcd684867d63507c0347ece8d",
+    "outputLanguage": "Chinese"
+  },
+  "7f7c0d7dc8b045ea7cce4f6ef0dd69ba4c2db3481b414dd11baf4555acb731a1::language:chinese": {
+    "caption": "图中为一个线性最优化（运输问题类）的数值表格，由一条横线和一条竖线分隔成区域。右上区域共五列，自左至右依次为：0、5、10、20（5、10、20加方框）；0、5（5加方框）；0、10（10加方框）；0、10（10加方框）；0、5（5加方框）。左下区域共三行，自上而下为：0、5、15（5、15加方框）；0、5、10、15（5、10、15加方框）；0、10、20（10、20加方框）。右下为3×5数值矩阵：第一行为5、|、10、|、—；第二行为5、5、|、|、5；第三行为10、—、—、10、—，其中竖线“|”和横线“—”表示空缺或无分配的单元格。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:29.463Z",
+    "imageHash": "7f7c0d7dc8b045ea7cce4f6ef0dd69ba4c2db3481b414dd11baf4555acb731a1",
+    "outputLanguage": "Chinese"
+  },
+  "5d4f000644867a0637b115ac83ad4c4c50028d394e374b84f875aa5504359c3c::language:chinese": {
+    "caption": "图中为一个 m×n 的表格（矩阵）示意图，第一行单元格标注 p₁₁、p₁ⱼ、p₁ₙ，第 i 行标注 pᵢ₁、pᵢⱼ、pᵢₙ，第 m 行标注 pₘ₁、pₘⱼ、pₘₙ，中间省略的行列以竖排三点（⋮）表示。表格右侧自上而下标有 u₁、⋮、uᵢ、⋮、uₘ，表格下方标有 v₁、⋯、vⱼ、⋯、vₙ。该结构是线性最优化（如运输问题）中常见的矩阵/表格式布局，行以 uᵢ 标识、列以 vⱼ 标识，交叉单元格为 pᵢⱼ。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:30.356Z",
+    "imageHash": "5d4f000644867a0637b115ac83ad4c4c50028d394e374b84f875aa5504359c3c",
+    "outputLanguage": "Chinese"
+  },
+  "35294b6cff7efe9219fcabbb46f7ff2ee5a6ea9b0536332ea5402be557eb0133::language:chinese": {
+    "caption": "图片内容未能加载，无法查看其具体内容。根据上下文信息，该图片出自《数学指南：实用数学手册》第11章第56节“线性最优化的应用”部分，是文档中连续多张图片（004至006）之间的第5张插图。由于图像数据不可用，无法确认其中包含的图表、坐标轴、数值或文字等具体视觉元素。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:40.434Z",
+    "imageHash": "35294b6cff7efe9219fcabbb46f7ff2ee5a6ea9b0536332ea5402be557eb0133",
+    "outputLanguage": "Chinese"
+  },
+  "00f1e83c01fbcd8dd07c6cbcddd91bc497c560006fc9256b0a504e39d993e209::language:chinese": {
+    "caption": "图中展示由箭头\"→\"连接的两个3行5列表格，表示某种变换前后的状态。左表第一行为\"15\"后接四个空格，第二行为\"5、5、5、空、+\"，第三行为\"空、空、5、10、5\"。右表结构相同，但第二行第三个格变为\"5⁻\"，第三行第三格变为\"5⁺\"，第三行第五格变为\"5⁻\"，即部分数字带上了上标记号。该图出自线性最优化应用相关内容，可能展示运输问题或单纯形表中退化情形的处理。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:40.740Z",
+    "imageHash": "00f1e83c01fbcd8dd07c6cbcddd91bc497c560006fc9256b0a504e39d993e209",
+    "outputLanguage": "Chinese"
+  },
+  "06fde928ec711199e9ee4de9305fb39962c1a238c1c8c35ced2b348f037c982d::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉细节。根据上下文文件路径信息，该图出自《数学指南：实用数学手册》第11-56节“线性最优化的应用”部分，推测为该章节中的插图（编号007）。由于图像本身不可见，无法确认其中的文字、坐标轴、数值或图表结构等具体内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:40.948Z",
+    "imageHash": "06fde928ec711199e9ee4de9305fb39962c1a238c1c8c35ced2b348f037c982d",
+    "outputLanguage": "Chinese"
+  },
+  "e7ddaed4d5087c2cecf65b42a72ef4aa603e89deec69a160deeda13bb24ae988::language:chinese": {
+    "caption": "图中展示两个3行5列的表格，中间由一个向右箭头（→）连接，表示线性优化（运输问题）表上作业法的一次迭代调整。左表第一行为\"15\"，第二行为\"5、5、5⁺、（空）、+\"，第三行为\"（空）、（空）、5⁺、10、5⁻\"；调整后右表第一行仍为\"15\"，第二行为\"5、5、（空）、（空）、5\"，第三行为\"（空）、（空）、10、10、0\"。带正负上标（5⁺、5⁻、+）的标记表示沿闭合回路增减运量的调整过程，最终得到新的基可行解。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:42:43.968Z",
+    "imageHash": "e7ddaed4d5087c2cecf65b42a72ef4aa603e89deec69a160deeda13bb24ae988",
+    "outputLanguage": "Chinese"
+  },
+  "2dc99af4543215cdcbea5d4408ce194140575c8715ee63bcb34e73ec27f1693f::language:chinese": {
+    "caption": "该图为一幅数学示意图：在直角坐标系中画出一条钟形曲线，曲线由带箭头的标注 φ 指示。纵轴标注为 y，横轴标注为 x，横轴上标有两点 a 和 b，曲线下方介于 a 与 b 之间的区域用斜线阴影填充。图中没有其他文字说明，该图形通常用于表示函数 φ 在区间 [a, b] 上的积分（如概率密度曲线下的面积）。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:23.664Z",
+    "imageHash": "2dc99af4543215cdcbea5d4408ce194140575c8715ee63bcb34e73ec27f1693f",
+    "outputLanguage": "Chinese"
+  },
+  "aebb15ded439fcad9c14e5e4ec5ccff2f5adb0d78dbd92a0d7a2c9ba473a2b5a::language:chinese": {
+    "caption": "图像为一个坐标系示意图：纵轴标注 y，横轴标注 x，一条从 y 轴正半轴出发、单调递减并逐渐趋近 x 轴的曲线，曲线旁标注符号 φ。横轴上在原点右侧有一刻度线，标注为 μ。该图疑似表示某概率密度函数（如指数衰减型密度）的示意图，图中可见文字仅有 y、x、φ、μ。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:24.011Z",
+    "imageHash": "aebb15ded439fcad9c14e5e4ec5ccff2f5adb0d78dbd92a0d7a2c9ba473a2b5a",
+    "outputLanguage": "Chinese"
+  },
+  "c424e2eece4b2da65cb3d442abf52426b312554bccc0bb8fde5e59d946ad2a6f::language:chinese": {
+    "caption": "图片内容无法查看（图像数据未成功加载，显示为不支持的内容类型）。根据上下文可知，该图出自《数学指南实用数学手册》第9-61节“基本的随机性”部分，是“Referenced Local Images（引用的本地图片）”系列中的第二张图片（文件名以002开头），前后各有一张同系列图片。除文件路径信息外，无法确认图中的具体文字、图表或图形内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:24.436Z",
+    "imageHash": "c424e2eece4b2da65cb3d442abf52426b312554bccc0bb8fde5e59d946ad2a6f",
+    "outputLanguage": "Chinese"
+  },
+  "8d7efdf1aa075eedb5bc8b1a36e25c2749eae56d5b969b33a129d3870d6da22a::language:chinese": {
+    "caption": "图片内容未能加载，显示为不支持的内容类型，无法查看其具体画面。根据上下文文件路径可知，该图出自《数学指南：实用数学手册》第9章第61节“基本的随机性”部分，位于编号002与004的图片之间，推测为该节中与随机性、概率相关的公式或插图，但具体文字、坐标轴、数值及图形结构均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:26.209Z",
+    "imageHash": "8d7efdf1aa075eedb5bc8b1a36e25c2749eae56d5b969b33a129d3870d6da22a",
+    "outputLanguage": "Chinese"
+  },
+  "429560f1b5b68bd97d990f2522371061b62b21f869a116a4536bc437abfead94::language:chinese": {
+    "caption": "图中展示了一个直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系中散布着若干个数据点（圆点），一条斜向右上方的直线穿过这些点，直线旁标注有中文“回归直线”。该直线与纵轴的交点位于 x 轴下方，交点处标注符号 Ȳ（Y 上带横线），表示回归直线在纵轴上的截距。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:30.776Z",
+    "imageHash": "429560f1b5b68bd97d990f2522371061b62b21f869a116a4536bc437abfead94",
+    "outputLanguage": "Chinese"
+  },
+  "92289698fcc82994d084efe80378d6ec7967edb48d2c1ecf7b2e54f7eadc81c5::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。在 x 轴上，区间端点 a 与 b 处均用圆括号标记，表示开区间 (a, b)。在该区间上方画有一条水平线段，表示常值函数，并从线段右端引出一条向右上方延伸的斜线，标注为 φ，说明函数 φ 在区间 (a, b) 上取常数值。该图出自《数学指南实用数学手册》“基本的随机性”一节，用于示意简单函数（阶梯函数）的形状。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:45:37.397Z",
+    "imageHash": "92289698fcc82994d084efe80378d6ec7967edb48d2c1ecf7b2e54f7eadc81c5",
+    "outputLanguage": "Chinese"
+  },
+  "f188e9ceffec911b9a9a2a922ca355a8e735444501d5b27adb68607a8afb817f::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴顶端标有 y，横轴右端标有 x，两轴上均标有刻度 1。坐标系内画出一个以原点为一角、边长为 1 的正方形区域，引线标注为 E；正方形内部有一个带斜线阴影的圆，引线标注为 A。该图示意样本空间 E（单位正方形）与其中的事件 A（阴影圆），与科尔莫戈罗夫概率论公理化基础的内容相关。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:51:50.387Z",
+    "imageHash": "f188e9ceffec911b9a9a2a922ca355a8e735444501d5b27adb68607a8afb817f",
+    "outputLanguage": "Chinese"
+  },
+  "89295c4ba46d30beb57b2195fdfd75a4d0b824aa7314da860c5f4e4301f07d71::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，横轴为 x、纵轴为 y，两轴上均标有刻度 1。坐标系中画出一个以原点为一角、边长为 1 的正方形区域，由引线标注为 E；正方形内部有一个用斜线阴影填充的不规则闭合区域，由引线标注为 A。该示意图用于说明事件 A 是样本空间 E 的子集，与文档中科尔莫戈罗夫概率论公理化基础的内容相关。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:51:51.531Z",
+    "imageHash": "89295c4ba46d30beb57b2195fdfd75a4d0b824aa7314da860c5f4e4301f07d71",
+    "outputLanguage": "Chinese"
+  },
+  "f874c0b317b9e7a3ade2b70298c2f2d11cf8950237e791b6c902b36f4e2d25f9::language:chinese": {
+    "caption": "图像内容未能加载（显示为不支持的内容类型 image_url），因此无法描述其中的具体文字、图表或图形元素。根据上下文文件名推断，该图出自《数学指南实用数学手册》第18页第62节，主题为“科尔莫戈罗夫的概率论公理化基础”，可能包含与概率论公理相关的公式或图示，但此信息仅为推测，无法从图像本身得到证实。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:51:55.319Z",
+    "imageHash": "f874c0b317b9e7a3ade2b70298c2f2d11cf8950237e791b6c902b36f4e2d25f9",
+    "outputLanguage": "Chinese"
+  },
+  "5d730493d3440551f184930d361ffed309ed0b47340976c71eacd53486de0668::language:chinese": {
+    "caption": "图片内容未能加载，系统显示“[unsupported content type: image_url]”，因此无法看到图像本身的具体内容。根据前后文判断，该图片应位于一段概率论教材内容之后，该段文字讨论了事件 A 与 B 的相互独立性，给出 P(A) = 12/36 = 1/3，P(A∩B) = 2/36 = 1/18，并由此得出 P(A∩B) = P(A)P(B) 的结论。图片可能为该例题（如掷两枚骰子共 36 种结果）的配套表格或图示，但此为推测，图像实际内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:55:16.130Z",
+    "imageHash": "5d730493d3440551f184930d361ffed309ed0b47340976c71eacd53486de0668",
+    "outputLanguage": "Chinese"
+  },
+  "3060c486f13c05c6210f9eb617228d750d1e4dac622de98bda726ced18dfa850::language:chinese": {
+    "caption": "图片内容未能成功加载，无法查看其具体视觉细节。根据上下文，该图位于关于随机变量“矩问题”的讨论之后，前文给出了积分公式 ∫_{-∞}^{∞} x^k dΦ，并讨论了“X 的各阶矩的值能唯一确定其分布函数吗”这一著名问题。由于图像本身不可见，无法确认其中是否包含公式、图表、示意图或其他文字内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:57:54.786Z",
+    "imageHash": "3060c486f13c05c6210f9eb617228d750d1e4dac622de98bda726ced18dfa850",
+    "outputLanguage": "Chinese"
+  },
+  "45b18be6be6f054612d9ed18880db2382768654b4b8c23b9915441b35b5601d0::language:chinese": {
+    "caption": "该图片无法正常显示，系统提示\"unsupported content type: image_url\"，因此无法识别图片中的具体内容。图片前后的文本仅为媒体文件路径引用（如\"media/10-数学指南实用数学手册--8-622-随机变量--1khykov/002-afc9a6c99e2290947090cfbbe60c5a396bb1a7668af7e31c11692691f3402b95.jpg\"等），属于文档中连续排列的图片链接，未包含可用的图注或说明文字。根据文件路径可推断该图出自《数学指南实用数学手册》第8-622节“随机变量”相关内容，但图片本身的具体内容（可见文字、坐标轴数值、图表或框图结构等）均无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:57:55.059Z",
+    "imageHash": "45b18be6be6f054612d9ed18880db2382768654b4b8c23b9915441b35b5601d0",
+    "outputLanguage": "Chinese"
+  },
+  "2b5a101e899c4ac22968208fa4ef9a3fa628d9aa3c47cb4a7806d787fcd55bbc::language:chinese": {
+    "caption": "图中为一条水平数轴，轴上标有五个刻度点，从左至右依次为 x₋₂、x₋₁、x₀、x₁、x₂。上方标注 Δm₁，并由一条斜线指向 x₁ 与 x₂ 之间的区间，表示该区间上的质量增量。该图来自数学手册中关于随机变量的部分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:58:00.107Z",
+    "imageHash": "2b5a101e899c4ac22968208fa4ef9a3fa628d9aa3c47cb4a7806d787fcd55bbc",
+    "outputLanguage": "Chinese"
+  },
+  "6f4929b40bbc3a26531627f2a07b800a5328bfc8cf597ba1413e38ed1d4b3ab3::language:chinese": {
+    "caption": "无法查看该图像的实际内容，系统提示图像内容类型不受支持，因此无法描述其中的文字、图表或图形元素。根据上下文，该图像位于一份中文数学文档中，前后均为图片文件引用路径，文件名包含“数学指南实用数学手册”和“随机变量”等字样，表明文档主题与随机变量相关，但周围文本未提供任何可锚定的图注、编号或说明。基于现有信息，仅能推断这是该数学手册中关于随机变量章节的一张插图，具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:58:01.480Z",
+    "imageHash": "6f4929b40bbc3a26531627f2a07b800a5328bfc8cf597ba1413e38ed1d4b3ab3",
+    "outputLanguage": "Chinese"
+  },
+  "d9573e2f3445a89923182c595b03f300a63e97f9c268e24503ff1287f9251b28::language:chinese": {
+    "caption": "左图是一条水平数轴，其上标有两个实心点，点下方分别标注 x₁ 和 x₂，上方对应标注 p₁ 和 p₂。右图为直角坐标系，纵轴标注 y，横轴标注 x，纵轴上有刻度 p₁ 和 1，横轴上有刻度 x₁ 和 x₂；图中画出一个阶梯状函数：在高度 p₁ 处自 x₁（左端为开口括号符号）至 x₂（右端为竖线）有一水平线段，在高度 1 处自 x₂ 起向右延伸另一水平线段，该线段由带箭头的标注 Φ 指示，右侧用花括号标注 p₂ 表示 p₁ 与 1 之间的竖直间隔。整图展示取两个值的离散随机变量的分布函数 Φ 的阶梯图形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T14:58:01.709Z",
+    "imageHash": "d9573e2f3445a89923182c595b03f300a63e97f9c268e24503ff1287f9251b28",
+    "outputLanguage": "Chinese"
+  },
+  "28e51933b4d2fae2abf5aada721a665635edb54b718f0a3ba0570e5d39a29122::language:chinese": {
+    "caption": "图片内容未能正常加载（系统显示为不支持的内容类型），无法直接查看其具体画面。根据上下文，该图出自《数学指南：实用数学手册》\"随机向量\"一节，紧接在条件期望积分公式（分子为 ∫_{-∞}^{∞} y φ(x, y) dy、分母为 ∫_{-∞}^{∞} φ(x, y) dy 的比值）之后，推测为该节中另一条数学公式的排版截图。对应本地文件名为 002-a7c4210fab4a1f87a74631a0e9060c1ae1e2546d2375b4aad2ef68ff8e3c111c.jpg。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:02:07.683Z",
+    "imageHash": "28e51933b4d2fae2abf5aada721a665635edb54b718f0a3ba0570e5d39a29122",
+    "outputLanguage": "Chinese"
+  },
+  "463d4dbfc553076c0c82aad33357497366edd7218e4f72114136b5811aee93eb::language:chinese": {
+    "caption": "图中展示了一个平面直角坐标系，纵轴标注为 y，横轴标注为 x。坐标系内有一条从左下向右上延伸并逐渐趋平的曲线，曲线上方画有四条竖直虚线，表示在不同 x 位置处的分布。横轴上标有 x₀，对应的一条虚线向上延伸至曲线上以小圆圈标出的点，该点由引线标注为 ȳ(x₀)。该图出自《数学指南实用数学手册》随机向量部分，示意在 x = x₀ 处的条件均值 ȳ(x₀)。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:02:19.397Z",
+    "imageHash": "463d4dbfc553076c0c82aad33357497366edd7218e4f72114136b5811aee93eb",
+    "outputLanguage": "Chinese"
+  },
+  "b5ea411a25f43815da348abc4e3414823a468e9ac00daa382f1bbfed023e551b::language:chinese": {
+    "caption": "图片由两个数学示意图组成。左侧为一条水平数轴，在位置 0、1、2 处各有一个实心点，点上方依次标注 m₀、m₁、m₂。右侧为直角坐标系，横轴 x 上标有 0、1、2、3 四个实心点，纵轴为 y；图中绘有三段水平线段：最低一段起自纵轴附近、止于 x=1 处的实心点，左端标注 m₁，其上方两段分别位于 x=1 至 2 与 x=2 至 3 之间，线段左端带圆弧形开口，右侧用花括号分别标注 m₂ 和 m₃。该图似用于示意取值随位置逐级升高的序列，与前后文所述博雷尔（1909）—坎泰利（1917）强大数定律的极限关系 lim H_n = p 相对应。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:06:48.289Z",
+    "imageHash": "b5ea411a25f43815da348abc4e3414823a468e9ac00daa382f1bbfed023e551b",
+    "outputLanguage": "Chinese"
+  },
+  "2e5ee22796a7293848a37610c2227eab189d022ce0927b09df643f5448d9935e::language:chinese": {
+    "caption": "该图片未能成功加载或显示（系统提示\"unsupported content type: image_url\"），因此无法描述其具体内容。根据上下文，该图位于一段关于函数实现 z = Z(x₁, ..., xₙ, y₁, ..., yₙ) 的数学讨论之后，该段文字提到基本策略中的步骤 (iv) 和 (v) 简化为只考查一个样本函数 Z 并由此推断结论。由于无法查看图像本身，无法提供图中可见的文字、坐标轴、图表结构或其他视觉元素的信息。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:14:39.461Z",
+    "imageHash": "2e5ee22796a7293848a37610c2227eab189d022ce0927b09df643f5448d9935e",
+    "outputLanguage": "Chinese"
+  },
+  "36f1a401aecc8285a2bdab7fecee0b52529f94b732088391dfc7153152c72a35::language:chinese": {
+    "caption": "图像为一个阶梯函数（经验分布函数）示意图：直角坐标系中，纵轴标注为 y，并标出分数刻度 2/10 和 6/10；横轴标注为 x，标出刻度 1、2、3、4。函数曲线呈阶梯状：在区间 [1, 2) 上高度为 2/10，在 [2, 3) 上升至 6/10，在 [3, 4] 上又降回 2/10。该图出自《数学指南实用数学手册》中关于经验分布函数的部分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:22:54.090Z",
+    "imageHash": "36f1a401aecc8285a2bdab7fecee0b52529f94b732088391dfc7153152c72a35",
+    "outputLanguage": "Chinese"
+  },
+  "7cc2ea9a6c2f67ed00cd0918746085b64a032cabc0f5bd4c6e291073fd3f20de::language:chinese": {
+    "caption": "该图片未能成功加载（返回为不支持的内容类型），因此无法查看其具体视觉内容。根据上下文，此图出自《数学指南：实用数学手册》第634页附近“经验分布函数”相关章节，其前文讨论了两种药物疗效差异的假设检验，给出 |20−10|=10>u_α，并在错误概率 α 下断定两种药物疗效非常不同。图片文件名为 002-354abe19951b81d9e9d25dc0306fda3f829de7d0a6c6d28d31b260ed4b5fee53.jpg，推测可能包含与经验分布函数相关的图示或公式，但具体内容无法确认。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:22:58.731Z",
+    "imageHash": "7cc2ea9a6c2f67ed00cd0918746085b64a032cabc0f5bd4c6e291073fd3f20de",
+    "outputLanguage": "Chinese"
+  },
+  "d884b3a9b82f5af45f2e81f22bd7c6f2ca1bbb39307c9fb00e709e3a03f494f4::language:chinese": {
+    "caption": "图中展示了一个坐标系，纵轴标记为 x，横轴标记为 t，横轴上画有一条余弦曲线，曲线旁用引线标注为 cos(2πt/T)。横轴上以等间隔排列着若干实心圆点，表示对连续信号的离散采样，其中相邻两点之间的间隔标注为 T，即周期。该图出自时间序列章节，用于说明对余弦函数 cos(2πt/T) 进行等时间间隔采样。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:34:35.085Z",
+    "imageHash": "d884b3a9b82f5af45f2e81f22bd7c6f2ca1bbb39307c9fb00e709e3a03f494f4",
+    "outputLanguage": "Chinese"
+  },
+  "ac6651c0fdafc56b457f32cac692a51d45aa6ec8135729e7172f2820e36e1f0e::language:chinese": {
+    "caption": "图片内容无法查看，系统显示该图像为不受支持的内容类型，因此无法描述其中的具体文字、图表坐标轴、数值或图形结构。根据上下文文件名信息，该图出自《数学指南：实用数学手册》第8-641节“时间序列”部分，是连续排列的第三张插图（003），前后各有一张同章节的图片。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:34:56.252Z",
+    "imageHash": "ac6651c0fdafc56b457f32cac692a51d45aa6ec8135729e7172f2820e36e1f0e",
+    "outputLanguage": "Chinese"
+  },
+  "c14507a5a2d5c80267fcccbe55bd0c89a689e2a96419736e45a3dd611d1b4391::language:chinese": {
+    "caption": "图中展示了一个坐标系，纵轴标记为 r,横轴标记为 t,纵轴下方标有数值 −1。一条振荡曲线在坐标中波动，曲线上标注了四个点：r₁ 和 r₃ 位于横轴上，r₂ 为波谷(低于横轴)，r₄ 为波峰(高于横轴)，这些点均以空心圆圈表示，曲线两端也各有一个空心圆圈。横轴上还标有三个实心黑点，分布在 r₁ 与 r₃ 之间及 r₃ 右侧。该图出自时间序列章节，可能用于说明时间序列的极值或转折点交替出现的情形。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:35:21.969Z",
+    "imageHash": "c14507a5a2d5c80267fcccbe55bd0c89a689e2a96419736e45a3dd611d1b4391",
+    "outputLanguage": "Chinese"
+  },
+  "4f81ba375985b22fd03f242536402c18ece54c9800639eea5e8472085795e09f::language:chinese": {
+    "caption": "这是一幅时间序列折线图：横轴 t 标有刻度 1820、1830、1840、1850、1860，纵轴 x 上无具体数值标注。图中以黑点标出各时刻的观测值并用线段依次相连，曲线整体在低位附近起伏，并在约1830年、1845年、1854年和1860年附近出现明显的峰值，呈现周期性波动形态。结合上下文，该图出现在关于白噪声的论述之后，属于时间序列部分的示例插图。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:35:23.738Z",
+    "imageHash": "4f81ba375985b22fd03f242536402c18ece54c9800639eea5e8472085795e09f",
+    "outputLanguage": "Chinese"
+  },
+  "6a6dc423370e2b94db59485d0c306e707e47063dd53ba31aabf7c5ec87da6b5a::language:chinese": {
+    "caption": "图中是一幅时间序列自相关函数的示意图：纵轴刻度从−1到1，横轴标注为ln k，刻度值为0、4、8、12。曲线由带圆点的折线组成，标注为r_k（带箭头指向曲线），从k=0处的1开始近似线性下降，约在5附近穿过零点并降至约−0.2，随后回升并在0附近小幅波动（约0.1至0.2），直至约13处。该图出自《数学指南实用数学手册》的时间序列部分。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:35:28.450Z",
+    "imageHash": "6a6dc423370e2b94db59485d0c306e707e47063dd53ba31aabf7c5ec87da6b5a",
+    "outputLanguage": "Chinese"
+  },
+  "a8ecef77412819285884a5aa0daf9b92c9738e8be7d23757bae1b58089ade5f8::language:chinese": {
+    "caption": "图中展示了一个二维坐标系，纵轴标注为 t,横轴标注为 x,原点处有一个实心圆点。从原点出发有一条由折线段构成的锯齿状路径，路径上各转折点均以黑色实心圆点标记，整体呈上下交替、左右摆动的上升走势，顶端以一个指向左上方的箭头结束。该图形象地描绘了布朗运动(随机游走)粒子随时间 t 在位置 x 上的典型轨迹。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:41:55.413Z",
+    "imageHash": "a8ecef77412819285884a5aa0daf9b92c9738e8be7d23757bae1b58089ade5f8",
+    "outputLanguage": "Chinese"
+  },
+  "98d3c5647f1e35fb7995fe89e3a2c34e51814a4e0e7e44c593e46f2876f55052::language:chinese": {
+    "caption": "图片内容无法访问（系统显示为不支持的内容类型），因此无法描述其具体的视觉细节、文字或图表结构。根据上下文，该图位于一段关于费恩曼积分（Feynman积分）在量子场论中应用的文字之后，出自《数学指南：实用数学手册》中“布朗运动与扩散”相关章节，但无法确认图片实际展示的内容。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:41:59.832Z",
+    "imageHash": "98d3c5647f1e35fb7995fe89e3a2c34e51814a4e0e7e44c593e46f2876f55052",
+    "outputLanguage": "Chinese"
+  },
+  "3c6e37faf7bfe7360bdbf146701a256bc9068a59bc0eefbc017b882e2ec1ae33::language:chinese": {
+    "caption": "图像展示了一个二维坐标系，纵轴标记为 $x$，横轴标记为 $t$，两轴均以箭头表示方向。图中有一条光滑连续的曲线，从纵轴上某个正值出发，先上升到一个局部峰值，随后下降至一个局部谷值，再持续上升至较高的水平后趋于平缓并略微下降。结合上下文，该图很可能表示随机过程的一条样本轨道（即 $x$ 关于时间 $t$ 的实现曲线），图中无其他文字标注或数值刻度。",
+    "mimeType": "image/jpeg",
+    "model": "glm-5.3-flash",
+    "capturedAt": "2026-09-27T15:53:43.432Z",
+    "imageHash": "3c6e37faf7bfe7360bdbf146701a256bc9068a59bc0eefbc017b882e2ec1ae33",
+    "outputLanguage": "Chinese"
   }
 }

@@ -68,7 +68,7 @@ tags: [research]
 2. **定理与引理**：de Rham 定理与 Poincaré 引理的标准证明；Hodge–de Rham–Kodaira 分解（即"可缩/闭链条件下闭形式必恰当"的完整陈述）。
 3. **现代分析处理**：Girault–Raviart 的 Stokes 问题专著（Helmholtz 分解与边界条件的系统性讨论）；Amrouche–Bernardi–Dauge、Dautray–Lions 中关于 $\Omega$ 正则性与分解存在性的章节；[6] 中提及的 Tartar 定理原始出处。
 4. **离散/数值版本**：离散 Helmholtz–Hodge 分解（DEC / 有限元外微分），以补足 [7] 的"非单连通域 + Euler–Poincaré 特征"线索。
-5. **与本 wiki 体系的对接**：核实 [4] 引用的公式编号 (1.204b) 是否对应《数学指南——实用数学手册》中尚未入库的小节；若成立，应补入相应 [[sources]] 页面并建立与本节的双向链接。
+5. **与本 wiki 体系的对接**：核实 [4] 引用的公式编号 (1.204b) 是否对应《数学指南——实用数学手册》中尚未入库的小节；若成立，应补入相应 [[sources/10-数学指南实用数学手册--10-0111-重要不等式--1oieswr]] 页面并建立与本节的双向链接。
 
 ---
 
@@ -91,3 +91,6 @@ tags: [research]
 13. [运动学涡度, 极摩尔圆及其在一般剪切带定量分析中的应用](https://journal.geomech.ac.cn/cn/article/pdf/preview/e7cdda5d-0249-4a99-a6e1-14934199b417.pdf) — journal.geomech.ac.cn
 14. [全局线性稳定性的敏感性研究进展](https://lxxb.cstam.org.cn/article/id/7be71734-4871-4e9f-8c21-f875a0e257e3) — lxxb.cstam.org.cn
 15. [基于径向基点插值法的旋转 Mindlin 板高次刚柔耦合动力学模型](https://lxxb.cstam.org.cn/cn/article/doi/10.6052/0459-1879-21-362?viewType=HTML) — lxxb.cstam.org.cn
+
+## Related
+- [[queries/research-补充-1911-节与-helmholtz-分解背景资料-2026-09-27-084556-research-297]]

@@ -106,3 +106,6 @@ tags: [research]
 13. [《 信号与系统》 课程中卷积法的探讨](https://www.hanspub.org/journal/paperinformation?paperID=108852) — hanspub.org
 14. [微分](https://html.rhhz.net/XBDXXBZRKXB/file-2018-10-16-14.html) — html.rhhz.net
 15. [本科微分几何教学的一些探索](https://www.hanspub.org/journal/paperinformation?paperID=32813) — hanspub.org
+
+## Related
+- [[queries/research-1763-子小节内容与功的微分式表述对照-2026-09-27-084202-research-291]]

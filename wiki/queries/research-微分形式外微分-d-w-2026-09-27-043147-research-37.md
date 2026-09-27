@@ -148,5 +148,6 @@ $$\int_M \mathrm{d}\omega = \int_{\partial M}\omega \; \left(= \oint_{\partial M
 15. [數學示例：微分形式的積分](http://chowkafat.net/Math/Integration_form.pdf) — chowkafat.net
 
 ## Related
+- [[queries/research-文献编号-212-对应的微分形式微分几何小节缺页-2026-09-27-120024-research-46]]
 - [[queries/research-17-节各子节正文尚未入库-2026-09-27-074240-research-64]]
 - [[queries/research-分部积分公式高斯定理与高斯-斯托克斯定理的特例层级关系是否自洽-2026-09-27-043003-research-36]]

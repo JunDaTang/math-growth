@@ -51,3 +51,37 @@
 ## 2026-09-27T08:20:09.476Z | 数学指南_实用数学手册/1.14.16 在欧拉伽马函数上的应用.md
 
 1. FILE block with unsafe path "wiki/sources/.gitkeep.md" rejected (must be under wiki/, no .., no absolute paths, and Windows-safe file names).
+
+## 2026-09-27T10:59:17.180Z | 数学指南_实用数学手册/2.6 伽罗瓦理论和代数方程.md
+
+1. Dropped "wiki/queries/26节一般方程定义中z应为q疑似讹误.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/queries".
+2. Dropped "wiki/queries/26节分图方程与某本思想疑似ocr讹误.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/queries".
+
+## 2026-09-27T11:09:48.117Z | 数学指南_实用数学手册/2.7.3 素数分布.md
+
+1. FILE block "wiki/findings/素数定理的误差估计与黎曼陈述.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Dropped "wiki/concepts/重正规化.md" — Pages under "wiki/concepts/" must use type "concept", but found "entity-replacement-placeholder".
+
+## 2026-09-27T11:22:43.235Z | 数学指南_实用数学手册/2.7.7 对数 $ pi$ 的应用.md
+
+1. Dropped "wiki/concepts/韦达乘积公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+2. Dropped "wiki/concepts/沃利斯乘积公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+3. Dropped "wiki/concepts/欧拉乘积公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+4. Dropped "wiki/concepts/梅钦公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+5. Dropped "wiki/concepts/拉马努金公式.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-09-27T14:34:29.255Z | 数学指南_实用数学手册/5.2 多变量函数的变分法.md
+
+1. Dropped "wiki/queries/521节方程546中L的下标qk缺失疑点.md" — body language doesn't match target Chinese.
+
+## 2026-09-27T14:51:41.448Z | 数学指南_实用数学手册/6.1 基本的随机性.md
+
+1. Dropped "wiki/concepts/玻尔兹曼常量.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/concepts".
+
+## 2026-09-27T15:33:38.659Z | 数学指南_实用数学手册/6.4 随机过程.md
+
+1. Dropped "wiki/queries/64节参考文献212再次出现条目信息缺失.md" — Page type "entity" must be under "wiki/entities/". Current directory: "wiki/queries".
+
+## 2026-09-27T16:37:27.255Z | 数学指南_实用数学手册/7.3.1 插值多项式.md
+
+1. FILE block "wiki/findings/7314节插值误差与线性二次三次估计.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.

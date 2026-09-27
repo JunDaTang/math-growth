@@ -114,3 +114,6 @@ tags: [research]
 10. [The direct Flow parametric Proof of Gauss' Divergence Theorem revisited](https://orbit.dtu.dk/en/publications/the-direct-flow-parametric-proof-of-gauss-divergence-theorem-revi/) — orbit.dtu.dk
 11. [代数不变量理论历史演变](https://www.sciengine.com/doi/pdf/813EBA6A4B54456B8CFE48BD10584B83) — sciengine.com
 12. [黎曼猜想与 H 值 138 的奇妙性](https://www.hanspub.org/journal/paperinformation?paperID=29342) — hanspub.org
+
+## Related
+- [[queries/research-高斯gauss缺少人物实体页-2026-09-27-084810-research-300]]
